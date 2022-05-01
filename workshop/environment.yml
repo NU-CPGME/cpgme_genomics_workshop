@@ -1,0 +1,13 @@
+name: cpgme_workshop
+channels:
+  - bioconda
+dependencies:
+  - snippy
+  - ivar
+  - iqtree
+  - mafft
+  - treetime
+  - spades
+  - prokka
+  - blast
+  - trimmomatic
