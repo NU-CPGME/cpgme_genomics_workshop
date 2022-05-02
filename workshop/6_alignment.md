@@ -62,6 +62,7 @@ Extension | Description
 In this section we'll perform an alignment using a viral genome instead. This is somewhat different than the bacterial genome example above. For instance, the viral genome sequencing library was generated using overlapping PCR amplicons (Figure 2). This means some portions of the reads may contain the PCR primer binding sites which will have sequences matching the primer sequences rather than the sequence of the virus you are studying. Other portions of reads from a neighboring amplicon site will have the same regions sequenced but as they are between the primer sites, these sequences will reflect the true virus sequence (hopefully!). So we need to trim primer sequences from the reads after alignment to avoid missing variants.
 
 <img src="../images/tiled_amplicons.png" width=300 />
+
 > Figure 2. Representation of tiled amplicon sequencing strategy. Bright red small boxes are primer binding sites and darker red strips between them represent amplified sequences. 
 
 In this example we'll perform alignment and variant calling of a SARS-CoV-2 viral genome.
