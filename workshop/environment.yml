@@ -1,14 +1,16 @@
 name: cpgme_workshop
 channels:
+  - conda-forge
   - bioconda
 dependencies:
-  - snippy
+  - prokka=1.14.6
+  - snippy=4.6.0
+  - snpEff=4
+  - trimmomatic
+  - spades
+  - blast
+  - quast
   - ivar
   - iqtree
   - mafft
   - treetime
-  - spades
-  - prokka
-  - blast
-  - trimmomatic
-  - quast

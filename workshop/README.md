@@ -2,7 +2,7 @@
 
 ### May 4, 2022
 
-*Egon A. Ozer, MD PhD (<e-ozer@northwestern.edu>)* 
+*Egon A. Ozer, MD PhD (<e-ozer@northwestern.edu>)*  
 *Ramon Lorenzo Redondo, PhD (<ramon.lorenzo@northwestern.edu>)*  
 *Lacy M. Simons (<lacy.simons@northwestern.edu>)* 
 

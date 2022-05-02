@@ -89,15 +89,17 @@ Conda environments can be set up by 1) manually creating a new environment and t
 ```
 conda create \
   -y \
+  -c conda-forge
   -c bioconda \
   -n cpgme_workshop \
-  snippy \
+  prokka=1.14.6 \
+  snippy=4.6.0 \
+  snpEff=4 \
   ivar \
   iqtree \
   mafft \
   treetime \
   spades \
-  prokka \
   blast \
   trimmomatic
 ```
