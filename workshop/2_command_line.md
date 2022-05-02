@@ -1,13 +1,13 @@
-#CPGME Genome Analysis Workshop
+# CPGME Genome Analysis Workshop
 
-###May 4, 2022
+### May 4, 2022
 
 *Egon A. Ozer, MD PhD (<e-ozer@northwestern.edu>)*  
 
-#Microbial Sequence Assembly & Alignment
+# Microbial Sequence Assembly & Alignment
 ---
 
-#Section 2 - Basic command line usage
+# Section 2 - Basic command line usage
 
 * ls
 * cd

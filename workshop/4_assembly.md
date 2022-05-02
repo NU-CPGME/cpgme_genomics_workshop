@@ -1,14 +1,14 @@
-#CPGME Genome Analysis Workshop
+# CPGME Genome Analysis Workshop
 
-###May 4, 2022
+### May 4, 2022
 
 *Egon A. Ozer, MD PhD (<e-ozer@northwestern.edu>)*  
 
-#Microbial Sequence Assembly & Alignment
+# Microbial Sequence Assembly & Alignment
 
-#Section 4 - Genome sequence assembly
+# Section 4 - Genome sequence assembly
 
-###4.1 Read trimming
+### 4.1 Read trimming
 
 Before we assemble, we'll do some very light read trimming. This step removes any Illumina adapter sequences that may have made it into the reads due to read-through of short library fragments. These adapter sequences can sometimes get incorporated into your assembly and cause misassemblies. Better to take the time to remove them prior to assembly. 
 
@@ -51,7 +51,7 @@ Files | Description
 `GAS_trimmed_paired_1.fastq.gz` & `_2.fastq.gz` | Paired reads remaining after trimming
 `GAS_trimmed_unpaired_1.fastq.gz` & `_2.fastq.gz` | Unpaired reads remaining after trimming 
 
--
+---
 
 ### 4.2 Assembly
 
@@ -77,7 +77,7 @@ Setting | Descripton
 
 See [SPAdes manual](https://cab.spbu.ru/files/release3.15.2/manual.html) for version 3.15.2 for more detail on available options.
 
-> <img src="../images/warn.png" width="20"\> **_Note:_** Usually when you are using SPAdes to perform an assembly you'll also want to use the `--careful` setting. This setting reduces mismatches and short indels by aligning reads back to the contigs to check for errors. We are only skipping it here to save processing time in the workshop.
+> <img src="../images/warn.png" width="20" \> **_Note:_** Usually when you are using SPAdes to perform an assembly you'll also want to use the `--careful` setting. This setting reduces mismatches and short indels by aligning reads back to the contigs to check for errors. We are only skipping it here to save processing time in the workshop.
 
 **Outputs**
 
@@ -90,7 +90,7 @@ Files | Description
 `spades.log` | Log file. Useful for troubleshooting poor or failed assemblies.
 `assembly_graph.fasta` | Graph of assembly showing contig connections. May be useful for assembly quality assessment. Can be visualized with a graph viewer like [Bandage](https://rrwick.github.io/Bandage/)  
 
--
+---
 
 ### 4.3 Assembly statistics and quality assesment
 
@@ -103,7 +103,7 @@ After assembly you'll want some sense of the quality of the assembly. This usual
 
 A tool that can be used for calculating these values is [Quast](http://quast.sourceforge.net/quast.html). This software is available as either a command-line program or through an interactive website: <http://cab.cc.spbu.ru/quast/>
 
-> <img src="../images/warn.png" width="20"\> **_NOTE:_** I was planning to use the web version of Quast in this workshop, but lately the website has not been working very well, possibly because it is hosted on a server in Russia. To install the command-line version using Conda, enter the following command within your active "cpgme_workshop" environment: `conda install -c bioconda quast`
+> <img src="../images/warn.png" width="20" \> **_NOTE:_** I was planning to use the web version of Quast in this workshop, but lately the website has not been working very well, possibly because it is hosted on a server in Russia. To install the command-line version using Conda, enter the following command within your active "cpgme_workshop" environment: `conda install -c bioconda quast`
 
 **Commands**
 
@@ -129,9 +129,9 @@ Files | Description
 
 Below is some example output from our assembly viewed in a web browser. 
 
-<img src="../images/quast_example.png"\>
+<img src="../images/quast_example.png" \>
 
--
+---
 
 In the [next section](5_annotation.md) we'll extract some more information from our assembly by annotating the genome and also using Blast to find sequences. 
 
