@@ -1,6 +1,6 @@
-#CPGME Genome Analysis Pre-Workshop Setup
+# CPGME Genome Analysis Pre-Workshop Setup
 
-###May 4, 2022
+### May 4, 2022
 
 *Egon A. Ozer, MD PhD (<e-ozer@northwestern.edu>)*  
 *Ramon Lorenzo Redondo, PhD (<ramon.lorenzo@northwestern.edu>)*  
