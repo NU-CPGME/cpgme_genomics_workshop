@@ -1,0 +1,18 @@
+--- /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/prokka	2022-05-01 21:29:06.000000000 -0500
++++ prokka_patched	2022-05-01 21:29:43.000000000 -0500
+@@ -156,13 +156,13 @@
+   'blastp' => {
+     GETVER  => "blastp -version",
+     REGEXP  => qr/blastp:\s+($BIDEC)/,
+-    MINVER  => "2.2",
++    MINVER  => "2.1",
+     NEEDED  => 1,
+   },
+   'makeblastdb' => {
+     GETVER  => "makeblastdb -version",
+     REGEXP  => qr/makeblastdb:\s+($BIDEC)/,
+-    MINVER  => "2.2",
++    MINVER  => "2.1",
+     NEEDED  => 0,  # only if --proteins used
+   },
+   'tbl2asn' => {
