@@ -252,6 +252,9 @@ Common suffixes for tree files are `.tre` and `.nwk`, but there are others out t
 (COV0536:0.000228603,(COV0118:0.000114239,(COV0074:0.000038079,COV0420:0.000076177)0.997:0.000342946)1.000:0.000342930,(COV1650:0.000114265,COV0415:0.000000005)0.438:0.000000005);
 ```
 
+---
+
+In the next section we'll get started by generating a whole genome assembly: [Genome sequence assembly](4_assembly.md)
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

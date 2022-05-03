@@ -125,7 +125,7 @@ Conda environments can be set up by 1) manually creating a new environment and t
 6.  Next, in your active conda environment, install the updated software packages.  
 
     ```
-    conda install -y -c conda-forge -c bioconda prokka=1.14.6 snippy=4.6.0 snpEff=4 biopython=1.76
+    conda install -y -c conda-forge -c bioconda prokka=1.14.6 snippy=4.6.0 snpEff=4 biopython=1.76 quast
     ```
 
 7. To exit the conda environment, either close your Terminal or type the following command:
@@ -138,7 +138,8 @@ Conda environments can be set up by 1) manually creating a new environment and t
 
 # Next Steps and Troubleshooting
 
-You should now be ready to complete the workshop. If you have any problems with the tasks above, please contact me at <e-ozer@northwestern.edu>.
+You should now be ready to complete the workshop exercies.  
+In the next section, we'll download the example data: [Download example files](1_data_download.md)
 
 ---
 

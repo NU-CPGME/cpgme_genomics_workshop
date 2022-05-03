@@ -8,7 +8,7 @@
 
 # Section 5 - Genome annotation
 
-### 5.1 Genome annotation using prokka
+## 5.1 Genome annotation using prokka
 
 > <img src="../images/warn.png" width="20" /> **_NOTE:_** In some cases there is a problem with the Conda installation of prokka. If you get an error message running prokka that starts with something like: `Can't locate Bio/Root/Version.pm in @INC` then you need to run this command first: `conda env config vars set PERL5LIB=$CONDA_PREFIX/lib/perl5/site_perl/5.22.0/ -n cpgme_workshop`. You should only need to do this once.  
 
@@ -57,7 +57,7 @@ _Adapted from <https://github.com/tseemann/prokka>. Follow the link to see the f
 
 ---
 
-###5.2 Using command line blast to search your assembly
+## 5.2 Using command line blast to search your assembly
 
 [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) (Basic Local Alignment Search Tool) is one of the most important and most widely used bioinformatic tools. The original publication by Altschul et al "[Basic local alignment search tool](https://doi.org/10.1016/s0022-2836(05)80360-2)" has been cited almost 68,000 times since its publication in 1990. As a tool for searching nucleotide or protein sequences, BLAST is uncontested. The web version of the BLAST (<https://blast.ncbi.nlm.nih.gov/Blast.cgi>) has many advantages including a diversity of databases for searching, graphical output, and links to more detailed information on hits, but can suffer from long wait times and limits searchable sequence lengths. Often having the option to perform some BLAST searches on your own computer can be quick and efficient.
 
@@ -264,7 +264,8 @@ Tabular standard output format:
 
 ---
 
-In the next section we'll perform read alignments to compare our sequenced genome to a reference sequence. 
+In the next section we'll perform read alignments to compare our sequenced genome to a reference sequence: [Reference-based alignment](6_alignment.md)
 
 ---
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
