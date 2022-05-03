@@ -89,7 +89,7 @@ Conda environments can be set up by 1) manually creating a new environment and t
 ```
 conda create \
   -y \
-  -c conda-forge
+  -c conda-forge \
   -c bioconda \
   -n cpgme_workshop \
   prokka=1.14.6 \
