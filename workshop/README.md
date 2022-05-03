@@ -1,3 +1,5 @@
+<img src="../images/pathogen-Havey-igh-twitter-header1.jpg" width="100%" />
+
 # CPGME Genome Analysis Workshop
 
 ### May 4, 2022
