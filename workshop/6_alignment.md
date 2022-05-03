@@ -15,7 +15,7 @@
 
 In this section we're going to perform reference-based alignments using the sequencing reads. Alignments can be more sensitive to identifying single nucleotide variants and small insertions or deletions. This is especially the case if you have repeated sequences or mixed populations as might be the case in some viral infections. Also, if your reference is very similar to your sequenced isolate, alignment can allow for greater confidence in variant calls and direct comparisons. 
 
-### 6.1 Bacterial alignment and variant calling with snippy
+## 6.1 Bacterial alignment and variant calling with snippy
 
 We'll start with alignment of the _S. pyogenes_ reads against the reference genome. [Snippy](https://github.com/tseemann/snippy) is a nice "all-in-one" pipeline for generating alignments and using those alignments to determine variants. If you supply a genbank file as the reference sequence, the program will also annnotate the variants, i.e. call synonymous, non-synonymous, or frameshift.
 
@@ -24,9 +24,9 @@ We'll start with alignment of the _S. pyogenes_ reads against the reference geno
 ```
 snippy \
 	--outdir GAS_alignment \
-	--reference GAS_NGAS638.gbk \
-	--R1 GAS_1.fastq.gz \
-	--R2 GAS_2.fastq.gz \
+	--reference reference/GAS_NGAS638.gbk \
+	--R1 reads/GAS_1.fastq.gz \
+	--R2 reads/GAS_2.fastq.gz \
 	--cpus 2
 ```
 
@@ -57,7 +57,7 @@ Extension | Description
 .log | A log file with the commands run and their outputs
 
 
-### 6.2 Viral alignment and variant calling with iVar
+## 6.2 Viral alignment and variant calling with iVar
 
 In this section we'll perform an alignment using a viral genome instead. This is somewhat different than the bacterial genome example above. For instance, the viral genome sequencing library was generated using overlapping PCR amplicons (Figure 2). This means some portions of the reads may contain the PCR primer binding sites which will have sequences matching the primer sequences rather than the sequence of the virus you are studying. Other portions of reads from a neighboring amplicon site will have the same regions sequenced but as they are between the primer sites, these sequences will reflect the true virus sequence (hopefully!). So we need to trim primer sequences from the reads after alignment to avoid missing variants.
 
@@ -76,7 +76,7 @@ Align reads to the reference sequence using `bwa mem` and use `samtools view` an
 
 ```
 bwa mem \
-	ref/nCoV-2019.reference.fasta \
+	reference/nCoV-2019.reference.fasta \
 	reads/COV1650_1.fastq.gz \
 	reads/COV1650_2.fastq.gz | \
 	samtools view -bS -F 4 - | \
@@ -123,7 +123,7 @@ Trim amplification primers from the reads in the alignment using iVar.
 ivar trim \
 	-q 20 \
 	-i COV1650_sorted.bam \
-	-b ref/nCoV-2019.ivar.bed \
+	-b reference/nCoV-2019.ivar.bed \
 	-p COV1650.trimmed
 
 samtools sort -o COV1650.trimmed_sorted.bam COV1650.trimmed.bam
@@ -163,7 +163,7 @@ samtools mpileup \
 	-A \
 	-d 0 \
 	-Q 0 \
-	--reference ref/nCoV-2019.reference.fasta \
+	--reference reference/nCoV-2019.reference.fasta \
 	COV1650.trimmed_sorted.bam \
 	> COV1650.pileup.txt
 
@@ -228,7 +228,7 @@ You can view in the variants.tsv file in your terminal using `less COV1650.varia
 
 The file also includes the columns "GFF_FEATURE", "REF_CODON", "REF_AA", "ALT_CODON", and "ALT_AA" but these will be empty because we didn't give any annotation information to `ivar variants`. 
 
-### 6.3 Viewing alignments with Tablet <img src="../images/tablet.png" width=50 />
+## 6.3 Viewing alignments with Tablet <img src="../images/tablet.png" width=50 />
 
 You can look at bam-formatted alignment files right in your Terminal using the command `samtools view COV1650.trimmed.sorted.bam | less`. Make sure you're piping the output to `less` or else you'll fill your Terminal with thousands of lines. Just a little hint if this happens: you can interrupt a process in your Terminal before it finishes using the _Ctrl-C_ keys.
 

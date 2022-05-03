@@ -10,10 +10,6 @@
 
 ## 5.1 Genome annotation using prokka
 
-> <img src="../images/warn.png" width="20" /> **_NOTE:_** In some cases there is a problem with the Conda installation of prokka. If you get an error message running prokka that starts with something like: `Can't locate Bio/Root/Version.pm in @INC` then you need to run this command first: `conda env config vars set PERL5LIB=$CONDA_PREFIX/lib/perl5/site_perl/5.22.0/ -n cpgme_workshop`. You should only need to do this once.  
-
-> <img src="../images/warn.png" width="20" /> **_NOTE:_** There is unfortunately another potential small problem with the Conda installation of prokka. If you get an error message that reads `Prokka needs blastp 2.2 or higher. Please upgrade and try again.` then please return to Section 1 and follow the instructions to patch the prokka program or let me know if you're still having problems. 
-
 Genome annotation is the process of determining the key features of the genome. This usually incldes identifying gene sequences, but can also include other features such as RNA encoding regions, signal peptides or other important features. The process of annotation is a bit different whether you are working with eukaryotes, prokaryotes, or viruses, but there are a number of programs and applications available to help you with this. One of the best annotation applications for bacteria and archaea is the [NCBI Prokaryotic Genome Annotation Pipeline (PGAP](https://www.ncbi.nlm.nih.gov/genome/annotation_prok/). Automatic PGAP annotation can be requested when depositing genome sequences in NCBI and is ultimately their preferred method of annotation. NCBI has made a version of PGAP available for running on demand on your local computer (<https://github.com/ncbi/pgap>), but it's a bit of a pain to install and maintain. If you want quick and useful annotations of genomes you've sequenced and assembled, the application [prokka](https://github.com/tseemann/prokka) is a pretty good choice.  
 
 **Commands**
@@ -24,7 +20,7 @@ prokka \
     --prefix GAS_example \
     --genus Streptococcus \
     --species pyogenes \
-    --proteins GAS_NGAS638.gbk \
+    --proteins reference/GAS_NGAS638.gbk \
     --compliant \
     --cpus 0 \
     GAS_assembly/contigs.fasta
@@ -69,7 +65,7 @@ A. Search the genome assembly for the fbaA gene sequence. This will generate the
 
 ```
 blastn \
-    -query fbaA.fasta \
+    -query reference/fbaA.fasta \
     -subject GAS_assembly/contigs.fasta 
 ```
  
@@ -77,7 +73,7 @@ B. Search the prokka annotation for the FbaA protein sequence. Here we'll genera
 
 ```
 blastp \
-    -query FbaA.faa \
+    -query reference/FbaA.faa \
     -subject GAS_annotation/GAS_example.faa \
     -outfmt 6
 ```

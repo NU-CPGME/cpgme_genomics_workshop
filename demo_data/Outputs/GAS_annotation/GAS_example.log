@@ -1,0 +1,327 @@
+[18:13:24] This is prokka 1.14.6
+[18:13:24] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[18:13:24] Homepage is https://github.com/tseemann/prokka
+[18:13:24] Local time is Tue May  3 18:13:24 2022
+[18:13:24] You are egon
+[18:13:24] Operating system is darwin
+[18:13:24] You have BioPerl 1.007002
+[18:13:24] System has 8 cores.
+[18:13:24] Will use maximum of 8 cores.
+[18:13:24] Annotating as >>> Bacteria <<<
+[18:13:24] Generating locus_tag from 'GAS_assembly/contigs.fasta' contents.
+[18:13:24] Setting --locustag OIOADCLO from MD5 828adc580c4f98fe035b12c5d961ed2b
+[18:13:24] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[18:13:24] Creating new output folder: GAS_annotation
+[18:13:24] Running: mkdir -p GAS_annotation
+[18:13:24] Using filename prefix: GAS_example.XXX
+[18:13:24] Setting HMMER_NCPU=1
+[18:13:24] Writing log to: GAS_annotation/GAS_example.log
+[18:13:24] Command: /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/prokka --outdir GAS_annotation --prefix GAS_example --genus Streptococcus --species pyogenes --proteins reference/GAS_NGAS638.gbk --compliant --cpus 0 GAS_assembly/contigs.fasta
+[18:13:24] Appending to PATH: /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin
+[18:13:24] Looking for 'aragorn' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/aragorn
+[18:13:25] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[18:13:25] Looking for 'barrnap' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/barrnap
+[18:13:25] Determined barrnap version is 000009 from 'barrnap 0.9'
+[18:13:25] Looking for 'blastp' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/blastp
+[18:13:25] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[18:13:25] Looking for 'cmpress' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/cmpress
+[18:13:25] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[18:13:25] Looking for 'cmscan' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/cmscan
+[18:13:26] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[18:13:26] Looking for 'egrep' - found /usr/bin/egrep
+[18:13:26] Looking for 'find' - found /usr/bin/find
+[18:13:26] Looking for 'grep' - found /usr/bin/grep
+[18:13:26] Looking for 'hmmpress' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/hmmpress
+[18:13:26] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[18:13:26] Looking for 'hmmscan' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/hmmscan
+[18:13:26] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[18:13:26] Looking for 'java' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/java
+[18:13:26] Looking for 'makeblastdb' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/makeblastdb
+[18:13:26] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[18:13:26] Looking for 'minced' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/minced
+[18:13:26] Determined minced version is 004002 from 'minced 0.4.2'
+[18:13:26] Looking for 'parallel' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/parallel
+[18:13:27] Determined parallel version is 20220222 from 'GNU parallel 20220222'
+[18:13:27] Looking for 'prodigal' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/prodigal
+[18:13:27] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[18:13:27] Looking for 'prokka-genbank_to_fasta_db' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/prokka-genbank_to_fasta_db
+[18:13:27] Looking for 'sed' - found /usr/bin/sed
+[18:13:27] Looking for 'tbl2asn' - found /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/tbl2asn
+[18:13:27] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[18:13:27] Using genetic code table 11.
+[18:13:27] Loading and checking input file: GAS_assembly/contigs.fasta
+[18:13:27] Skipping short (<200 bp) contig: NODE_31_length_160_cov_125.333333
+[18:13:27] Skipping short (<200 bp) contig: NODE_32_length_128_cov_211.000000
+[18:13:27] Wrote 30 contigs totalling 1802308 bp.
+[18:13:27] Predicting tRNAs and tmRNAs
+[18:13:27] Running: aragorn -l -gc11  -w GAS_annotation\/GAS_example\.fna
+[18:13:28] 1 tmRNA c[25576,25920] 83,118 AKNTNSYALAA*
+[18:13:28] 2 tRNA-Arg c[288258,288329] 34 (ccg)
+[18:13:28] 3 tRNA-Gln c[289772,289846] 34 (ttg)
+[18:13:28] 4 tRNA-Tyr c[289897,289977] 35 (gta)
+[18:13:28] 1 tRNA-Arg [229845,229916] 34 (cct)
+[18:13:28] 1 tRNA-Ser c[134863,134949] 35 (gga)
+[18:13:28] 1 tRNA-Cys [69952,70022] 33 (gca)
+[18:13:28] 1 tRNA-Val [144,218] 35 (tac)
+[18:13:28] 2 tRNA-Asp [235,307] 34 (gtc)
+[18:13:28] 3 tRNA-Lys [339,411] 34 (ttt)
+[18:13:28] 4 tRNA-Leu [417,498] 35 (tag)
+[18:13:28] 5 tRNA-Thr [509,581] 34 (tgt)
+[18:13:28] 6 tRNA-Ile [616,691] 36 (gat)
+[18:13:28] 7 tRNA-Glu [712,785] 35 (ttc)
+[18:13:28] 8 tRNA-Thr c[33138,33208] 33 (ggt)
+[18:13:28] 1 tRNA-Phe [53,127] 35 (gaa)
+[18:13:28] 2 tRNA-Tyr [146,226] 35 (gta)
+[18:13:28] 3 tRNA-Trp [233,303] 33 (cca)
+[18:13:28] 4 tRNA-His [314,388] 35 (gtg)
+[18:13:28] 5 tRNA-Gln [395,468] 34 (ttg)
+[18:13:28] 6 tRNA-Leu [487,570] 35 (caa)
+[18:13:28] 1 tRNA-Lys c[11857,11931] 35 (ctt)
+[18:13:28] 1 tRNA-Asn c[34937,35012] 36 (gtt)
+[18:13:28] 2 tRNA-Glu c[35043,35117] 35 (ttc)
+[18:13:28] 3 tRNA-Arg [36240,36313] 35 (tct)
+[18:13:28] 1 tRNA-Leu c[1866,1951] 35 (aag)
+[18:13:28] 2 tRNA-Arg c[11565,11638] 35 (acg)
+[18:13:28] 3 tRNA-Asn c[11718,11791] 35 (gtt)
+[18:13:28] 1 tRNA-Ala c[3401,3476] 35 (tgc)
+[18:13:28] 1 tRNA-Ser c[1311,1400] 36 (gct)
+[18:13:28] 2 tRNA-Ile c[1408,1483] 36 (gat)
+[18:13:28] 3 tRNA-Gly c[1517,1587] 33 (tcc)
+[18:13:28] 4 tRNA-Phe c[1599,1673] 35 (gaa)
+[18:13:28] 5 tRNA-Met c[1692,1767] 36 (cat)
+[18:13:28] 6 tRNA-Ser c[1776,1865] 37 (tga)
+[18:13:28] 7 tRNA-Met c[1888,1961] 35 (cat)
+[18:13:28] 8 tRNA-Met c[1981,2056] 36 (cat)
+[18:13:28] 9 tRNA-Pro c[2060,2135] 36 (tgg)
+[18:13:28] 10 tRNA-Arg c[2141,2214] 35 (acg)
+[18:13:28] 11 tRNA-Leu c[2231,2315] 35 (taa)
+[18:13:28] 12 tRNA-Gly c[2324,2395] 33 (gcc)
+[18:13:28] 13 tRNA-Thr c[2408,2480] 34 (tgt)
+[18:13:28] 1 tRNA-Glu [53,126] 35 (ttc)
+[18:13:28] 2 tRNA-Ser [136,225] 37 (tga)
+[18:13:28] 1 tRNA-Gly c[56,128] 34 (tcc)
+[18:13:28] 2 tRNA-Val c[132,206] 35 (tac)
+[18:13:28] 1 tRNA-Pro c[131,206] 36 (tgg)
+[18:13:28] 1 tRNA-Ile c[79,154] 36 (gat)
+[18:13:28] Found 48 tRNAs
+[18:13:28] Predicting Ribosomal RNAs
+[18:13:28] Running Barrnap with 8 threads
+[18:13:28] 1 gnl|Prokka|OIOADCLO_17 11800 5S ribosomal RNA
+[18:13:28] 2 gnl|Prokka|OIOADCLO_18 4 5S ribosomal RNA
+[18:13:28] 3 gnl|Prokka|OIOADCLO_18 205 23S ribosomal RNA
+[18:13:28] 4 gnl|Prokka|OIOADCLO_18 3527 16S ribosomal RNA
+[18:13:28] 5 gnl|Prokka|OIOADCLO_5 15 5S ribosomal RNA
+[18:13:28] Found 5 rRNAs
+[18:13:28] Skipping ncRNA search, enable with --rfam if desired.
+[18:13:28] Total of 52 tRNA + rRNA features
+[18:13:28] Searching for CRISPR repeats
+[18:13:29] CRISPR1 gnl|Prokka|OIOADCLO_1 229706 with 4 spacers
+[18:13:29] CRISPR2 gnl|Prokka|OIOADCLO_5 46178 with 5 spacers
+[18:13:29] Found 2 CRISPRs
+[18:13:29] Predicting coding sequences
+[18:13:29] Contigs total 1802308 bp, so using single mode
+[18:13:29] Running: prodigal -i GAS_annotation\/GAS_example\.fna -c -m -g 11 -p single -f sco -q
+[18:13:31] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|OIOADCLO_2:229879..230073 on - strand
+[18:13:31] Found 1744 CDS
+[18:13:31] Connecting features back to sequences
+[18:13:31] Not using genus-specific database. Try --usegenus to enable it.
+[18:13:31] Preparing user-supplied primary BLAST annotation source: reference/GAS_NGAS638.gbk
+[18:13:31] Guessed source was in genbank format.
+[18:13:31] Converting genbank 'reference/GAS_NGAS638.gbk' into Prokka FASTA 'GAS_annotation/proteins.faa'
+[18:13:31] Running: prokka-genbank_to_fasta_db --format genbank reference\/GAS_NGAS638\.gbk > GAS_annotation\/proteins\.faa 2> /dev/null
+[18:13:33] Running: makeblastdb -dbtype prot -in GAS_annotation\/proteins\.faa -out GAS_annotation\/proteins -logfile /dev/null
+[18:13:33] Using /inference source as 'GAS_NGAS638.gbk'
+[18:13:33] Annotating CDS, please be patient.
+[18:13:33] Will use 8 CPUs for similarity searching.
+[18:13:34] There are still 1744 unannotated CDS left (started with 1744)
+[18:13:34] Will use blast to search against GAS_annotation/proteins with 8 CPUs
+[18:13:34] Running: cat GAS_annotation\/GAS_example\.proteins\.tmp\.54551\.faa | parallel --gnu --plain -j 8 --block 33169 --recstart '>' --pipe blastp -query - -db GAS_annotation/proteins -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GAS_annotation\/GAS_example\.proteins\.tmp\.54551\.blast 2> /dev/null
+[18:13:38] Modify product: DUF1146 family protein => hypothetical protein
+[18:13:38] Modify product: DUF1273 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF4059 family protein => hypothetical protein
+[18:13:38] Modify product: DUF896 family protein => hypothetical protein
+[18:13:38] Modify product: DUF1366 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF4355 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF722 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF2815 family protein => hypothetical protein
+[18:13:38] Modify product: DUF2800 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF956 family protein => hypothetical protein
+[18:13:38] Modify product: DUF948 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF3270 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF4430 domain-containing protein => hypothetical protein
+[18:13:38] Modify product: DUF1934 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1149 family protein => hypothetical protein
+[18:13:39] Modify product: DUF2142 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF2304 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1972 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1803 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF5684 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF2829 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF3397 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF853 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF979 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF969 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF3114 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1836 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1831 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1642 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF2273 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF2130 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: UPF0223 family protein => hypothetical protein
+[18:13:39] Modify product: RsmF rRNA methyltransferase first C-terminal domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF3042 family protein => hypothetical protein
+[18:13:39] Modify product: DUF2969 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF4298 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF402 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1912 family protein => hypothetical protein
+[18:13:39] Modify product: DUF1027 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF3165 family protein => hypothetical protein
+[18:13:39] Modify product: DUF1827 family protein => hypothetical protein
+[18:13:39] Modify product: DUF1033 family protein => hypothetical protein
+[18:13:39] Modify product: prepilin-type N-terminal cleavage/methylation domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF4651 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF4479 and tRNA-binding domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF4097 family beta strand repeat-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1700 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF368 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF1292 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF951 family protein => hypothetical protein
+[18:13:39] Modify product: DUF4044 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF871 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF3284 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF3862 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF2207 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF624 domain-containing protein => hypothetical protein
+[18:13:39] Modify product: DUF536 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF1294 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF1846 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF177 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF975 family protein => hypothetical protein
+[18:13:40] Modify product: Uncharacterized protein involved in cytokinesis, contains TGc (transglutaminase/protease-like) domain => putative protein involved in cytokinesis, contains TGc (transglutaminase/protease-like) domain
+[18:13:40] Modify product: DUF3013 family protein => hypothetical protein
+[18:13:40] Modify product: DUF1129 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF1617 family protein => hypothetical protein
+[18:13:40] Modify product: DUF1366 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF3114 domain-containing protein => hypothetical protein
+[18:13:40] Modify product: DUF3169 family protein => hypothetical protein
+[18:13:40] Cleaned 68 /product names
+[18:13:40] Deleting unwanted file: GAS_annotation/GAS_example.proteins.tmp.54551.faa
+[18:13:40] Deleting unwanted file: GAS_annotation/GAS_example.proteins.tmp.54551.blast
+[18:13:40] There are still 282 unannotated CDS left (started with 1744)
+[18:13:40] Will use blast to search against /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/kingdom/Bacteria/IS with 8 CPUs
+[18:13:40] Running: cat GAS_annotation\/GAS_example\.IS\.tmp\.54551\.faa | parallel --gnu --plain -j 8 --block 3227 --recstart '>' --pipe blastp -query - -db /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GAS_annotation\/GAS_example\.IS\.tmp\.54551\.blast 2> /dev/null
+[18:13:43] Deleting unwanted file: GAS_annotation/GAS_example.IS.tmp.54551.faa
+[18:13:43] Deleting unwanted file: GAS_annotation/GAS_example.IS.tmp.54551.blast
+[18:13:43] There are still 274 unannotated CDS left (started with 1744)
+[18:13:43] Will use blast to search against /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/kingdom/Bacteria/AMR with 8 CPUs
+[18:13:43] Running: cat GAS_annotation\/GAS_example\.AMR\.tmp\.54551\.faa | parallel --gnu --plain -j 8 --block 3130 --recstart '>' --pipe blastp -query - -db /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GAS_annotation\/GAS_example\.AMR\.tmp\.54551\.blast 2> /dev/null
+[18:13:47] Deleting unwanted file: GAS_annotation/GAS_example.AMR.tmp.54551.faa
+[18:13:47] Deleting unwanted file: GAS_annotation/GAS_example.AMR.tmp.54551.blast
+[18:13:47] There are still 274 unannotated CDS left (started with 1744)
+[18:13:47] Will use blast to search against /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/kingdom/Bacteria/sprot with 8 CPUs
+[18:13:47] Running: cat GAS_annotation\/GAS_example\.sprot\.tmp\.54551\.faa | parallel --gnu --plain -j 8 --block 3130 --recstart '>' --pipe blastp -query - -db /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GAS_annotation\/GAS_example\.sprot\.tmp\.54551\.blast 2> /dev/null
+[18:13:52] Modify product: Putative acetyltransferase SA2342 => Putative acetyltransferase
+[18:13:52] Modify product: Uncharacterized protein YbdM => putative protein YbdM
+[18:13:52] Cleaned 2 /product names
+[18:13:52] Deleting unwanted file: GAS_annotation/GAS_example.sprot.tmp.54551.faa
+[18:13:52] Deleting unwanted file: GAS_annotation/GAS_example.sprot.tmp.54551.blast
+[18:13:52] There are still 259 unannotated CDS left (started with 1744)
+[18:13:52] Will use hmmer3 to search against /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/hmm/HAMAP.hmm with 8 CPUs
+[18:13:52] Running: cat GAS_annotation\/GAS_example\.HAMAP\.hmm\.tmp\.54551\.faa | parallel --gnu --plain -j 8 --block 2825 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /Users/egon/opt/anaconda3/envs/cpgme_workshop/db/hmm/HAMAP.hmm /dev/stdin > GAS_annotation\/GAS_example\.HAMAP\.hmm\.tmp\.54551\.hmmer3 2> /dev/null
+[18:13:57] Deleting unwanted file: GAS_annotation/GAS_example.HAMAP.hmm.tmp.54551.faa
+[18:13:57] Deleting unwanted file: GAS_annotation/GAS_example.HAMAP.hmm.tmp.54551.hmmer3
+[18:13:57] Deleting unwanted file: GAS_annotation/proteins.psq
+[18:13:57] Deleting unwanted file: GAS_annotation/proteins.phr
+[18:13:57] Deleting unwanted file: GAS_annotation/proteins.pin
+[18:13:57] Labelling remaining 253 proteins as 'hypothetical protein'
+[18:13:57] Possible /pseudo 'phosphate ABC transporter ATP-binding protein PstB' at gnl|Prokka|OIOADCLO_1 position 66381
+[18:13:57] Possible /pseudo 'ABC transporter permease' at gnl|Prokka|OIOADCLO_1 position 80051
+[18:13:57] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at gnl|Prokka|OIOADCLO_1 position 148648
+[18:13:57] Possible /pseudo 'SDR family NAD(P)-dependent oxidoreductase' at gnl|Prokka|OIOADCLO_1 position 165291
+[18:13:57] Possible /pseudo 'ABC transporter permease' at gnl|Prokka|OIOADCLO_1 position 187660
+[18:13:57] Possible /pseudo 'type II CRISPR RNA-guided endonuclease Cas9' at gnl|Prokka|OIOADCLO_1 position 234159
+[18:13:57] Possible /pseudo 'purine-nucleoside phosphorylase' at gnl|Prokka|OIOADCLO_1 position 307862
+[18:13:57] Possible /pseudo 'GTP pyrophosphokinase family protein' at gnl|Prokka|OIOADCLO_1 position 327147
+[18:13:57] Possible /pseudo 'glycoside hydrolase family 73 protein' at gnl|Prokka|OIOADCLO_1 position 339393
+[18:13:57] Possible /pseudo 'iron ABC transporter permease' at gnl|Prokka|OIOADCLO_2 position 17974
+[18:13:57] Possible /pseudo 'glycosyltransferase family 4 protein' at gnl|Prokka|OIOADCLO_2 position 105992
+[18:13:57] Possible /pseudo 'Cof-type HAD-IIB family hydrolase' at gnl|Prokka|OIOADCLO_2 position 148255
+[18:13:57] Possible /pseudo 'U32 family peptidase' at gnl|Prokka|OIOADCLO_2 position 166363
+[18:13:57] Possible /pseudo '(S)-acetoin forming diacetyl reductase' at gnl|Prokka|OIOADCLO_2 position 211012
+[18:13:57] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at gnl|Prokka|OIOADCLO_3 position 188091
+[18:13:57] Possible /pseudo 'YitT family protein' at gnl|Prokka|OIOADCLO_4 position 17613
+[18:13:57] Possible /pseudo 'YitT family protein' at gnl|Prokka|OIOADCLO_4 position 18534
+[18:13:57] Possible /pseudo 'cupin domain-containing protein' at gnl|Prokka|OIOADCLO_5 position 30275
+[18:13:57] Possible /pseudo 'LacI family transcriptional regulator' at gnl|Prokka|OIOADCLO_5 position 66260
+[18:13:57] Possible /pseudo 'competence protein ComG' at gnl|Prokka|OIOADCLO_6 position 19489
+[18:13:57] Possible /pseudo 'LysR family transcriptional regulator' at gnl|Prokka|OIOADCLO_6 position 43518
+[18:13:57] Possible /pseudo 'ABC transporter ATP-binding protein' at gnl|Prokka|OIOADCLO_7 position 4688
+[18:13:57] Possible /pseudo 'ABC transporter permease' at gnl|Prokka|OIOADCLO_7 position 6321
+[18:13:57] Possible /pseudo 'ABC transporter ATP-binding protein' at gnl|Prokka|OIOADCLO_8 position 1756
+[18:13:57] Possible /pseudo 'ABC transporter permease' at gnl|Prokka|OIOADCLO_8 position 3761
+[18:13:57] Possible /pseudo 'sensor histidine kinase' at gnl|Prokka|OIOADCLO_8 position 52581
+[18:13:57] Possible /pseudo 'ABC transporter ATP-binding protein/permease' at gnl|Prokka|OIOADCLO_8 position 62146
+[18:13:57] Possible /pseudo 'insulinase family protein' at gnl|Prokka|OIOADCLO_11 position 17729
+[18:13:57] Possible /pseudo 'sugar ABC transporter permease' at gnl|Prokka|OIOADCLO_12 position 28643
+[18:13:57] Possible /pseudo 'sugar ABC transporter permease' at gnl|Prokka|OIOADCLO_12 position 32247
+[18:13:57] Found 491 unique /gene codes.
+[18:13:57] Fixed 2 duplicate /gene - nrdE_1 nrdE_2
+[18:13:57] Fixed 2 duplicate /gene - cas9_1 cas9_2
+[18:13:57] Fixed 2 duplicate /gene - pstB_1 pstB_2
+[18:13:57] Fixed 2 duplicate /gene - scl1_1 scl1_2
+[18:13:57] Fixed 3 duplicate /gene - lepB_1 lepB_2 lepB_3
+[18:13:57] Fixed 2 duplicate /gene - yycF_1 yycF_2
+[18:13:57] Fixed 2 duplicate /gene - cas2_1 cas2_2
+[18:13:57] Fixed 2 duplicate /gene - deoD_1 deoD_2
+[18:13:57] Fixed 2 duplicate /gene - yaaA_1 yaaA_2
+[18:13:57] Fixed 2 duplicate /gene - rpmG_1 rpmG_2
+[18:13:57] Fixed 2 duplicate /gene - lacD_1 lacD_2
+[18:13:57] Fixed 2 duplicate /gene - msrB_1 msrB_2
+[18:13:57] Fixed 2 duplicate /gene - lacA_1 lacA_2
+[18:13:57] Fixed 2 duplicate /gene - pepF_1 pepF_2
+[18:13:57] Fixed 2 duplicate /gene - asnS_1 asnS_2
+[18:13:57] Fixed 2 duplicate /gene - lacB_1 lacB_2
+[18:13:57] Fixed 2 duplicate /gene - tadA_1 tadA_2
+[18:13:57] Fixed 2 duplicate /gene - pbp3_1 pbp3_2
+[18:13:57] Fixed 2 duplicate /gene - purR_1 purR_2
+[18:13:57] Fixed 2 duplicate /gene - nrdF_1 nrdF_2
+[18:13:57] Fixed 2 duplicate /gene - cas1_1 cas1_2
+[18:13:57] Fixed 2 duplicate /gene - nrdI_1 nrdI_2
+[18:13:57] Fixed 2 duplicate /gene - prsA_1 prsA_2
+[18:13:57] Fixed 2 duplicate /gene - rlmD_1 rlmD_2
+[18:13:57] Fixed 2 duplicate /gene - nra_1 nra_2
+[18:13:57] Fixed 25 colliding /gene names.
+[18:13:57] Adding /locus_tag identifiers
+[18:13:57] Assigned 1797 locus_tags to CDS and RNA features.
+[18:13:57] Writing outputs to GAS_annotation/
+[18:13:58] Generating annotation statistics file
+[18:13:58] Generating Genbank and Sequin files
+[18:13:58] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z GAS_annotation\/GAS_example\.err -i GAS_annotation\/GAS_example\.fsa 2> /dev/null
+[18:14:02] Deleting unwanted file: GAS_annotation/errorsummary.val
+[18:14:02] Deleting unwanted file: GAS_annotation/GAS_example.dr
+[18:14:02] Deleting unwanted file: GAS_annotation/GAS_example.fixedproducts
+[18:14:02] Deleting unwanted file: GAS_annotation/GAS_example.ecn
+[18:14:02] Deleting unwanted file: GAS_annotation/GAS_example.val
+[18:14:02] Repairing broken .GBK output that tbl2asn produces...
+[18:14:02] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < GAS_annotation\/GAS_example\.gbf > GAS_annotation\/GAS_example\.gbk
+[18:14:02] Deleting unwanted file: GAS_annotation/GAS_example.gbf
+[18:14:02] Output files:
+[18:14:02] GAS_annotation/GAS_example.txt
+[18:14:02] GAS_annotation/GAS_example.sqn
+[18:14:02] GAS_annotation/GAS_example.tbl
+[18:14:02] GAS_annotation/GAS_example.gff
+[18:14:02] GAS_annotation/GAS_example.err
+[18:14:02] GAS_annotation/GAS_example.tsv
+[18:14:02] GAS_annotation/GAS_example.fna
+[18:14:02] GAS_annotation/GAS_example.ffn
+[18:14:02] GAS_annotation/GAS_example.log
+[18:14:02] GAS_annotation/GAS_example.gbk
+[18:14:02] GAS_annotation/GAS_example.gbf-r
+[18:14:02] GAS_annotation/GAS_example.fsa
+[18:14:02] GAS_annotation/GAS_example.faa
+[18:14:02] Annotation finished successfully.
+[18:14:02] Walltime used: 0.63 minutes
+[18:14:02] If you use this result please cite the Prokka paper:
+[18:14:02] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[18:14:02] Type 'prokka --citation' for more details.
+[18:14:02] Thank you, come again.

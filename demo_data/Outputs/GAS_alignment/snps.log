@@ -1,0 +1,103 @@
+### echo snippy 4.6.0
+### cd /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data
+
+### /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/snippy --outdir GAS_alignment --reference reference/GAS_NGAS638.gbk --R1 reads/GAS_1.fastq.gz --R2 reads/GAS_2.fastq.gz --cpus 2
+
+### samtools faidx reference/ref.fa
+
+
+### bwa index reference/ref.fa
+
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.38 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.13 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index reference/ref.fa
+[main] Real time: 0.582 sec; CPU: 0.555 sec
+
+### mkdir -p reference/genomes && cp -f reference/ref.fa reference/genomes/ref.fa
+
+
+### ln -sf reference/ref.fa .
+
+
+### ln -sf reference/ref.fa.fai .
+
+
+### mkdir -p reference/ref && gzip -c reference/ref.gff > reference/ref/genes.gff.gz
+
+
+### snpEff build -c reference/snpeff.config -dataDir . -gff3 ref
+
+WARNING: All frames are zero! This seems rather odd, please check that 'frame' information in your 'genes' file is accurate.
+
+### bwa mem  -Y -M -R '@RG\tID:GAS_alignment\tSM:GAS_alignment' -t 2 reference/ref.fa /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/reads/GAS_1.fastq.gz /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/reads/GAS_2.fastq.gz | samclip --max 10 --ref reference/ref.fa.fai | samtools sort -n -l 0 -T /private/var/folders/_y/xcfyj_8j2bn77l4jqc29p9rc0000gn/T --threads 0 -m 8000M | samtools fixmate -m --threads 0 - - | samtools sort -l 0 -T /private/var/folders/_y/xcfyj_8j2bn77l4jqc29p9rc0000gn/T --threads 0 -m 8000M | samtools markdup -T /private/var/folders/_y/xcfyj_8j2bn77l4jqc29p9rc0000gn/T --threads 0 -r -s - - > snps.bam
+
+COMMAND: samtools markdup -T /private/var/folders/_y/xcfyj_8j2bn77l4jqc29p9rc0000gn/T --threads 0 -r -s - -
+READ: 558254
+WRITTEN: 544292
+EXCLUDED: 39574
+EXAMINED: 518680
+PAIRED: 499236
+SINGLE: 19444
+DUPLICATE PAIR: 4136
+DUPLICATE SINGLE: 9826
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 13962
+DUPLICATE TOTAL: 13962
+ESTIMATED_LIBRARY_SIZE: 14981752
+
+### samtools index snps.bam
+
+
+### fasta_generate_regions.py reference/ref.fa.fai 607112 > reference/ref.txt
+
+
+### freebayes-parallel reference/ref.txt 2 -p 2 -P 0 -C 2 -F 0.05 --min-coverage 10 --min-repeat-entropy 1.0 -q 13 -m 60 --strict-vcf   -f reference/ref.fa snps.bam > snps.raw.vcf
+
+
+### bcftools view --include 'FMT/GT="1/1" && QUAL>=100 && FMT/DP>=10 && (FMT/AO)/(FMT/DP)>=0' snps.raw.vcf  | vt normalize -r reference/ref.fa - | bcftools annotate --remove '^INFO/TYPE,^INFO/DP,^INFO/RO,^INFO/AO,^INFO/AB,^FORMAT/GT,^FORMAT/DP,^FORMAT/RO,^FORMAT/AO,^FORMAT/QR,^FORMAT/QA,^FORMAT/GL' > snps.filt.vcf
+
+
+### snpEff ann -noLog -noStats -no-downstream -no-upstream -no-utr -c reference/snpeff.config -dataDir . ref snps.filt.vcf > snps.vcf
+
+
+### /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/snippy-vcf_to_tab --gff reference/ref.gff --ref reference/ref.fa --vcf snps.vcf > snps.tab
+
+Loading reference: reference/ref.fa
+Loaded 1 sequences.
+Loading features: reference/ref.gff
+Parsing variants: snps.vcf
+Converted 11650 SNPs to TAB format.
+
+### /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/snippy-vcf_extract_subs snps.filt.vcf > snps.subs.vcf
+
+
+### bcftools convert -Oz -o snps.vcf.gz snps.vcf
+
+
+### bcftools index -f snps.vcf.gz
+
+
+### bcftools consensus --sample GAS_alignment -f reference/ref.fa -o snps.consensus.fa snps.vcf.gz
+
+Applied 11650 variants
+
+### bcftools convert -Oz -o snps.subs.vcf.gz snps.subs.vcf
+
+
+### bcftools index -f snps.subs.vcf.gz
+
+
+### bcftools consensus --sample GAS_alignment -f reference/ref.fa -o snps.consensus.subs.fa snps.subs.vcf.gz
+
+Applied 13905 variants
+
+### rm -f snps.subs.vcf.gz snps.subs.vcf.gz.csi snps.subs.vcf.gz.tbi
+

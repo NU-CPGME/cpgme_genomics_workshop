@@ -1,0 +1,11 @@
+DateTime	2022-05-03T18:15:12
+ReadFiles	/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/reads/GAS_1.fastq.gz /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/reads/GAS_2.fastq.gz
+Reference	/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/reference/GAS_NGAS638.gbk
+ReferenceSize	1791401
+Software	snippy 4.6.0
+Variant-COMPLEX	1310
+Variant-DEL	143
+Variant-INS	118
+Variant-MNP	161
+Variant-SNP	9918
+VariantTotal	11650

@@ -1,0 +1,510 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Mac OS X 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    FSMC02FR0FUMD6R (AVX2, FMA3, 64 GB RAM)
+Command: iqtree2 -s env.fasta -T AUTO -alrt 1000 -redo
+Seed:    363991 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon May  2 16:33:16 2022
+Kernel:  AVX+FMA - auto-detect threads (16 CPU cores detected)
+
+Reading alignment file env.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+WARNING: 124 sites contain only gaps or ambiguous characters.
+Alignment has 294 sequences with 2859 columns, 678 distinct patterns
+286 parsimony-informative, 311 singleton sites, 2262 constant sites
+                             Gap/Ambiguity  Composition  p-value
+   1  703010505_TF                  11.12%    passed     99.80%
+   2  703010505_w4_31_KC247583      11.75%    passed     99.95%
+   3  703010505_w4_27_KC247580      11.75%    passed     99.92%
+   4  703010505_w4_03_KC247557      11.12%    passed     99.93%
+   5  703010505_w4_51_KC247602      11.12%    passed     99.66%
+   6  703010505_w4_19_KC247572      11.12%    passed     99.80%
+   7  703010505_w4_46_KC247597      11.12%    passed     99.76%
+   8  703010505_w4_44_KC247595      11.12%    passed     99.89%
+   9  703010505_w4_43_KC247594      11.12%    passed     99.89%
+  10  703010505_w4_21_KC247574      11.12%    passed     99.89%
+  11  703010505_w4_49_KC247600      11.12%    passed     99.80%
+  12  703010505_w4_23_KC247576      11.12%    passed     99.80%
+  13  703010505_w4_04_KC247558      11.12%    passed     99.80%
+  14  703010505_w4_28_KC247581      11.12%    passed     99.80%
+  15  703010505_w4_48_KC247599      11.12%    passed     99.80%
+  16  703010505_w4_52_KC247603      11.12%    passed     99.80%
+  17  703010505_w4_33_KC247585      11.12%    passed     99.80%
+  18  703010505_w4_18_KC247571      11.12%    passed     99.80%
+  19  703010505_w4_20_KC247573      11.12%    passed     99.80%
+  20  703010505_w4_34_KC247586      11.12%    passed     99.80%
+  21  703010505_w4_55_KC247605      11.12%    passed     99.80%
+  22  703010505_w4_45_KC247596      11.12%    passed     99.80%
+  23  703010505_w4_25_KC247578      11.12%    passed     99.80%
+  24  703010505_w4_02_KC247556      11.12%    passed     99.80%
+  25  703010505_w4_24_KC247577      11.12%    passed     99.80%
+  26  703010505_w4_42_KC247593      11.12%    passed     99.80%
+  27  703010505_w4_59_KC247607      11.12%    passed     99.80%
+  28  703010505_w4_39_KC247590      11.12%    passed     99.80%
+  29  703010505_w4_22_KC247575      11.12%    passed     99.80%
+  30  703010505_w4_05_KC247559      11.12%    passed     99.80%
+  31  703010505_w4_32_KC247584      11.12%    passed     99.80%
+  32  703010505_w4_40_KC247591      11.12%    passed     99.80%
+  33  703010505_w4_16_KC247570      11.12%    passed     99.63%
+  34  703010505_w4_14_KC247568      11.12%    passed     99.65%
+  35  703010505_w4_41_KC247592      11.12%    passed     99.65%
+  36  703010505_w4_11_KC247565      11.12%    passed     99.87%
+  37  703010505_w4_09_KC247563      11.12%    passed     99.65%
+  38  703010505_w4_37_KC247588      11.12%    passed     99.89%
+  39  703010505_w4_12_KC247566      11.12%    passed     99.89%
+  40  703010505_w4_50_KC247601      11.12%    passed     99.65%
+  41  703010505_w4_13_KC247567      11.12%    passed     99.89%
+  42  703010505_w4_56_KC247606      11.12%    passed     99.65%
+  43  703010505_w4_26_KC247579      11.12%    passed     99.63%
+  44  703010505_w4_29_KC247582      11.12%    passed     99.89%
+  45  703010505_w4_07_KC247561      11.12%    passed     99.89%
+  46  703010505_w4_36_KC247587      11.12%    passed     99.76%
+  47  703010505_w4_54_KC247604      11.12%    passed     99.41%
+  48  703010505_w4_10_KC247564      11.12%    passed     99.61%
+  49  703010505_w4_47_KC247598      11.12%    passed     99.61%
+  50  703010505_w4_61_KC247608      11.12%    passed     99.61%
+  51  703010505_w4_15_KC247569      11.12%    passed     99.77%
+  52  703010505_w4_06_KC247560      11.26%    passed     99.04%
+  53  703010505_w4_08_KC247562      11.75%    passed     99.92%
+  54  703010505_w4_38_KC247589      11.86%    passed     99.67%
+  55  703010505_w14_29_KC247447     11.12%    passed     99.82%
+  56  703010505_w14_3_KC247448      11.12%    passed     99.05%
+  57  703010505_w14_33_KC247452     11.12%    passed     98.94%
+  58  703010505_w14_32_KC247451     11.12%    passed     98.94%
+  59  703010505_w14_22_KC247446     11.16%    passed     99.52%
+  60  703010505_w14_34_KC247453     11.12%    passed     99.41%
+  61  703010505_w14_16_KC247440     11.12%    passed     99.61%
+  62  703010505_w14_31_KC247450     11.12%    passed     99.61%
+  63  703010505_w14_4_KC247457      11.12%    passed     99.41%
+  64  703010505_w14_6_KC247458      11.12%    passed     99.35%
+  65  703010505_w14_20_KC247444     11.12%    passed     99.12%
+  66  703010505_w14_39_KC247456     11.12%    passed     99.12%
+  67  703010505_w14_30_KC247449     11.12%    passed     99.80%
+  68  703010505_w14_19_KC247442     11.09%    passed     99.87%
+  69  703010505_w14_2_KC247443      11.12%    passed     99.97%
+  70  703010505_w14_17_KC247441     11.19%    passed     99.40%
+  71  703010505_w14_21_KC247445     11.12%    passed     99.80%
+  72  703010505_w14_11_KC247436     11.12%    passed     99.87%
+  73  703010505_w14_10_KC247435     11.12%    passed     99.87%
+  74  703010505_w14_15_KC247439     11.12%    passed     99.87%
+  75  703010505_w14_13_KC247438     11.12%    passed     99.95%
+  76  703010505_w14_12_KC247437     11.09%    passed     99.93%
+  77  703010505_w14_8_KC247459      11.12%    passed     99.95%
+  78  703010505_w14_36_KC247455     22.35%    passed     49.11%
+  79  703010505_w14_35_KC247454     22.35%    passed     49.11%
+  80  703010505_w20_10_KC247484     22.35%    passed     46.93%
+  81  703010505_w20_33_KC247504     22.32%    passed     50.22%
+  82  703010505_w20_2_KC247491      11.79%    passed     99.37%
+  83  703010505_w20_36_KC247506     11.12%    passed     98.71%
+  84  703010505_w20_22_KC247493     11.12%    passed     99.97%
+  85  703010505_w20_12_KC247486     11.12%    passed     98.51%
+  86  703010505_w20_7_KC247509      11.12%    passed     99.71%
+  87  703010505_w20_26_KC247497     11.12%    passed     99.46%
+  88  703010505_w20_4_KC247507      11.12%    passed     99.77%
+  89  703010505_w20_30_KC247502     11.12%    passed     99.92%
+  90  703010505_w20_8_KC247510      11.12%    passed     99.69%
+  91  703010505_w20_27_KC247498     11.12%    passed     99.69%
+  92  703010505_w20_14_KC247488     11.12%    passed     99.86%
+  93  703010505_w20_15_KC247489     11.12%    passed     99.65%
+  94  703010505_w20_29_KC247500     11.12%    passed     99.55%
+  95  703010505_w20_11_KC247485     11.12%    passed     97.07%
+  96  703010505_w20_32_KC247503     11.12%    passed     97.07%
+  97  703010505_w20_23_KC247494     11.12%    passed     99.08%
+  98  703010505_w20_24_KC247495     11.12%    passed     99.60%
+  99  703010505_w20_9_KC247511      11.23%    passed     99.39%
+ 100  703010505_w20_21_KC247492     11.23%    passed     99.90%
+ 101  703010505_w20_6_KC247508      11.30%    passed     99.79%
+ 102  703010505_w20_19_KC247490     10.60%    passed     99.95%
+ 103  703010505_w20_25_KC247496     10.60%    passed     99.89%
+ 104  703010505_w20_13_KC247487     10.60%    passed     99.79%
+ 105  703010505_w20_34_KC247505     10.60%    passed     99.94%
+ 106  703010505_w20_28_KC247499     10.39%    passed     99.62%
+ 107  703010505_w20_3_KC247501      10.39%    passed     99.32%
+ 108  703010505_w22_20_KC247521     10.39%    passed     99.82%
+ 109  703010505_w22_6_KC247523      10.60%    passed     99.92%
+ 110  703010505_w22_7_KC247524      10.60%    passed     99.92%
+ 111  703010505_w22_10_KC247513     10.77%    passed     99.87%
+ 112  703010505_w22_11_KC247514     10.81%    passed     99.59%
+ 113  703010505_w22_13_KC247515     10.81%    passed     99.59%
+ 114  703010505_w22_16_KC247517     10.81%    passed     99.81%
+ 115  703010505_w22_17_KC247518     10.70%    passed     99.92%
+ 116  703010505_w22_18_KC247519     10.70%    passed    100.00%
+ 117  703010505_w22_1_KC247512      10.70%    passed     99.98%
+ 118  703010505_w22_5_KC247522      10.70%    passed     99.90%
+ 119  703010505_w22_19_KC247520     10.74%    passed     99.92%
+ 120  703010505_w22_15_KC247516     11.12%    passed     99.93%
+ 121  703010505_w22_9_KC247525      11.23%    passed     99.97%
+ 122  703010505_w30_22_KC247536     12.31%    passed     98.52%
+ 123  703010505_w30_11_KC247527     11.61%    passed     99.86%
+ 124  703010505_w30_20_KC247541      9.97%    passed     99.67%
+ 125  703010505_w30_12_KC247528     10.81%    passed     99.63%
+ 126  703010505_w30_17_KC247532     10.60%    passed     99.61%
+ 127  703010505_w30_31_KC247545     10.49%    passed     99.70%
+ 128  703010505_w30_6_KC247552      10.49%    passed     99.97%
+ 129  703010505_w30_7_KC247553      10.53%    passed     99.93%
+ 130  703010505_w30_8_KC247554      10.49%    passed     99.97%
+ 131  703010505_w30_25_KC247542     10.49%    passed     99.82%
+ 132  703010505_w30_21_KC247535     10.70%    passed     99.96%
+ 133  703010505_w30_18_KC247533     10.70%    passed     99.52%
+ 134  703010505_w30_24_KC247538     10.81%    passed     99.97%
+ 135  703010505_w30_9_KC247555      10.49%    passed     99.42%
+ 136  703010505_w30_36_KC247549     10.49%    passed     99.93%
+ 137  703010505_w30_5_KC247551      10.49%    passed     99.96%
+ 138  703010505_w30_37_KC247550     10.39%    passed     99.85%
+ 139  703010505_w30_27_KC247540     10.39%    passed     99.85%
+ 140  703010505_w30_34_KC247548     10.39%    passed     99.77%
+ 141  703010505_w30_23_KC247537     10.39%    passed     99.84%
+ 142  703010505_w30_15_KC247531     10.39%    passed     99.92%
+ 143  703010505_w30_30_KC247544     10.39%    passed     98.22%
+ 144  703010505_w30_33_KC247547     10.39%    passed     99.76%
+ 145  703010505_w30_26_KC247539     11.02%    passed     99.84%
+ 146  703010505_w30_10_KC247526     11.12%    passed     99.77%
+ 147  703010505_w30_28_KC247543     11.12%    passed     99.82%
+ 148  703010505_w30_13_KC247529     11.12%    passed     99.55%
+ 149  703010505_w30_19_KC247534     10.28%    passed     99.93%
+ 150  703010505_w30_32_KC247546      9.86%    passed     99.99%
+ 151  703010505_w30_14_KC247530     13.05%    passed     97.91%
+ 152  703010505_w53_15_KC247614     11.12%    passed     99.88%
+ 153  703010505_w53_27_KC247623     11.12%    passed     99.88%
+ 154  703010505_w53_3_KC247626      11.12%    passed     99.89%
+ 155  703010505_w53_17_KC247616     11.16%    passed     99.81%
+ 156  703010505_w53_30_KC247627     10.28%    passed     99.91%
+ 157  703010505_w53_2_KC247618      28.89%    passed     32.70%
+ 158  703010505_w53_10_KC247610     10.39%    passed     99.21%
+ 159  703010505_w53_29_KC247625     10.91%    passed     99.64%
+ 160  703010505_w53_14_KC247613     10.60%    passed     99.90%
+ 161  703010505_w53_6_KC247631      11.12%    passed     99.97%
+ 162  703010505_w53_25_KC247622      9.76%    passed     98.35%
+ 163  703010505_w53_19_KC247617     10.70%    passed     98.63%
+ 164  703010505_w53_22_KC247620      9.76%    passed     99.73%
+ 165  703010505_w53_8_KC247632      10.60%    passed     99.48%
+ 166  703010505_w53_24_KC247621     10.60%    passed     99.80%
+ 167  703010505_w53_31_KC247628     10.70%    passed     99.50%
+ 168  703010505_w53_9_KC247633       9.76%    passed     99.67%
+ 169  703010505_w53_32_KC247629      9.76%    passed     99.67%
+ 170  703010505_w53_21_KC247619     11.23%    passed     99.38%
+ 171  703010505_w53_11_KC247611      9.76%    passed     99.77%
+ 172  703010505_w53_16_KC247615      9.76%    passed     99.54%
+ 173  703010505_w53_4_KC247630      11.54%    passed     98.26%
+ 174  703010505_w53_13_KC247612      9.44%    passed     99.14%
+ 175  703010505_w53_1_KC247609       9.76%    passed     99.21%
+ 176  703010505_w53_28_KC247624      9.44%    passed     98.75%
+ 177  703010505_w78_42_KC247661      9.76%    passed     97.26%
+ 178  703010505_w78_6_KC247664       9.76%    passed     97.00%
+ 179  703010505_w78_34_KC247653      9.65%    passed     91.98%
+ 180  703010505_w78_16_KC247638      9.76%    passed     96.55%
+ 181  703010505_w78_36_KC247655     10.18%    passed     92.81%
+ 182  703010505_w78_32_KC247651      9.76%    passed     97.27%
+ 183  703010505_w78_41_KC247660      9.44%    passed     97.57%
+ 184  703010505_w78_4_KC247658       9.23%    passed     94.72%
+ 185  703010505_w78_25_KC247644      9.13%    passed     96.80%
+ 186  703010505_w78_9_KC247667       9.34%    passed     98.68%
+ 187  703010505_w78_26_KC247645      9.44%    passed     98.29%
+ 188  703010505_w78_29_KC247647      9.55%    passed     95.32%
+ 189  703010505_w78_5_KC247663       8.81%    passed     94.97%
+ 190  703010505_w78_30_KC247649     10.07%    passed     95.02%
+ 191  703010505_w78_33_KC247652     10.91%    passed     95.22%
+ 192  703010505_w78_39_KC247657     11.23%    passed     99.99%
+ 193  703010505_w78_35_KC247654     10.81%    passed     99.19%
+ 194  703010505_w78_3_KC247648      10.49%    passed     99.84%
+ 195  703010505_w78_23_KC247643     10.49%    passed     99.46%
+ 196  703010505_w78_17_KC247639     10.49%    passed     99.28%
+ 197  703010505_w78_31_KC247650     10.49%    passed     99.79%
+ 198  703010505_w78_22_KC247642     10.49%    passed     99.68%
+ 199  703010505_w78_1_KC247634      10.49%    passed     99.51%
+ 200  703010505_w78_15_KC247637     10.81%    passed     99.85%
+ 201  703010505_w78_27_KC247646     10.60%    passed     99.52%
+ 202  703010505_w78_18_KC247640     10.60%    passed     99.65%
+ 203  703010505_w78_20_KC247641     10.39%    passed     99.89%
+ 204  703010505_w78_10_KC247635     10.39%    passed     99.89%
+ 205  703010505_w78_38_KC247656     10.39%    passed     99.90%
+ 206  703010505_w78_43_KC247662      9.86%    passed     98.91%
+ 207  703010505_w78_8_KC247666       9.76%    passed     98.44%
+ 208  703010505_w78_14_KC247636      9.76%    passed     98.44%
+ 209  703010505_w78_7_KC247665       9.76%    passed     98.44%
+ 210  703010505_w78_40_KC247659      9.76%    passed     98.97%
+ 211  703010505_w100_C2_KC247395    10.70%    passed     99.82%
+ 212  703010505_w100_T3_KC247401    10.60%    passed     99.88%
+ 213  703010505_w100_A6_KC247383    10.70%    passed     99.82%
+ 214  703010505_w100_A12_KC247377   10.70%    passed     98.97%
+ 215  703010505_w100_C1_KC247394    10.60%    passed     99.96%
+ 216  703010505_w100_A9_KC247385    10.63%    passed     99.73%
+ 217  703010505_w100_A7_KC247384    10.60%    passed     99.60%
+ 218  703010505_w100_A4_KC247381    10.60%    passed     99.03%
+ 219  703010505_w100_B10_KC247386   10.60%    passed     99.58%
+ 220  703010505_w100_A10_KC247375   10.60%    passed     99.57%
+ 221  703010505_w100_A3_KC247380     9.86%    passed     99.22%
+ 222  703010505_w100_B8_KC247392     9.86%    passed     99.57%
+ 223  703010505_w100_B2_KC247387    10.07%    passed     99.48%
+ 224  703010505_w100_B4_KC247389     9.44%    passed     99.77%
+ 225  703010505_w100_C7_KC247398     8.92%    passed     97.06%
+ 226  703010505_w100_T2_KC247400    10.28%    passed     97.82%
+ 227  703010505_w100_b7_KC247402    10.07%    passed     95.80%
+ 228  703010505_w100_A11_KC247376   10.07%    passed     97.17%
+ 229  703010505_w100_B5_KC247390     9.30%    passed     94.16%
+ 230  703010505_w100_C3_KC247396     9.34%    passed     95.61%
+ 231  703010505_w100_B3_KC247388     9.34%    passed     95.61%
+ 232  703010505_w100_A5_KC247382     9.34%    passed     94.13%
+ 233  703010505_w100_A2_KC247379     9.34%    passed     94.16%
+ 234  703010505_w100_C4_KC247397     9.34%    passed     94.16%
+ 235  703010505_w100_B6_KC247391     9.34%    passed     91.18%
+ 236  703010505_w100_A13_KC247378    9.34%    passed     87.23%
+ 237  703010505_w100_B9_KC247393     9.34%    passed     95.19%
+ 238  703010505_w100_T1_KC247399     9.97%    passed     93.00%
+ 239  703010505_w136_B1_KC247403     7.03%    passed     99.81%
+ 240  703010505_w136_B19_KC247410   12.07%    passed     99.23%
+ 241  703010505_w136_B10_KC247404   10.60%    passed     99.12%
+ 242  703010505_w136_B27_KC247418   10.60%    passed     99.88%
+ 243  703010505_w136_B12_KC247406   10.60%    passed     99.97%
+ 244  703010505_w136_B16_KC247408   10.53%    passed     99.86%
+ 245  703010505_w136_T2_KC247434    10.60%    passed     99.78%
+ 246  703010505_w136_B9_KC247432    10.60%    passed     99.71%
+ 247  703010505_w136_B4_KC247428    10.60%    passed     99.83%
+ 248  703010505_w136_B25_KC247416   10.60%    passed     99.97%
+ 249  703010505_w136_B11_KC247405   10.60%    passed     99.97%
+ 250  703010505_w136_B14_KC247407   10.60%    passed     99.89%
+ 251  703010505_w136_B29_KC247420   10.60%    passed     99.97%
+ 252  703010505_w136_B8_KC247431    10.60%    passed     99.73%
+ 253  703010505_w136_B37_KC247426   10.60%    passed     99.93%
+ 254  703010505_w136_T1_KC247433    10.56%    passed     99.94%
+ 255  703010505_w136_B35_KC247424   10.60%    passed     99.86%
+ 256  703010505_w136_B36_KC247425   10.60%    passed     99.51%
+ 257  703010505_w136_B22_KC247413   10.60%    passed     99.96%
+ 258  703010505_w136_B20_KC247412   10.60%    passed     99.69%
+ 259  703010505_w136_B28_KC247419   10.49%    passed     99.62%
+ 260  703010505_w136_B5_KC247429    10.49%    passed     93.73%
+ 261  703010505_w136_B26_KC247417   11.33%    passed     98.03%
+ 262  703010505_w136_B30_KC247422   10.70%    passed     92.88%
+ 263  703010505_w136_B7_KC247430    10.28%    passed     94.29%
+ 264  703010505_w136_B2_KC247411     9.97%    passed     87.19%
+ 265  703010505_w136_B3_KC247421     9.76%    passed     86.68%
+ 266  703010505_w136_B24_KC247415    9.97%    passed     96.90%
+ 267  703010505_w136_B23_KC247414    9.86%    passed     97.21%
+ 268  703010505_w136_B18_KC247409    9.86%    passed     96.97%
+ 269  703010505_w136_B33_KC247423    9.86%    passed     96.58%
+ 270  703010505_w136_B38_KC247427    9.86%    passed     97.27%
+ 271  703010505_w160_A1_KC247460    10.70%    passed     99.72%
+ 272  703010505_w160_A2_KC247461    10.56%    passed     98.04%
+ 273  703010505_w160_A4_KC247462    10.88%    passed     99.44%
+ 274  703010505_w160_A5_KC247463    10.60%    passed     99.85%
+ 275  703010505_w160_B2_KC247464    10.60%    passed     99.42%
+ 276  703010505_w160_C1_KC247465     9.97%    passed     97.04%
+ 277  703010505_w160_C10_KC247466   10.18%    passed     99.63%
+ 278  703010505_w160_C11_KC247467   10.91%    passed     99.11%
+ 279  703010505_w160_C12_KC247468    9.34%    passed     95.95%
+ 280  703010505_w160_C14_KC247469   10.60%    passed     99.57%
+ 281  703010505_w160_C2_KC247470    10.60%    passed     99.84%
+ 282  703010505_w160_C3_KC247471     9.44%    passed     91.26%
+ 283  703010505_w160_C4_KC247472    10.60%    passed     99.90%
+ 284  703010505_w160_C5_KC247473    10.91%    passed     98.34%
+ 285  703010505_w160_C6_KC247474    10.60%    passed     98.84%
+ 286  703010505_w160_C7_KC247475    10.63%    passed     98.19%
+ 287  703010505_w160_C9_KC247476    10.60%    passed     99.74%
+ 288  703010505_w160_D1_KC247477    10.91%    passed     97.70%
+ 289  703010505_w160_D2_KC247478    10.91%    passed     98.15%
+ 290  703010505_w160_D5_KC247479    10.60%    passed     99.74%
+ 291  703010505_w160_D6_KC247480    10.53%    passed     99.96%
+ 292  703010505_w160_T2_KC247481    10.60%    passed     99.69%
+ 293  703010505_w160_T3_KC247482    10.91%    passed     97.60%
+ 294  703010505_w160_T4_KC247483     9.44%    passed     92.58%
+****  TOTAL                         10.86%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: 703010505_w4_49_KC247600 is identical to 703010505_TF but kept for subsequent analysis
+NOTE: 703010505_w4_43_KC247594 is identical to 703010505_w4_44_KC247595 but kept for subsequent analysis
+NOTE: 703010505_w4_47_KC247598 is identical to 703010505_w4_10_KC247564 but kept for subsequent analysis
+NOTE: 703010505_w14_32_KC247451 is identical to 703010505_w14_33_KC247452 but kept for subsequent analysis
+NOTE: 703010505_w14_31_KC247450 is identical to 703010505_w14_16_KC247440 but kept for subsequent analysis
+NOTE: 703010505_w14_10_KC247435 is identical to 703010505_w14_11_KC247436 but kept for subsequent analysis
+NOTE: 703010505_w14_35_KC247454 is identical to 703010505_w14_36_KC247455 but kept for subsequent analysis
+NOTE: 703010505_w22_7_KC247524 is identical to 703010505_w22_6_KC247523 but kept for subsequent analysis
+NOTE: 703010505_w30_27_KC247540 is identical to 703010505_w30_37_KC247550 but kept for subsequent analysis
+NOTE: 703010505_w78_10_KC247635 is identical to 703010505_w78_20_KC247641 but kept for subsequent analysis
+NOTE: 703010505_w78_14_KC247636 is identical to 703010505_w78_8_KC247666 but kept for subsequent analysis
+NOTE: 703010505_w160_D5_KC247479 is identical to 703010505_w160_C9_KC247476 but kept for subsequent analysis
+NOTE: 25 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: 703010505_w4_23_KC247576 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_04_KC247558 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_28_KC247581 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_48_KC247599 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_52_KC247603 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_33_KC247585 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_18_KC247571 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_20_KC247573 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_34_KC247586 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_55_KC247605 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_45_KC247596 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_25_KC247578 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_02_KC247556 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_24_KC247577 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_42_KC247593 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_59_KC247607 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_39_KC247590 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_22_KC247575 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_05_KC247559 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_32_KC247584 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_40_KC247591 (identical to 703010505_TF) is ignored but added at the end
+NOTE: 703010505_w4_21_KC247574 (identical to 703010505_w4_44_KC247595) is ignored but added at the end
+NOTE: 703010505_w4_61_KC247608 (identical to 703010505_w4_10_KC247564) is ignored but added at the end
+NOTE: 703010505_w14_15_KC247439 (identical to 703010505_w14_11_KC247436) is ignored but added at the end
+NOTE: 703010505_w78_7_KC247665 (identical to 703010505_w78_8_KC247666) is ignored but added at the end
+Alignment was printed to env.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to env.fasta.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.051 seconds
+Measuring multi-threading efficiency up to 16 CPU cores
+Increase to 10 rounds for branch lengths
+62 trees examined
+Threads: 1 / Time: 16.132 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -27781
+Threads: 2 / Time: 10.256 sec / Speedup: 1.573 / Efficiency: 79% / LogL: -27781
+Threads: 3 / Time: 8.718 sec / Speedup: 1.850 / Efficiency: 62% / LogL: -27781
+Threads: 4 / Time: 8.295 sec / Speedup: 1.945 / Efficiency: 49% / LogL: -27781
+BEST NUMBER OF THREADS: 3
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -14329.637
+2. Current log-likelihood: -14326.397
+3. Current log-likelihood: -14323.713
+4. Current log-likelihood: -14321.569
+5. Current log-likelihood: -14319.865
+6. Current log-likelihood: -14318.537
+7. Current log-likelihood: -14317.507
+Optimal log-likelihood: -14316.662
+Rate parameters:  A-C: 1.71365  A-G: 4.72746  A-T: 0.46619  C-G: 0.86359  C-T: 4.89054  G-T: 1.00000
+Base frequencies:  A: 0.356  C: 0.166  G: 0.234  T: 0.244
+Proportion of invariable sites: 0.554
+Gamma shape alpha: 0.369
+Parameters optimization took 7 rounds (0.559 sec)
+Time for fast ML tree search: 1.558 seconds
+
+NOTE: ModelFinder requires 59 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 2859) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         15697.660    543 32481.319    32736.517    35716.637
+  2  GTR+F+I       14706.994    544 30501.987    30758.236    33743.263
+  3  GTR+F+G4      14504.223    544 30096.445    30352.694    33337.721
+  4  GTR+F+I+G4    14314.788    545 29719.577    29976.879    32966.811
+  5  GTR+F+R2      14241.782    545 29573.564    29830.866    32820.798
+  6  GTR+F+R3      14172.505    547 29439.009    29698.426    32698.160
+  7  GTR+F+R4      14172.159    549 29442.319    29703.860    32713.385
+ 19  SYM+R3        14289.484    544 29666.969    29923.218    32908.244
+ 32  TVM+F+R3      14174.202    546 29440.405    29698.763    32693.597
+ 45  TVMe+R3       14298.547    543 29683.094    29938.293    32918.412
+ 58  TIM3+F+R3     14194.922    545 29479.844    29737.146    32727.078
+ 71  TIM3e+R3      14316.621    542 29717.242    29971.393    32946.602
+ 84  TIM2+F+R3     14217.512    545 29525.024    29782.326    32772.257
+ 97  TIM2e+R3      14318.009    542 29720.018    29974.168    32949.377
+110  TIM+F+R3      14187.622    545 29465.244    29722.546    32712.478
+123  TIMe+R3       14297.508    542 29679.015    29933.166    32908.374
+136  TPM3u+F+R3    14196.715    544 29481.429    29737.678    32722.705
+149  TPM3+F+R3     14196.715    544 29481.429    29737.678    32722.705
+162  TPM2u+F+R3    14218.935    544 29525.869    29782.118    32767.145
+175  TPM2+F+R3     14218.935    544 29525.869    29782.118    32767.145
+188  K3Pu+F+R3     14189.019    544 29466.039    29722.287    32707.314
+201  K3P+R3        14306.423    541 29694.845    29947.950    32918.246
+214  TN+F+R3       14217.528    544 29523.055    29779.304    32764.331
+227  TNe+R3        14322.477    541 29726.955    29980.060    32950.356
+240  HKY+F+R3      14218.945    543 29523.890    29779.089    32759.208
+253  K2P+R3        14331.278    540 29742.555    29994.617    32959.998
+266  F81+F+R3      14660.251    542 30404.503    30658.653    33633.862
+279  JC+R3         14810.455    539 30698.910    30949.932    33910.395
+Akaike Information Criterion:           GTR+F+R3
+Corrected Akaike Information Criterion: GTR+F+R3
+Bayesian Information Criterion:         TVM+F+R3
+Best-fit model: TVM+F+R3 chosen according to BIC
+
+All model information printed to env.fasta.model.gz
+CPU time for ModelFinder: 151.893 seconds (0h:2m:31s)
+Wall-clock time for ModelFinder: 61.880 seconds (0h:1m:1s)
+
+NOTE: 17 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -14174.202
+Optimal log-likelihood: -14174.198
+Rate parameters:  A-C: 1.74459  A-G: 4.80085  A-T: 0.46786  C-G: 0.87617  C-T: 4.80085  G-T: 1.00000
+Base frequencies:  A: 0.356  C: 0.166  G: 0.234  T: 0.244
+Site proportion and rates:  (0.896,0.233) (0.073,4.113) (0.030,16.166)
+Parameters optimization took 1 rounds (0.122 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.325587 sec (of wall-clock time) 0.975311 sec(of CPU time)
+Computing RapidNJ tree took 0.005195 sec (of wall-clock time) 0.014987 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -14398.602
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 3.110 second
+Computing log-likelihood of 98 initial trees ... 1.738 seconds
+Current best score: -14133.708
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -14111.984
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -14100.576
+Iteration 10 / LogL: -14117.129 / Time: 0h:0m:9s
+Iteration 20 / LogL: -14143.622 / Time: 0h:0m:12s
+Finish initializing candidate tree set (20)
+Current best tree score: -14100.576 / CPU time: 12.053
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -14096.109
+Iteration 30 / LogL: -14096.109 / Time: 0h:0m:16s (0h:0m:57s left)
+Iteration 40 / LogL: -14136.679 / Time: 0h:0m:20s (0h:0m:47s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -14094.787
+Iteration 50 / LogL: -14094.807 / Time: 0h:0m:24s (0h:0m:48s left)
+Iteration 60 / LogL: -14115.214 / Time: 0h:0m:28s (0h:0m:41s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 68: -14092.658
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 70: -14082.854
+Iteration 70 / LogL: -14082.854 / Time: 0h:0m:32s (0h:0m:47s left)
+Iteration 80 / LogL: -14107.635 / Time: 0h:0m:36s (0h:0m:41s left)
+Iteration 90 / LogL: -14128.412 / Time: 0h:0m:40s (0h:0m:36s left)
+Iteration 100 / LogL: -14083.983 / Time: 0h:0m:43s (0h:0m:30s left)
+Iteration 110 / LogL: -14164.380 / Time: 0h:0m:47s (0h:0m:26s left)
+Iteration 120 / LogL: -14083.731 / Time: 0h:0m:51s (0h:0m:21s left)
+Iteration 130 / LogL: -14099.621 / Time: 0h:0m:55s (0h:0m:17s left)
+Iteration 140 / LogL: -14088.780 / Time: 0h:0m:59s (0h:0m:12s left)
+Iteration 150 / LogL: -14108.998 / Time: 0h:1m:3s (0h:0m:8s left)
+Iteration 160 / LogL: -14082.875 / Time: 0h:1m:7s (0h:0m:4s left)
+Iteration 170 / LogL: -14108.378 / Time: 0h:1m:11s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 171 ITERATIONS / Time: 0h:1m:11s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -14082.854
+Optimal log-likelihood: -14082.847
+Rate parameters:  A-C: 1.68151  A-G: 4.79524  A-T: 0.45570  C-G: 0.80102  C-T: 4.79524  G-T: 1.00000
+Base frequencies:  A: 0.356  C: 0.166  G: 0.234  T: 0.244
+Site proportion and rates:  (0.903,0.246) (0.068,4.454) (0.028,16.598)
+Parameters optimization took 1 rounds (0.127 sec)
+BEST SCORE FOUND : -14082.847
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+3.404 sec.
+Total tree length: 0.684
+
+Total number of iterations: 171
+CPU time used for tree search: 206.276 sec (0h:3m:26s)
+Wall-clock time used for tree search: 71.161 sec (0h:1m:11s)
+Total CPU time used: 218.726 sec (0h:3m:38s)
+Total wall-clock time used: 75.312 sec (0h:1m:15s)
+
+Analysis results written to: 
+  IQ-TREE report:                env.fasta.iqtree
+  Maximum-likelihood tree:       env.fasta.treefile
+  Likelihood distances:          env.fasta.mldist
+  Screen log file:               env.fasta.log
+
+Date and Time: Mon May  2 16:35:33 2022

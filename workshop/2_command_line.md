@@ -45,7 +45,7 @@ The `less` command allows you to look at the contents of a file in your Terminal
 * Use the **arrow keys** to scroll up or down one line at a time or use the **space bar** to scroll down several lines at a time 
 * To exit the `less` screen, hit the `q` key (without shift)
 
-## Section 2.7 Redirection, or `>`
+## Section 2.7 Redirect `>`
 
 If you want to direct the output of a command that usually prints to the screen to a file instead, just use the redirect character `>` at the end of the command and type a file name to direct the file to.
 

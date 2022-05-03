@@ -8,7 +8,7 @@
 
 # Section 4 - Genome sequence assembly
 
-### 4.1 Read trimming
+## 4.1 Read trimming
 
 Before we assemble, we'll do some very light read trimming. This step removes any Illumina adapter sequences that may have made it into the reads due to read-through of short library fragments. These adapter sequences can sometimes get incorporated into your assembly and cause misassemblies. Better to take the time to remove them prior to assembly. 
 
@@ -19,16 +19,20 @@ Trimmomatic comes with adapter sequence files corresponding to most Illumina lib
 _Commands_ 
 
 ```
-trimmomatic \ 
-    PE \
-    GAS_1.fastq.gz GAS_2.fastq.gz \
-    GAS_trimmed_paired_1.fastq.gz GAS_trimmed_unpaired_1.fastq.gz \
-    GAS_trimmed_paired_2.fastq.gz GAS_trimmed_unpaired_2.fastq.gz \
-    ILLUMINACLIP:$CONDA_PREFIX/share/trimmomatic/adapters/NexteraPE-PE.fa:2:30:10 \
-    LEADING:3 \
-    TRAILING:3 \
-    SLIDINGWINDOW:4:15 \
-    MINLEN:36
+conda activate cpgme_workshop
+```
+
+```
+trimmomatic \
+	PE \
+	reads/GAS_1.fastq.gz reads/GAS_2.fastq.gz \
+	GAS_trimmed_paired_1.fastq.gz GAS_trimmed_unpaired_1.fastq.gz \
+	GAS_trimmed_paired_2.fastq.gz GAS_trimmed_unpaired_2.fastq.gz \
+	ILLUMINACLIP:$CONDA_PREFIX/share/trimmomatic/adapters/NexteraPE-PE.fa:2:30:10 \
+	LEADING:3 \
+	TRAILING:3 \
+	SLIDINGWINDOW:4:15 \
+	MINLEN:36
 ```    
 _Settings Used_
 
@@ -53,7 +57,7 @@ Files | Description
 
 ---
 
-### 4.2 Assembly
+## 4.2 Assembly
 
 Now we'll generate a _de novo_ whole genome assembly from our trimmed reads. For this we'll use the assembler [SPAdes](https://cab.spbu.ru/software/spades/) ([Github site](https://github.com/ablab/spades)).  
 
@@ -92,7 +96,7 @@ Files | Description
 
 ---
 
-### 4.3 Assembly statistics and quality assesment
+## 4.3 Assembly statistics and quality assesment
 
 After assembly you'll want some sense of the quality of the assembly. This usually includes, but is not limited to, the total number of contigs or scaffolds, the total length of the sequence, and the GC content. 
 

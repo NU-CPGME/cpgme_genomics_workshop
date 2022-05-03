@@ -1,0 +1,3597 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OIOADCLO_00001	gene	195				
+OIOADCLO_00001	CDS	195				hypothetical protein
+OIOADCLO_00002	gene	525				
+OIOADCLO_00002	CDS	525				hypothetical protein
+OIOADCLO_00003	gene	267				
+OIOADCLO_00003	CDS	267				hypothetical protein
+OIOADCLO_00004	gene	435				
+OIOADCLO_00004	CDS	435				ArpU family transcriptional regulator
+OIOADCLO_00005	gene	381				
+OIOADCLO_00005	CDS	381				hypothetical protein
+OIOADCLO_00006	gene	1275				
+OIOADCLO_00006	CDS	1275				PBSX family phage terminase large subunit
+OIOADCLO_00007	gene	1326				
+OIOADCLO_00007	CDS	1326				phage portal protein
+OIOADCLO_00008	gene	909				
+OIOADCLO_00008	CDS	909				minor capsid protein
+OIOADCLO_00009	gene	270				
+OIOADCLO_00009	CDS	270				hypothetical protein
+OIOADCLO_00010	gene	135				
+OIOADCLO_00010	CDS	135				hypothetical protein
+OIOADCLO_00011	gene	570				
+OIOADCLO_00011	CDS	570				hypothetical protein
+OIOADCLO_00012	gene	891				
+OIOADCLO_00012	CDS	891				hypothetical protein
+OIOADCLO_00013	gene	294				
+OIOADCLO_00013	CDS	294				hypothetical protein
+OIOADCLO_00014	gene	345				
+OIOADCLO_00014	CDS	345				hypothetical protein
+OIOADCLO_00015	gene	312				
+OIOADCLO_00015	CDS	312				hypothetical protein
+OIOADCLO_00016	gene	384				
+OIOADCLO_00016	CDS	384				hypothetical protein
+OIOADCLO_00017	gene	411				
+OIOADCLO_00017	CDS	411				hypothetical protein
+OIOADCLO_00018	gene	507				
+OIOADCLO_00018	CDS	507				hypothetical protein
+OIOADCLO_00019	gene	318				
+OIOADCLO_00019	CDS	318				hypothetical protein
+OIOADCLO_00020	gene	459				
+OIOADCLO_00020	CDS	459				hypothetical protein
+OIOADCLO_00021	gene	1806				
+OIOADCLO_00021	CDS	1806				hypothetical protein
+OIOADCLO_00022	gene	1485				
+OIOADCLO_00022	CDS	1485				hypothetical protein
+OIOADCLO_00023	gene	3441				
+OIOADCLO_00023	CDS	3441				hypothetical protein
+OIOADCLO_00024	gene	1863				
+OIOADCLO_00024	CDS	1863				hypothetical protein
+OIOADCLO_00025	gene	348				
+OIOADCLO_00025	CDS	348				hypothetical protein
+OIOADCLO_00026	gene	123				
+OIOADCLO_00026	CDS	123				hypothetical protein
+OIOADCLO_00027	gene	324				
+OIOADCLO_00027	CDS	324				hypothetical protein
+OIOADCLO_00028	gene	333				
+OIOADCLO_00028	CDS	333				hypothetical protein
+OIOADCLO_00029	gene	765				
+OIOADCLO_00029	CDS	765				glucosaminidase domain-containing protein
+OIOADCLO_00030	gene	603				
+OIOADCLO_00030	CDS	603				hypothetical protein
+OIOADCLO_00031	gene	774				
+OIOADCLO_00031	CDS	774				hypothetical protein
+OIOADCLO_00032	gene	222				
+OIOADCLO_00032	CDS	222				hypothetical protein
+OIOADCLO_00033	gene	660				
+OIOADCLO_00033	CDS	660				hypothetical protein
+OIOADCLO_00034	gene	756	speA			
+OIOADCLO_00034	CDS	756	speA			Exotoxin type A
+OIOADCLO_00035	gene	189				
+OIOADCLO_00035	CDS	189				hypothetical protein
+OIOADCLO_00036	gene	345	ssrA			
+OIOADCLO_00036	tmRNA	345	ssrA			transfer-messenger RNA, SsrA
+OIOADCLO_00037	gene	615				
+OIOADCLO_00037	CDS	615				TVP38/TMEM64 family protein
+OIOADCLO_00038	gene	786				
+OIOADCLO_00038	CDS	786				hypothetical protein
+OIOADCLO_00039	gene	699				
+OIOADCLO_00039	CDS	699				ABC transporter ATP-binding protein
+OIOADCLO_00040	gene	372				
+OIOADCLO_00040	CDS	372				GntR family transcriptional regulator
+OIOADCLO_00041	gene	3111				
+OIOADCLO_00041	CDS	3111		2.7.7.7		DNA polymerase III subunit alpha
+OIOADCLO_00042	gene	1014	pfkA			
+OIOADCLO_00042	CDS	1014	pfkA	2.7.1.11		6-phosphofructokinase
+OIOADCLO_00043	gene	1503	pyk			
+OIOADCLO_00043	CDS	1503	pyk	2.7.1.40		pyruvate kinase
+OIOADCLO_00044	gene	558	lepB_1			
+OIOADCLO_00044	CDS	558	lepB_1	3.4.21.89		signal peptidase I
+OIOADCLO_00045	gene	1815	glmS			
+OIOADCLO_00045	CDS	1815	glmS	2.6.1.16		glutamine--fructose-6-phosphate transaminase (isomerizing)
+OIOADCLO_00046	gene	336				
+OIOADCLO_00046	CDS	336				zinc ribbon domain-containing protein YjdM
+OIOADCLO_00047	gene	642				
+OIOADCLO_00047	CDS	642				amino acid ABC transporter permease
+OIOADCLO_00048	gene	630				
+OIOADCLO_00048	CDS	630				amino acid ABC transporter ATP-binding protein
+OIOADCLO_00049	gene	837				
+OIOADCLO_00049	CDS	837				amino acid ABC transporter substrate-binding protein
+OIOADCLO_00050	gene	774	cfa			
+OIOADCLO_00050	CDS	774	cfa			CAMP factor pore-forming toxin Cfa
+OIOADCLO_00051	gene	1236				
+OIOADCLO_00051	CDS	1236				cation diffusion facilitator family transporter
+OIOADCLO_00052	gene	1323				
+OIOADCLO_00052	CDS	1323				sodium:alanine symporter family protein
+OIOADCLO_00053	gene	2319	pcrA			
+OIOADCLO_00053	CDS	2319	pcrA	3.6.4.12		DNA helicase PcrA
+OIOADCLO_00054	gene	249				
+OIOADCLO_00054	CDS	249				GlsB/YeaQ/YmgE family stress response membrane protein
+OIOADCLO_00055	gene	588	amaP			
+OIOADCLO_00055	CDS	588	amaP			alkaline shock response membrane anchor protein AmaP
+OIOADCLO_00056	gene	189				
+OIOADCLO_00056	CDS	189				hypothetical protein
+OIOADCLO_00057	gene	540				
+OIOADCLO_00057	CDS	540				Asp23/Gls24 family envelope stress response protein
+OIOADCLO_00058	gene	201				
+OIOADCLO_00058	CDS	201				CsbD family protein
+OIOADCLO_00059	gene	489				
+OIOADCLO_00059	CDS	489				Asp23/Gls24 family envelope stress response protein
+OIOADCLO_00060	gene	642				
+OIOADCLO_00060	CDS	642				GntR family transcriptional regulator
+OIOADCLO_00061	gene	543				
+OIOADCLO_00061	CDS	543				TetR/AcrR family transcriptional regulator
+OIOADCLO_00062	gene	702				
+OIOADCLO_00062	CDS	702				ABC transporter ATP-binding protein
+OIOADCLO_00063	gene	2637				
+OIOADCLO_00063	CDS	2637				FtsX-like permease family protein
+OIOADCLO_00064	gene	597				
+OIOADCLO_00064	CDS	597				restriction endonuclease subunit S
+OIOADCLO_00065	gene	957				
+OIOADCLO_00065	CDS	957				aromatic acid exporter family protein
+OIOADCLO_00066	gene	1341				
+OIOADCLO_00066	CDS	1341				hypothetical protein
+OIOADCLO_00067	gene	885	truB			
+OIOADCLO_00067	CDS	885	truB	5.4.99.25		tRNA pseudouridine(55) synthase TruB
+OIOADCLO_00068	gene	933				
+OIOADCLO_00068	CDS	933		2.7.1.26		bifunctional riboflavin kinase/FAD synthetase
+OIOADCLO_00069	gene	405				
+OIOADCLO_00069	CDS	405				Spx/MgsR family RNA polymerase-binding regulatory protein
+OIOADCLO_00070	gene	279				
+OIOADCLO_00070	CDS	279				hypothetical protein
+OIOADCLO_00071	gene	789				
+OIOADCLO_00071	CDS	789				inositol monophosphatase family protein
+OIOADCLO_00072	gene	1311				
+OIOADCLO_00072	CDS	1311				hypothetical protein
+OIOADCLO_00073	gene	867				
+OIOADCLO_00073	CDS	867				phosphate ABC transporter substrate-binding protein PstS family protein
+OIOADCLO_00074	gene	936	pstC			
+OIOADCLO_00074	CDS	936	pstC			phosphate ABC transporter permease subunit PstC
+OIOADCLO_00075	gene	888	pstA			
+OIOADCLO_00075	CDS	888	pstA			phosphate ABC transporter permease PstA
+OIOADCLO_00076	gene	804	pstB_1			
+OIOADCLO_00076	CDS	804	pstB_1	7.3.2.1		phosphate ABC transporter ATP-binding protein PstB
+OIOADCLO_00077	gene	759	pstB_2			
+OIOADCLO_00077	CDS	759	pstB_2	7.3.2.1		phosphate ABC transporter ATP-binding protein PstB
+OIOADCLO_00078	gene	654	phoU			
+OIOADCLO_00078	CDS	654	phoU			phosphate signaling complex protein PhoU
+OIOADCLO_00079	gene	2538				
+OIOADCLO_00079	CDS	2538				M1 family metallopeptidase
+OIOADCLO_00080	gene	675				
+OIOADCLO_00080	CDS	675				response regulator transcription factor
+OIOADCLO_00081	gene	1311				
+OIOADCLO_00081	CDS	1311				HAMP domain-containing histidine kinase
+OIOADCLO_00082	gene	234	rpsT			
+OIOADCLO_00082	CDS	234	rpsT			30S ribosomal protein S20
+OIOADCLO_00083	gene	921	coaA			
+OIOADCLO_00083	CDS	921	coaA	2.7.1.33		type I pantothenate kinase
+OIOADCLO_00084	gene	588				
+OIOADCLO_00084	CDS	588				class I SAM-dependent methyltransferase
+OIOADCLO_00085	gene	390				
+OIOADCLO_00085	CDS	390		3.5.4.5		cytidine deaminase
+OIOADCLO_00086	gene	1053				
+OIOADCLO_00086	CDS	1053				BMP family protein
+OIOADCLO_00087	gene	1533				
+OIOADCLO_00087	CDS	1533				ABC transporter ATP-binding protein
+OIOADCLO_00088	gene	1065				
+OIOADCLO_00088	CDS	1065				ABC transporter permease
+OIOADCLO_00089	gene	957				
+OIOADCLO_00089	CDS	957				ABC transporter permease
+OIOADCLO_00090	gene	1719				
+OIOADCLO_00090	CDS	1719				phospho-sugar mutase
+OIOADCLO_00091	gene	570				
+OIOADCLO_00091	CDS	570				ECF transporter S component
+OIOADCLO_00092	gene	546	coaC			
+OIOADCLO_00092	CDS	546	coaC	4.1.1.36		phosphopantothenoylcysteine decarboxylase
+OIOADCLO_00093	gene	693	coaB			
+OIOADCLO_00093	CDS	693	coaB	6.3.2.5		phosphopantothenate--cysteine ligase
+OIOADCLO_00094	gene	837				
+OIOADCLO_00094	CDS	837				lipoate--protein ligase family protein
+OIOADCLO_00095	gene	1200				
+OIOADCLO_00095	CDS	1200				NADH-dependent flavin oxidoreductase
+OIOADCLO_00096	gene	999				
+OIOADCLO_00096	CDS	999				LLM class flavin-dependent oxidoreductase
+OIOADCLO_00097	gene	333				
+OIOADCLO_00097	CDS	333				glycine cleavage system protein H
+OIOADCLO_00098	gene	813				
+OIOADCLO_00098	CDS	813				protein-ADP-ribose hydrolase
+OIOADCLO_00099	gene	882				
+OIOADCLO_00099	CDS	882				NAD-dependent deacetylase
+OIOADCLO_00100	gene	1020				
+OIOADCLO_00100	CDS	1020				lipoate--protein ligase
+OIOADCLO_00101	gene	1671				
+OIOADCLO_00101	CDS	1671		6.3.4.3		formate--tetrahydrofolate ligase
+OIOADCLO_00102	gene	1578	cls			
+OIOADCLO_00102	CDS	1578	cls			cardiolipin synthase
+OIOADCLO_00103	gene	357				
+OIOADCLO_00103	CDS	357				ATP cone domain-containing protein
+OIOADCLO_00104	gene	1269				
+OIOADCLO_00104	CDS	1269				PLP-dependent aminotransferase family protein
+OIOADCLO_00105	gene	867				
+OIOADCLO_00105	CDS	867		2.7.1.35		pyridoxamine kinase
+OIOADCLO_00106	gene	558				
+OIOADCLO_00106	CDS	558				ECF transporter S component
+OIOADCLO_00107	gene	1545				
+OIOADCLO_00107	CDS	1545				ATP-binding cassette domain-containing protein
+OIOADCLO_00108	gene	1224				
+OIOADCLO_00108	CDS	1224				aminoacyltransferase
+OIOADCLO_00109	gene	1563	guaA			
+OIOADCLO_00109	CDS	1563	guaA	6.3.5.2		glutamine-hydrolyzing GMP synthase
+OIOADCLO_00110	gene	1434				
+OIOADCLO_00110	CDS	1434				hypothetical protein
+OIOADCLO_00111	gene	699				
+OIOADCLO_00111	CDS	699				GntR family transcriptional regulator
+OIOADCLO_00112	gene	342				
+OIOADCLO_00112	CDS	342				putative DNA-binding protein
+OIOADCLO_00113	gene	1563	ffh			
+OIOADCLO_00113	CDS	1563	ffh			signal recognition particle protein
+OIOADCLO_00114	gene	699				
+OIOADCLO_00114	CDS	699				helix-turn-helix transcriptional regulator
+OIOADCLO_00115	gene	1071	xerS			
+OIOADCLO_00115	CDS	1071	xerS			tyrosine recombinase XerS
+OIOADCLO_00116	gene	483				
+OIOADCLO_00116	CDS	483				PASTA domain-containing protein
+OIOADCLO_00117	gene	1053	citC			
+OIOADCLO_00117	CDS	1053	citC	6.2.1.22		[citrate (pro-3S)-lyase] ligase
+OIOADCLO_00118	gene	1395				
+OIOADCLO_00118	CDS	1395		4.1.1.112		oxaloacetate decarboxylase subunit alpha
+OIOADCLO_00119	gene	579	citX			
+OIOADCLO_00119	CDS	579	citX	2.7.7.61		citrate lyase holo-[acyl-carrier protein] synthase
+OIOADCLO_00120	gene	1533	citF			
+OIOADCLO_00120	CDS	1533	citF	2.8.3.10		citrate lyase subunit alpha
+OIOADCLO_00121	gene	888	citE			
+OIOADCLO_00121	CDS	888	citE	4.1.3.34		citrate (pro-3S)-lyase subunit beta
+OIOADCLO_00122	gene	309	citD			
+OIOADCLO_00122	CDS	309	citD	4.1.3.6		citrate lyase acyl carrier protein
+OIOADCLO_00123	gene	135				
+OIOADCLO_00123	CDS	135				hypothetical protein
+OIOADCLO_00124	gene	1122				
+OIOADCLO_00124	CDS	1122				sodium ion-translocating decarboxylase subunit beta
+OIOADCLO_00125	gene	399				
+OIOADCLO_00125	CDS	399				acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+OIOADCLO_00126	gene	324				
+OIOADCLO_00126	CDS	324				hypothetical protein
+OIOADCLO_00127	gene	1404				
+OIOADCLO_00127	CDS	1404				CitMHS family transporter
+OIOADCLO_00128	gene	696				
+OIOADCLO_00128	CDS	696				GntR family transcriptional regulator
+OIOADCLO_00129	gene	885	citG			
+OIOADCLO_00129	CDS	885	citG	2.4.2.52		triphosphoribosyl-dephospho-CoA synthase CitG
+OIOADCLO_00130	gene	1131				
+OIOADCLO_00130	CDS	1131				sodium ion-translocating decarboxylase subunit beta
+OIOADCLO_00131	gene	351				
+OIOADCLO_00131	CDS	351				biotin/lipoyl-binding protein
+OIOADCLO_00132	gene	315				
+OIOADCLO_00132	CDS	315				membrane protein
+OIOADCLO_00133	gene	1383				
+OIOADCLO_00133	CDS	1383		6.4.1.1		pyruvate carboxylase subunit B
+OIOADCLO_00134	gene	1347	trmFO			
+OIOADCLO_00134	CDS	1347	trmFO			methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO
+OIOADCLO_00135	gene	717				
+OIOADCLO_00135	CDS	717				hypothetical protein
+OIOADCLO_00136	gene	666				
+OIOADCLO_00136	CDS	666				hypothetical protein
+OIOADCLO_00137	gene	993	ldhD			
+OIOADCLO_00137	CDS	993	ldhD	1.1.1.28	COG1052	D-lactate dehydrogenase
+OIOADCLO_00138	gene	546				
+OIOADCLO_00138	CDS	546				hypothetical protein
+OIOADCLO_00139	gene	483				
+OIOADCLO_00139	CDS	483				hypothetical protein
+OIOADCLO_00140	gene	2130	topA			
+OIOADCLO_00140	CDS	2130	topA	5.6.2.1		type I DNA topoisomerase
+OIOADCLO_00141	gene	837	dprA			
+OIOADCLO_00141	CDS	837	dprA			DNA-processing protein DprA
+OIOADCLO_00142	gene	792				
+OIOADCLO_00142	CDS	792		3.1.26.4		ribonuclease HII
+OIOADCLO_00143	gene	849	ylqF			
+OIOADCLO_00143	CDS	849	ylqF			ribosome biogenesis GTPase YlqF
+OIOADCLO_00144	gene	441				
+OIOADCLO_00144	CDS	441				hypothetical protein
+OIOADCLO_00145	gene	651				
+OIOADCLO_00145	CDS	651				hemolysin III family protein
+OIOADCLO_00146	gene	912				
+OIOADCLO_00146	CDS	912				diacylglycerol kinase family lipid kinase
+OIOADCLO_00147	gene	369				
+OIOADCLO_00147	CDS	369				hypothetical protein
+OIOADCLO_00148	gene	120				
+OIOADCLO_00148	CDS	120				hypothetical protein
+OIOADCLO_00149	gene	414				
+OIOADCLO_00149	CDS	414				VOC family protein
+OIOADCLO_00150	gene	750				
+OIOADCLO_00150	CDS	750				sortase
+OIOADCLO_00151	gene	2487	gyrA			
+OIOADCLO_00151	CDS	2487	gyrA	5.6.2.2		DNA gyrase subunit A
+OIOADCLO_00152	gene	984				
+OIOADCLO_00152	CDS	984		1.1.1.27		L-lactate dehydrogenase
+OIOADCLO_00153	gene	1371				
+OIOADCLO_00153	CDS	1371				FAD-dependent oxidoreductase
+OIOADCLO_00154	gene	1728				
+OIOADCLO_00154	CDS	1728				ABC transporter ATP-binding protein/permease
+OIOADCLO_00155	gene	1725				
+OIOADCLO_00155	CDS	1725				ABC transporter ATP-binding protein/permease
+OIOADCLO_00156	gene	600				
+OIOADCLO_00156	CDS	600				lysozyme family protein
+OIOADCLO_00157	gene	978				
+OIOADCLO_00157	CDS	978				nucleoid-associated protein
+OIOADCLO_00158	gene	1257				
+OIOADCLO_00158	CDS	1257				serine hydroxymethyltransferase
+OIOADCLO_00159	gene	453				
+OIOADCLO_00159	CDS	453				GNAT family N-acetyltransferase
+OIOADCLO_00160	gene	591				
+OIOADCLO_00160	CDS	591		2.7.7.87		L-threonylcarbamoyladenylate synthase
+OIOADCLO_00161	gene	840	prmC			
+OIOADCLO_00161	CDS	840	prmC	2.1.1.297		peptide chain release factor N(5)-glutamine methyltransferase
+OIOADCLO_00162	gene	1080	prfA			
+OIOADCLO_00162	CDS	1080	prfA			peptide chain release factor 1
+OIOADCLO_00163	gene	570				
+OIOADCLO_00163	CDS	570		2.7.1.21		thymidine kinase
+OIOADCLO_00164	gene	186				
+OIOADCLO_00164	CDS	186		5.3.2.6		4-oxalocrotonate tautomerase
+OIOADCLO_00165	gene	939				
+OIOADCLO_00165	CDS	939				FAD:protein FMN transferase
+OIOADCLO_00166	gene	1284				
+OIOADCLO_00166	CDS	1284				purine permease
+OIOADCLO_00167	gene	582				
+OIOADCLO_00167	CDS	582		2.4.2.22		xanthine phosphoribosyltransferase
+OIOADCLO_00168	gene	984	guaC			
+OIOADCLO_00168	CDS	984	guaC	1.7.1.7		GMP reductase
+OIOADCLO_00169	gene	1527				
+OIOADCLO_00169	CDS	1527				ABC transporter permease/substrate-binding protein
+OIOADCLO_00170	gene	729				
+OIOADCLO_00170	CDS	729				ABC transporter ATP-binding protein
+OIOADCLO_00171	gene	690				
+OIOADCLO_00171	CDS	690				hypothetical protein
+OIOADCLO_00172	gene	159				
+OIOADCLO_00172	CDS	159				SDR family NAD(P)-dependent oxidoreductase
+OIOADCLO_00173	gene	618				
+OIOADCLO_00173	CDS	618				SDR family NAD(P)-dependent oxidoreductase
+OIOADCLO_00174	gene	996	pta			
+OIOADCLO_00174	CDS	996	pta	2.3.1.8		phosphate acetyltransferase
+OIOADCLO_00175	gene	906				
+OIOADCLO_00175	CDS	906				RluA family pseudouridine synthase
+OIOADCLO_00176	gene	837				
+OIOADCLO_00176	CDS	837		2.7.1.23		NAD kinase
+OIOADCLO_00177	gene	672				
+OIOADCLO_00177	CDS	672				GTP pyrophosphokinase family protein
+OIOADCLO_00178	gene	579				
+OIOADCLO_00178	CDS	579				CYTH domain-containing protein
+OIOADCLO_00179	gene	981				
+OIOADCLO_00179	CDS	981		2.7.6.1		ribose-phosphate diphosphokinase
+OIOADCLO_00180	gene	1128				
+OIOADCLO_00180	CDS	1128				cysteine desulfurase
+OIOADCLO_00181	gene	348				
+OIOADCLO_00181	CDS	348				hypothetical protein
+OIOADCLO_00182	gene	645				
+OIOADCLO_00182	CDS	645				redox-sensing transcriptional repressor Rex
+OIOADCLO_00183	gene	696				
+OIOADCLO_00183	CDS	696				gamma-glutamyl-gamma-aminobutyrate hydrolase family protein
+OIOADCLO_00184	gene	681	radC			
+OIOADCLO_00184	CDS	681	radC			DNA repair protein RadC
+OIOADCLO_00185	gene	1128				
+OIOADCLO_00185	CDS	1128				AI-2E family transporter
+OIOADCLO_00186	gene	615				
+OIOADCLO_00186	CDS	615				SGNH/GDSL hydrolase family protein
+OIOADCLO_00187	gene	1533				
+OIOADCLO_00187	CDS	1533				ClC family H(+)/Cl(-) exchange transporter
+OIOADCLO_00188	gene	732	aphA			
+OIOADCLO_00188	CDS	732	aphA	3.1.3.2		acid phosphatase AphA
+OIOADCLO_00189	gene	1092				
+OIOADCLO_00189	CDS	1092				zinc-dependent alcohol dehydrogenase family protein
+OIOADCLO_00190	gene	1167				
+OIOADCLO_00190	CDS	1167				NADP-dependent malic enzyme
+OIOADCLO_00191	gene	1332				
+OIOADCLO_00191	CDS	1332				2-hydroxycarboxylate transporter family protein
+OIOADCLO_00192	gene	1542				
+OIOADCLO_00192	CDS	1542				sensor histidine kinase
+OIOADCLO_00193	gene	666				
+OIOADCLO_00193	CDS	666				response regulator
+OIOADCLO_00194	gene	1074				
+OIOADCLO_00194	CDS	1074				ABC transporter substrate-binding protein
+OIOADCLO_00195	gene	777				
+OIOADCLO_00195	CDS	777				ABC transporter permease
+OIOADCLO_00196	gene	795				
+OIOADCLO_00196	CDS	795				ABC transporter permease
+OIOADCLO_00197	gene	1155				
+OIOADCLO_00197	CDS	1155				ABC transporter ATP-binding protein
+OIOADCLO_00198	gene	888	murB			
+OIOADCLO_00198	CDS	888	murB	1.3.1.98		UDP-N-acetylmuramate dehydrogenase
+OIOADCLO_00199	gene	501	folK			
+OIOADCLO_00199	CDS	501	folK	2.7.6.3		2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase
+OIOADCLO_00200	gene	360	folB			
+OIOADCLO_00200	CDS	360	folB	4.1.2.25		dihydroneopterin aldolase
+OIOADCLO_00201	gene	801	folP			
+OIOADCLO_00201	CDS	801	folP	2.5.1.15		dihydropteroate synthase
+OIOADCLO_00202	gene	585	folE			
+OIOADCLO_00202	CDS	585	folE	3.5.4.16		GTP cyclohydrolase I FolE
+OIOADCLO_00203	gene	1278				
+OIOADCLO_00203	CDS	1278				bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+OIOADCLO_00204	gene	963				
+OIOADCLO_00204	CDS	963				polysaccharide deacetylase family protein
+OIOADCLO_00205	gene	1206	pbp3_1			
+OIOADCLO_00205	CDS	1206	pbp3_1	3.4.16.4		D-alanyl-D-alanine carboxypeptidase PBP3
+OIOADCLO_00206	gene	384				
+OIOADCLO_00206	CDS	384				hypothetical protein
+OIOADCLO_00207	gene	222				
+OIOADCLO_00207	CDS	222				hypothetical protein
+OIOADCLO_00208	gene	222				
+OIOADCLO_00208	CDS	222				hypothetical protein
+OIOADCLO_00209	gene	132				
+OIOADCLO_00209	CDS	132				hypothetical protein
+OIOADCLO_00210	gene	219				
+OIOADCLO_00210	CDS	219				hypothetical protein
+OIOADCLO_00211	gene	723				
+OIOADCLO_00211	CDS	723				hypothetical protein
+OIOADCLO_00212	gene	750				
+OIOADCLO_00212	CDS	750				hypothetical protein
+OIOADCLO_00213	gene	690				
+OIOADCLO_00213	CDS	690				ABC transporter ATP-binding protein
+OIOADCLO_00214	gene	618	btuD			
+OIOADCLO_00214	CDS	618	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OIOADCLO_00215	gene	141	srtA			
+OIOADCLO_00215	CDS	141	srtA			Lantibiotic streptin
+OIOADCLO_00216	gene	1347	rcsC			
+OIOADCLO_00216	CDS	1347	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+OIOADCLO_00217	gene	687	yycF_1			
+OIOADCLO_00217	CDS	687	yycF_1			response regulator YycF
+OIOADCLO_00218	gene	696				
+OIOADCLO_00218	CDS	696				hypothetical protein
+OIOADCLO_00219	gene	210				
+OIOADCLO_00219	CDS	210				hypothetical protein
+OIOADCLO_00220	gene	324				
+OIOADCLO_00220	CDS	324				hypothetical protein
+OIOADCLO_00221	gene	369				
+OIOADCLO_00221	CDS	369				hypothetical protein
+OIOADCLO_00222	gene	366	rplL			
+OIOADCLO_00222	CDS	366	rplL			50S ribosomal protein L7/L12
+OIOADCLO_00223	gene	501	rplJ			
+OIOADCLO_00223	CDS	501	rplJ			50S ribosomal protein L10
+OIOADCLO_00224	gene	1377	mnmE			
+OIOADCLO_00224	CDS	1377	mnmE			tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
+OIOADCLO_00225	gene	1410	pepV			
+OIOADCLO_00225	CDS	1410	pepV	3.4.13.-		dipeptidase PepV
+OIOADCLO_00226	gene	603				
+OIOADCLO_00226	CDS	603				nitroreductase family protein
+OIOADCLO_00227	gene	1797	uvrC			
+OIOADCLO_00227	CDS	1797	uvrC			excinuclease ABC subunit UvrC
+OIOADCLO_00228	gene	1398				
+OIOADCLO_00228	CDS	1398				NAD-dependent succinate-semialdehyde dehydrogenase
+OIOADCLO_00229	gene	702				
+OIOADCLO_00229	CDS	702				HAD family hydrolase
+OIOADCLO_00230	gene	567				
+OIOADCLO_00230	CDS	567		2.3.1.-		Putative acetyltransferase
+OIOADCLO_00231	gene	348				
+OIOADCLO_00231	CDS	348				hypothetical protein
+OIOADCLO_00232	gene	1047				
+OIOADCLO_00232	CDS	1047				extracellular solute-binding protein
+OIOADCLO_00233	gene	789				
+OIOADCLO_00233	CDS	789				response regulator
+OIOADCLO_00234	gene	1650				
+OIOADCLO_00234	CDS	1650				sensor histidine kinase
+OIOADCLO_00235	gene	828				
+OIOADCLO_00235	CDS	828				PTS system mannose/fructose/sorbose family transporter subunit IID
+OIOADCLO_00236	gene	810				
+OIOADCLO_00236	CDS	810				PTS mannose/fructose/sorbose/N-acetylgalactosamine transporter subunit IIC
+OIOADCLO_00237	gene	492				
+OIOADCLO_00237	CDS	492				PTS system mannose/fructose/N-acetylgalactosamine-transporter subunit IIB
+OIOADCLO_00238	gene	426				
+OIOADCLO_00238	CDS	426				PTS sugar transporter subunit IIA
+OIOADCLO_00239	gene	1020				
+OIOADCLO_00239	CDS	1020				YeiH family protein
+OIOADCLO_00240	gene	438	msrB_1			
+OIOADCLO_00240	CDS	438	msrB_1	1.8.4.12		peptide-methionine (R)-S-oxide reductase MsrB
+OIOADCLO_00241	gene	882	scl1_1			
+OIOADCLO_00241	CDS	882	scl1_1			LPXTG-anchored collagen-like adhesin Scl1/SclA
+OIOADCLO_00242	gene	1833	lepA			
+OIOADCLO_00242	CDS	1833	lepA	3.6.5.-		translation elongation factor 4
+OIOADCLO_00243	gene	198				
+OIOADCLO_00243	CDS	198				nucleoside-diphosphate kinase
+	repeat_region	234				
+OIOADCLO_00244	gene	663	csn2			
+OIOADCLO_00244	CDS	663	csn2			type II-A CRISPR-associated protein Csn2
+OIOADCLO_00245	gene	312	cas2_1			
+OIOADCLO_00245	CDS	312	cas2_1			CRISPR-associated endonuclease Cas2
+OIOADCLO_00246	gene	870	cas1_1			
+OIOADCLO_00246	CDS	870	cas1_1			type II CRISPR-associated endonuclease Cas1
+OIOADCLO_00247	gene	2289	cas9_1			
+OIOADCLO_00247	CDS	2289	cas9_1			type II CRISPR RNA-guided endonuclease Cas9
+OIOADCLO_00248	gene	1848	cas9_2			
+OIOADCLO_00248	CDS	1848	cas9_2			type II CRISPR RNA-guided endonuclease Cas9
+OIOADCLO_00249	gene	633				
+OIOADCLO_00249	CDS	633				TIGR01906 family membrane protein
+OIOADCLO_00250	gene	765				
+OIOADCLO_00250	CDS	765				TIGR01457 family HAD-type hydrolase
+OIOADCLO_00251	gene	753				
+OIOADCLO_00251	CDS	753				acyl-[acyl-carrier-protein] thioesterase
+OIOADCLO_00252	gene	1197	hemW			
+OIOADCLO_00252	CDS	1197	hemW			radical SAM family heme chaperone HemW
+OIOADCLO_00253	gene	642				
+OIOADCLO_00253	CDS	642				hypothetical protein
+OIOADCLO_00254	gene	1356	glmM			
+OIOADCLO_00254	CDS	1356	glmM	5.4.2.10		phosphoglucosamine mutase
+OIOADCLO_00255	gene	957				
+OIOADCLO_00255	CDS	957				YbbR-like domain-containing protein
+OIOADCLO_00256	gene	852	cdaA			
+OIOADCLO_00256	CDS	852	cdaA	2.7.7.85		diadenylate cyclase CdaA
+OIOADCLO_00257	gene	1338				
+OIOADCLO_00257	CDS	1338				Mur ligase family protein
+OIOADCLO_00258	gene	792				
+OIOADCLO_00258	CDS	792				type 1 glutamine amidotransferase
+OIOADCLO_00259	gene	990				
+OIOADCLO_00259	CDS	990		6.3.1.20		lipoate--protein ligase
+OIOADCLO_00260	gene	2418	hylA			
+OIOADCLO_00260	CDS	2418	hylA			hyaluronidase
+OIOADCLO_00261	gene	1764	lpdA			
+OIOADCLO_00261	CDS	1764	lpdA	1.8.1.4		dihydrolipoyl dehydrogenase
+OIOADCLO_00262	gene	1410				
+OIOADCLO_00262	CDS	1410				dihydrolipoamide acetyltransferase
+OIOADCLO_00263	gene	1002				
+OIOADCLO_00263	CDS	1002				alpha-ketoacid dehydrogenase subunit beta
+OIOADCLO_00264	gene	969				
+OIOADCLO_00264	CDS	969				thiamine pyrophosphate-dependent dehydrogenase E1 component subunit alpha
+OIOADCLO_00265	gene	1908				
+OIOADCLO_00265	CDS	1908				ABC-F family ATP-binding cassette domain-containing protein
+OIOADCLO_00266	gene	327				
+OIOADCLO_00266	CDS	327				hypothetical protein
+OIOADCLO_00267	gene	786				
+OIOADCLO_00267	CDS	786				esterase family protein
+OIOADCLO_00268	gene	1662				
+OIOADCLO_00268	CDS	1662				ribonuclease J
+OIOADCLO_00269	gene	759				
+OIOADCLO_00269	CDS	759				ABC transporter ATP-binding protein
+OIOADCLO_00270	gene	870				
+OIOADCLO_00270	CDS	870				ABC transporter permease
+OIOADCLO_00271	gene	165				
+OIOADCLO_00271	CDS	165				hypothetical protein
+OIOADCLO_00272	gene	999				
+OIOADCLO_00272	CDS	999				ABC transporter substrate-binding protein
+OIOADCLO_00273	gene	1653	fbp54			
+OIOADCLO_00273	CDS	1653	fbp54			Rqc2 family fibronectin-binding protein Fbp54
+OIOADCLO_00274	gene	1248				
+OIOADCLO_00274	CDS	1248				tetratricopeptide repeat protein
+OIOADCLO_00275	gene	1182				
+OIOADCLO_00275	CDS	1182				AI-2E family transporter
+OIOADCLO_00276	gene	477				
+OIOADCLO_00276	CDS	477				8-oxo-dGTP diphosphatase
+OIOADCLO_00277	gene	1041	rfbB			
+OIOADCLO_00277	CDS	1041	rfbB	4.2.1.46		dTDP-glucose 4,6-dehydratase
+OIOADCLO_00278	gene	594				
+OIOADCLO_00278	CDS	594				dTDP-4-dehydrorhamnose 3,5-epimerase family protein
+OIOADCLO_00279	gene	870	rfbA			
+OIOADCLO_00279	CDS	870	rfbA	2.7.7.24		glucose-1-phosphate thymidylyltransferase RfbA
+OIOADCLO_00280	gene	1107				
+OIOADCLO_00280	CDS	1107				FAD-binding oxidoreductase
+OIOADCLO_00281	gene	789				
+OIOADCLO_00281	CDS	789				Nif3-like dinuclear metal center hexameric protein
+OIOADCLO_00282	gene	687				
+OIOADCLO_00282	CDS	687				tRNA (adenine(22)-N(1))-methyltransferase TrmK
+OIOADCLO_00283	gene	657	nth			
+OIOADCLO_00283	CDS	657	nth			endonuclease III
+OIOADCLO_00284	gene	684				
+OIOADCLO_00284	CDS	684				DnaD domain-containing protein
+OIOADCLO_00285	gene	519				
+OIOADCLO_00285	CDS	519		2.4.2.7		adenine phosphoribosyltransferase
+OIOADCLO_00286	gene	2211	recJ			
+OIOADCLO_00286	CDS	2211	recJ			single-stranded-DNA-specific exonuclease RecJ
+OIOADCLO_00287	gene	765				
+OIOADCLO_00287	CDS	765				SDR family oxidoreductase
+OIOADCLO_00288	gene	930	rnz			
+OIOADCLO_00288	CDS	930	rnz	3.1.26.11		ribonuclease Z
+OIOADCLO_00289	gene	636				
+OIOADCLO_00289	CDS	636				cystathionine beta-lyase
+OIOADCLO_00290	gene	1242	hflX			
+OIOADCLO_00290	CDS	1242	hflX			GTPase HflX
+OIOADCLO_00291	gene	900	miaA			
+OIOADCLO_00291	CDS	900	miaA	2.5.1.75		tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+OIOADCLO_00292	gene	177				
+OIOADCLO_00292	CDS	177				hypothetical protein
+OIOADCLO_00293	gene	909				
+OIOADCLO_00293	CDS	909				TDT family transporter
+OIOADCLO_00294	gene	420				
+OIOADCLO_00294	CDS	420				hypothetical protein
+OIOADCLO_00295	gene	987				
+OIOADCLO_00295	CDS	987				rhodanese-related sulfurtransferase
+OIOADCLO_00296	gene	303				
+OIOADCLO_00296	CDS	303				hypothetical protein
+OIOADCLO_00297	gene	72				
+OIOADCLO_00297	tRNA	72				tRNA-Arg(ccg)
+OIOADCLO_00298	gene	1206	rpsA			
+OIOADCLO_00298	CDS	1206	rpsA			30S ribosomal protein S1
+OIOADCLO_00299	gene	75				
+OIOADCLO_00299	tRNA	75				tRNA-Gln(ttg)
+OIOADCLO_00300	gene	81				
+OIOADCLO_00300	tRNA	81				tRNA-Tyr(gta)
+OIOADCLO_00301	gene	231				
+OIOADCLO_00301	CDS	231				hypothetical protein
+OIOADCLO_00302	gene	1023				
+OIOADCLO_00302	CDS	1023		2.6.1.42		branched-chain amino acid aminotransferase
+OIOADCLO_00303	gene	2424	parC			
+OIOADCLO_00303	CDS	2424	parC	5.6.2.2		DNA topoisomerase IV subunit A
+OIOADCLO_00304	gene	1950	parE			
+OIOADCLO_00304	CDS	1950	parE	5.6.2.2		DNA topoisomerase IV subunit B
+OIOADCLO_00305	gene	642	plsY			
+OIOADCLO_00305	CDS	642	plsY	2.3.1.15		glycerol-3-phosphate 1-O-acyltransferase PlsY
+OIOADCLO_00306	gene	1269				
+OIOADCLO_00306	CDS	1269		3.5.2.3		dihydroorotase
+OIOADCLO_00307	gene	654				
+OIOADCLO_00307	CDS	654		3.2.2.27		uracil-DNA glycosylase
+OIOADCLO_00308	gene	651				
+OIOADCLO_00308	CDS	651				amino acid ABC transporter permease
+OIOADCLO_00309	gene	864				
+OIOADCLO_00309	CDS	864				transporter substrate-binding domain-containing protein
+OIOADCLO_00310	gene	1455				
+OIOADCLO_00310	CDS	1455		3.5.1.4		amidase
+OIOADCLO_00311	gene	630	pyrE			
+OIOADCLO_00311	CDS	630	pyrE	2.4.2.10		orotate phosphoribosyltransferase
+OIOADCLO_00312	gene	693	pyrF			
+OIOADCLO_00312	CDS	693	pyrF	4.1.1.23		orotidine-5'-phosphate decarboxylase
+OIOADCLO_00313	gene	537				
+OIOADCLO_00313	CDS	537				hypothetical protein
+OIOADCLO_00314	gene	855				
+OIOADCLO_00314	CDS	855				LysR family transcriptional regulator
+OIOADCLO_00315	gene	789				
+OIOADCLO_00315	CDS	789				hypothetical protein
+OIOADCLO_00316	gene	714	deoD_1			
+OIOADCLO_00316	CDS	714	deoD_1	2.4.2.1		purine-nucleoside phosphorylase
+OIOADCLO_00317	gene	810				
+OIOADCLO_00317	CDS	810		2.4.2.1		purine-nucleoside phosphorylase
+OIOADCLO_00318	gene	441	arsC			
+OIOADCLO_00318	CDS	441	arsC	1.20.4.1		arsenate reductase (glutaredoxin)
+OIOADCLO_00319	gene	1212				
+OIOADCLO_00319	CDS	1212		5.4.2.7		phosphopentomutase
+OIOADCLO_00320	gene	684	rpiA			
+OIOADCLO_00320	CDS	684	rpiA	5.3.1.6		ribose-5-phosphate isomerase RpiA
+OIOADCLO_00321	gene	2100				
+OIOADCLO_00321	CDS	2100				ATP-dependent Clp protease ATP-binding subunit
+OIOADCLO_00322	gene	744				
+OIOADCLO_00322	CDS	744				hypothetical protein
+OIOADCLO_00323	gene	600	yihA			
+OIOADCLO_00323	CDS	600	yihA			ribosome biogenesis GTP-binding protein YihA/YsxC
+OIOADCLO_00324	gene	1230	clpX			
+OIOADCLO_00324	CDS	1230	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+OIOADCLO_00325	gene	171				
+OIOADCLO_00325	CDS	171				hypothetical protein
+OIOADCLO_00326	gene	498				
+OIOADCLO_00326	CDS	498				dihydrofolate reductase
+OIOADCLO_00327	gene	840				
+OIOADCLO_00327	CDS	840		2.1.1.45		thymidylate synthase
+OIOADCLO_00328	gene	1176				
+OIOADCLO_00328	CDS	1176		2.3.3.10		hydroxymethylglutaryl-CoA synthase
+OIOADCLO_00329	gene	1278				
+OIOADCLO_00329	CDS	1278		1.1.1.88		hydroxymethylglutaryl-CoA reductase, degradative
+OIOADCLO_00330	gene	990	fni			
+OIOADCLO_00330	CDS	990	fni	5.3.3.2		type 2 isopentenyl-diphosphate Delta-isomerase
+OIOADCLO_00331	gene	1008				
+OIOADCLO_00331	CDS	1008		2.7.4.2		phosphomevalonate kinase
+OIOADCLO_00332	gene	945	mvaD			
+OIOADCLO_00332	CDS	945	mvaD	4.1.1.33		diphosphomevalonate decarboxylase
+OIOADCLO_00333	gene	894	mvk			
+OIOADCLO_00333	CDS	894	mvk	2.7.1.36		mevalonate kinase
+OIOADCLO_00334	gene	1233				
+OIOADCLO_00334	CDS	1233				HAMP domain-containing histidine kinase
+OIOADCLO_00335	gene	669				
+OIOADCLO_00335	CDS	669				response regulator transcription factor
+OIOADCLO_00336	gene	189				
+OIOADCLO_00336	CDS	189				GTP pyrophosphokinase family protein
+OIOADCLO_00337	gene	459				
+OIOADCLO_00337	CDS	459				GTP pyrophosphokinase family protein
+OIOADCLO_00338	gene	2013				
+OIOADCLO_00338	CDS	2013				bifunctional metallophosphatase/5'-nucleotidase
+OIOADCLO_00339	gene	411				
+OIOADCLO_00339	CDS	411		3.5.1.88		peptide deformylase
+OIOADCLO_00340	gene	1878				
+OIOADCLO_00340	CDS	1878				ABC-F family ATP-binding cassette domain-containing protein
+OIOADCLO_00341	gene	1209				
+OIOADCLO_00341	CDS	1209		2.7.7.72		CCA tRNA nucleotidyltransferase
+OIOADCLO_00342	gene	849				
+OIOADCLO_00342	CDS	849				DegV family protein
+OIOADCLO_00343	gene	381				
+OIOADCLO_00343	CDS	381				hypothetical protein
+OIOADCLO_00344	gene	177				
+OIOADCLO_00344	CDS	177				nucleoside-diphosphate kinase
+OIOADCLO_00345	gene	1020				
+OIOADCLO_00345	CDS	1020		3.4.22.-		IdeS/Mac family cysteine endopeptidase
+OIOADCLO_00346	gene	219				
+OIOADCLO_00346	CDS	219				IS3 family transposase
+OIOADCLO_00347	gene	708				
+OIOADCLO_00347	CDS	708				glycoside hydrolase family 73 protein
+OIOADCLO_00348	gene	594				
+OIOADCLO_00348	CDS	594				glycoside hydrolase family 73 protein
+OIOADCLO_00349	gene	1947				
+OIOADCLO_00349	CDS	1947				fructose-specific PTS transporter subunit EIIC
+OIOADCLO_00350	gene	912	pfkB			
+OIOADCLO_00350	CDS	912	pfkB	2.7.1.56		1-phosphofructokinase
+OIOADCLO_00351	gene	669				
+OIOADCLO_00351	CDS	669				DeoR/GlpR family DNA-binding transcription regulator
+OIOADCLO_00352	gene	924				
+OIOADCLO_00352	CDS	924				2-dehydropantoate 2-reductase
+OIOADCLO_00353	gene	1059				
+OIOADCLO_00353	CDS	1059				PTS transporter subunit IIC
+OIOADCLO_00354	gene	993				
+OIOADCLO_00354	CDS	993				NAD(P)/FAD-dependent oxidoreductase
+OIOADCLO_00355	gene	732	trmD			
+OIOADCLO_00355	CDS	732	trmD	2.1.1.228		tRNA (guanosine(37)-N1)-methyltransferase TrmD
+OIOADCLO_00356	gene	519	rimM			
+OIOADCLO_00356	CDS	519	rimM			ribosome maturation factor RimM
+OIOADCLO_00357	gene	522				
+OIOADCLO_00357	CDS	522				TetR/AcrR family transcriptional regulator
+OIOADCLO_00358	gene	876				
+OIOADCLO_00358	CDS	876				cation diffusion facilitator family transporter
+OIOADCLO_00359	gene	402				
+OIOADCLO_00359	CDS	402				pyridoxamine 5'-phosphate oxidase family protein
+OIOADCLO_00360	gene	3027				
+OIOADCLO_00360	CDS	3027				leucine-rich repeat protein
+OIOADCLO_00361	gene	240				
+OIOADCLO_00361	CDS	240				KH domain-containing protein
+OIOADCLO_00362	gene	273	rpsP			
+OIOADCLO_00362	CDS	273	rpsP			30S ribosomal protein S16
+OIOADCLO_00363	gene	1734				
+OIOADCLO_00363	CDS	1734				glycerophosphoryl diester phosphodiesterase membrane domain-containing protein
+OIOADCLO_00364	gene	1221				
+OIOADCLO_00364	CDS	1221				ABC transporter permease
+OIOADCLO_00365	gene	711				
+OIOADCLO_00365	CDS	711				ABC transporter ATP-binding protein
+OIOADCLO_00366	gene	1272				
+OIOADCLO_00366	CDS	1272				efflux RND transporter periplasmic adaptor subunit
+OIOADCLO_00367	gene	3177	carB			
+OIOADCLO_00367	CDS	3177	carB	6.3.5.5		carbamoyl-phosphate synthase large subunit
+OIOADCLO_00368	gene	1083				
+OIOADCLO_00368	CDS	1083				carbamoyl phosphate synthase small subunit
+OIOADCLO_00369	gene	987				
+OIOADCLO_00369	CDS	987		2.1.3.2		aspartate carbamoyltransferase catalytic subunit
+OIOADCLO_00370	gene	1260				
+OIOADCLO_00370	CDS	1260				NCS2 family nucleobase:cation symporter
+OIOADCLO_00371	gene	522	pyrR			
+OIOADCLO_00371	CDS	522	pyrR	2.4.2.9		bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR
+OIOADCLO_00372	gene	891				
+OIOADCLO_00372	CDS	891				RluA family pseudouridine synthase
+OIOADCLO_00373	gene	459	lspA			
+OIOADCLO_00373	CDS	459	lspA	3.4.23.36		signal peptidase II
+OIOADCLO_00374	gene	915				
+OIOADCLO_00374	CDS	915				LysR family transcriptional regulator
+OIOADCLO_00375	gene	294	rpmA			
+OIOADCLO_00375	CDS	294	rpmA			50S ribosomal protein L27
+OIOADCLO_00376	gene	327				
+OIOADCLO_00376	CDS	327				ribosomal-processing cysteine protease Prp
+OIOADCLO_00377	gene	315	rplU			
+OIOADCLO_00377	CDS	315	rplU			50S ribosomal protein L21
+OIOADCLO_00378	gene	1293				
+OIOADCLO_00378	CDS	1293				CapA family protein
+OIOADCLO_00379	gene	1215	thiI			
+OIOADCLO_00379	CDS	1215	thiI	2.8.1.4		tRNA 4-thiouridine(8) synthase ThiI
+OIOADCLO_00380	gene	1143				
+OIOADCLO_00380	CDS	1143				cysteine desulfurase
+OIOADCLO_00381	gene	441				
+OIOADCLO_00381	CDS	441				membrane protein
+OIOADCLO_00382	gene	1269				
+OIOADCLO_00382	CDS	1269				bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+OIOADCLO_00383	gene	1353	gorA			
+OIOADCLO_00383	CDS	1353	gorA	1.8.1.7		glutathione-disulfide reductase
+OIOADCLO_00384	gene	342				
+OIOADCLO_00384	CDS	342				YlbF/YmcA family competence regulator
+OIOADCLO_00385	gene	1167	aroC			
+OIOADCLO_00385	CDS	1167	aroC	4.2.3.5		chorismate synthase
+OIOADCLO_00386	gene	687	aroD			
+OIOADCLO_00386	CDS	687	aroD	4.2.1.10		type I 3-dehydroquinate dehydratase
+OIOADCLO_00387	gene	1164				
+OIOADCLO_00387	CDS	1164				class I SAM-dependent rRNA methyltransferase
+OIOADCLO_00388	gene	2211				
+OIOADCLO_00388	CDS	2211				LTA synthase family protein
+OIOADCLO_00389	gene	360	rplT			
+OIOADCLO_00389	CDS	360	rplT			50S ribosomal protein L20
+OIOADCLO_00390	gene	198	rpmI			
+OIOADCLO_00390	CDS	198	rpmI			50S ribosomal protein L35
+OIOADCLO_00391	gene	531	infC			
+OIOADCLO_00391	CDS	531	infC			translation initiation factor IF-3
+OIOADCLO_00392	gene	681	cmk			
+OIOADCLO_00392	CDS	681	cmk	2.7.4.25		(d)CMP kinase
+OIOADCLO_00393	gene	477				
+OIOADCLO_00393	CDS	477				LysM peptidoglycan-binding domain-containing protein
+OIOADCLO_00394	gene	489				
+OIOADCLO_00394	CDS	489				EbsA family protein
+OIOADCLO_00395	gene	1224	pepT			
+OIOADCLO_00395	CDS	1224	pepT	3.4.11.4		peptidase T
+OIOADCLO_00396	gene	1497				
+OIOADCLO_00396	CDS	1497				hypothetical protein
+OIOADCLO_00397	gene	1287				
+OIOADCLO_00397	CDS	1287				lipopolysaccharide biosynthesis protein
+OIOADCLO_00398	gene	342				
+OIOADCLO_00398	CDS	342				hypothetical protein
+OIOADCLO_00399	gene	696				
+OIOADCLO_00399	CDS	696				glycosyltransferase family 2 protein
+OIOADCLO_00400	gene	2475				
+OIOADCLO_00400	CDS	2475				LTA synthase family protein
+OIOADCLO_00401	gene	1746				
+OIOADCLO_00401	CDS	1746				alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+OIOADCLO_00402	gene	1008				
+OIOADCLO_00402	CDS	1008		2.4.-.-		glycosyltransferase
+OIOADCLO_00403	gene	1206				
+OIOADCLO_00403	CDS	1206				ABC transporter ATP-binding protein
+OIOADCLO_00404	gene	804				
+OIOADCLO_00404	CDS	804				ABC transporter permease
+OIOADCLO_00405	gene	933				
+OIOADCLO_00405	CDS	933				glycosyltransferase family 2 protein
+OIOADCLO_00406	gene	1155				
+OIOADCLO_00406	CDS	1155				hypothetical protein
+OIOADCLO_00407	gene	855	rfbD			
+OIOADCLO_00407	CDS	855	rfbD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+OIOADCLO_00408	gene	339				
+OIOADCLO_00408	CDS	339				metal-sulfur cluster assembly factor
+OIOADCLO_00409	gene	1110	rpoD			
+OIOADCLO_00409	CDS	1110	rpoD			RNA polymerase sigma factor RpoD
+OIOADCLO_00410	gene	1815	dnaG			
+OIOADCLO_00410	CDS	1815	dnaG			DNA primase
+OIOADCLO_00411	gene	363	mscL			
+OIOADCLO_00411	CDS	363	mscL			large conductance mechanosensitive channel protein MscL
+OIOADCLO_00412	gene	207	rpsU			
+OIOADCLO_00412	CDS	207	rpsU			30S ribosomal protein S21
+OIOADCLO_00413	gene	813				
+OIOADCLO_00413	CDS	813				transporter substrate-binding domain-containing protein
+OIOADCLO_00414	gene	3633	addA			
+OIOADCLO_00414	CDS	3633	addA			helicase-exonuclease AddAB subunit AddA
+OIOADCLO_00415	gene	3216	rexB			
+OIOADCLO_00415	CDS	3216	rexB			ATP-dependent nuclease subunit B
+OIOADCLO_00416	gene	918				
+OIOADCLO_00416	CDS	918				neutral zinc metallopeptidase
+OIOADCLO_00417	gene	669				
+OIOADCLO_00417	CDS	669				ABC transporter ATP-binding protein
+OIOADCLO_00418	gene	1077				
+OIOADCLO_00418	CDS	1077				ABC transporter permease
+OIOADCLO_00419	gene	387				
+OIOADCLO_00419	CDS	387				YbgA family protein
+OIOADCLO_00420	gene	378				
+OIOADCLO_00420	CDS	378				OsmC family protein
+OIOADCLO_00421	gene	2406	pheT			
+OIOADCLO_00421	CDS	2406	pheT	6.1.1.20		phenylalanine--tRNA ligase subunit beta
+OIOADCLO_00422	gene	1077	pheS			
+OIOADCLO_00422	CDS	1077	pheS	6.1.1.20		phenylalanine--tRNA ligase subunit alpha
+OIOADCLO_00423	gene	738				
+OIOADCLO_00423	CDS	738				RNA methyltransferase
+OIOADCLO_00424	gene	501				
+OIOADCLO_00424	CDS	501				HD domain-containing protein
+OIOADCLO_00425	gene	690				
+OIOADCLO_00425	CDS	690				Bax inhibitor-1/YccA family protein
+OIOADCLO_00426	gene	243				
+OIOADCLO_00426	CDS	243				YneF family protein
+OIOADCLO_00427	gene	795	racE			
+OIOADCLO_00427	CDS	795	racE	5.1.1.3		glutamate racemase
+OIOADCLO_00428	gene	987				
+OIOADCLO_00428	CDS	987				nucleoside-triphosphate diphosphatase
+OIOADCLO_00429	gene	522				
+OIOADCLO_00429	CDS	522				metallophosphoesterase
+OIOADCLO_00430	gene	462				
+OIOADCLO_00430	CDS	462				CBS domain-containing protein
+OIOADCLO_00431	gene	747	xerD			
+OIOADCLO_00431	CDS	747	xerD			site-specific tyrosine recombinase XerD
+OIOADCLO_00432	gene	702				
+OIOADCLO_00432	CDS	702				segregation/condensation protein A
+OIOADCLO_00433	gene	552				
+OIOADCLO_00433	CDS	552				SMC-Scp complex subunit ScpB
+OIOADCLO_00434	gene	723				
+OIOADCLO_00434	CDS	723				rRNA pseudouridine synthase
+OIOADCLO_00435	gene	264	yidD			
+OIOADCLO_00435	CDS	264	yidD			membrane protein insertion efficiency factor YidD
+OIOADCLO_00436	gene	549				
+OIOADCLO_00436	CDS	549				tRNA (cytidine(34)-2'-O)-methyltransferase
+OIOADCLO_00437	gene	564				
+OIOADCLO_00437	CDS	564				ECF transporter S component
+OIOADCLO_00438	gene	654				
+OIOADCLO_00438	CDS	654				phosphatase PAP2 family protein
+OIOADCLO_00439	gene	921				
+OIOADCLO_00439	CDS	921				TIGR01212 family radical SAM protein
+OIOADCLO_00440	gene	555				
+OIOADCLO_00440	CDS	555				class I SAM-dependent methyltransferase
+OIOADCLO_00441	gene	1335				
+OIOADCLO_00441	CDS	1335				hemolysin family protein
+OIOADCLO_00442	gene	864	pflA			
+OIOADCLO_00442	CDS	864	pflA	1.97.1.4		pyruvate formate-lyase-activating protein
+OIOADCLO_00443	gene	936				
+OIOADCLO_00443	CDS	936		3.6.1.1		manganese-dependent inorganic pyrophosphatase
+OIOADCLO_00444	gene	654				
+OIOADCLO_00444	CDS	654				hypothetical protein
+OIOADCLO_00445	gene	1002				
+OIOADCLO_00445	CDS	1002				iron ABC transporter permease
+OIOADCLO_00446	gene	1053				
+OIOADCLO_00446	CDS	1053				iron ABC transporter permease
+OIOADCLO_00447	gene	933				
+OIOADCLO_00447	CDS	933				iron-hydroxamate ABC transporter substrate-binding protein
+OIOADCLO_00448	gene	783				
+OIOADCLO_00448	CDS	783				ABC transporter ATP-binding protein
+OIOADCLO_00449	gene	1446				
+OIOADCLO_00449	CDS	1446		6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L- lysine ligase
+OIOADCLO_00450	gene	1635				
+OIOADCLO_00450	CDS	1635				polysaccharide biosynthesis protein
+OIOADCLO_00451	gene	630	upp			
+OIOADCLO_00451	CDS	630	upp	2.4.2.9		uracil phosphoribosyltransferase
+OIOADCLO_00452	gene	591				
+OIOADCLO_00452	CDS	591				ATP-dependent Clp protease proteolytic subunit
+OIOADCLO_00453	gene	276				
+OIOADCLO_00453	CDS	276				YlbG family protein
+OIOADCLO_00454	gene	636	tmk			
+OIOADCLO_00454	CDS	636	tmk	2.7.4.9		dTMP kinase
+OIOADCLO_00455	gene	876				
+OIOADCLO_00455	CDS	876		2.7.7.7		DNA polymerase III subunit delta'
+OIOADCLO_00456	gene	240				
+OIOADCLO_00456	CDS	240				hypothetical protein
+OIOADCLO_00457	gene	324	yabA			
+OIOADCLO_00457	CDS	324	yabA			DNA replication initiation control protein YabA
+OIOADCLO_00458	gene	864	rsmI			
+OIOADCLO_00458	CDS	864	rsmI	2.1.1.198		16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+OIOADCLO_00459	gene	393				
+OIOADCLO_00459	CDS	393				hypothetical protein
+OIOADCLO_00460	gene	630				
+OIOADCLO_00460	CDS	630				copper homeostasis protein CutC
+OIOADCLO_00461	gene	357				
+OIOADCLO_00461	CDS	357				arsenate reductase family protein
+OIOADCLO_00462	gene	828	xth			
+OIOADCLO_00462	CDS	828	xth			exodeoxyribonuclease III
+OIOADCLO_00463	gene	1182	lctO			
+OIOADCLO_00463	CDS	1182	lctO			L-lactate oxidase
+OIOADCLO_00464	gene	4944	scpC			
+OIOADCLO_00464	CDS	4944	scpC	3.4.21.-		CXC chemokine-degrading serine protease SpyCEP
+OIOADCLO_00465	gene	708				
+OIOADCLO_00465	CDS	708				YoaK family protein
+OIOADCLO_00466	gene	1998	metG			
+OIOADCLO_00466	CDS	1998	metG	6.1.1.10		methionine--tRNA ligase
+OIOADCLO_00467	gene	1014	nrdF_1			
+OIOADCLO_00467	CDS	1014	nrdF_1	1.17.4.1		class 1b ribonucleoside-diphosphate reductase subunit beta
+OIOADCLO_00468	gene	489	nrdI_1			
+OIOADCLO_00468	CDS	489	nrdI_1			class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+OIOADCLO_00469	gene	2181	nrdE_1			
+OIOADCLO_00469	CDS	2181	nrdE_1	1.17.4.1		class 1b ribonucleoside-diphosphate reductase subunit alpha
+OIOADCLO_00470	gene	753				
+OIOADCLO_00470	CDS	753				ADP-ribosyltransferase
+OIOADCLO_00471	gene	537				
+OIOADCLO_00471	CDS	537				hypothetical protein
+OIOADCLO_00472	gene	252				
+OIOADCLO_00472	CDS	252				hypothetical protein
+OIOADCLO_00473	gene	633				
+OIOADCLO_00473	CDS	633				hypothetical protein
+OIOADCLO_00474	gene	321				
+OIOADCLO_00474	CDS	321				hypothetical protein
+OIOADCLO_00475	gene	699	spej			
+OIOADCLO_00475	CDS	699	spej			streptococcal pyrogenic exotoxin SpeJ
+OIOADCLO_00476	gene	615				
+OIOADCLO_00476	CDS	615				hypothetical protein
+OIOADCLO_00477	gene	237				
+OIOADCLO_00477	CDS	237				hypothetical protein
+OIOADCLO_00478	gene	699				
+OIOADCLO_00478	CDS	699		1.1.1.100		3-oxoacyl-ACP reductase
+OIOADCLO_00479	gene	960				
+OIOADCLO_00479	CDS	960				Gfo/Idh/MocA family oxidoreductase
+OIOADCLO_00480	gene	1338				
+OIOADCLO_00480	CDS	1338				MFS transporter
+OIOADCLO_00481	gene	1383	glmU			
+OIOADCLO_00481	CDS	1383	glmU	2.3.1.157		bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+OIOADCLO_00482	gene	555				
+OIOADCLO_00482	CDS	555				NUDIX hydrolase
+OIOADCLO_00483	gene	252	macP			
+OIOADCLO_00483	CDS	252	macP			cell wall synthase accessory phosphoprotein MacP
+OIOADCLO_00484	gene	696				
+OIOADCLO_00484	CDS	696		3.2.2.9		5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+OIOADCLO_00485	gene	342				
+OIOADCLO_00485	CDS	342				hypothetical protein
+OIOADCLO_00486	gene	648				
+OIOADCLO_00486	CDS	648				metal-dependent transcriptional regulator
+OIOADCLO_00487	gene	933				
+OIOADCLO_00487	CDS	933				metal ABC transporter substrate-binding protein
+OIOADCLO_00488	gene	726				
+OIOADCLO_00488	CDS	726				metal ABC transporter ATP-binding protein
+OIOADCLO_00489	gene	855				
+OIOADCLO_00489	CDS	855				metal ABC transporter permease
+OIOADCLO_00490	gene	807				
+OIOADCLO_00490	CDS	807				peptidylprolyl isomerase
+OIOADCLO_00491	gene	2406				
+OIOADCLO_00491	CDS	2406				DNA translocase FtsK
+OIOADCLO_00492	gene	354				
+OIOADCLO_00492	CDS	354				hypothetical protein
+OIOADCLO_00493	gene	426	rplK			
+OIOADCLO_00493	CDS	426	rplK			50S ribosomal protein L11
+OIOADCLO_00494	gene	690	rplA			
+OIOADCLO_00494	CDS	690	rplA			50S ribosomal protein L1
+OIOADCLO_00495	gene	729	pyrH			
+OIOADCLO_00495	CDS	729	pyrH	2.7.4.22		UMP kinase
+OIOADCLO_00496	gene	558	frr			
+OIOADCLO_00496	CDS	558	frr			ribosome recycling factor
+OIOADCLO_00497	gene	858				
+OIOADCLO_00497	CDS	858				S1 RNA-binding domain-containing protein
+OIOADCLO_00498	gene	510	msrA			
+OIOADCLO_00498	CDS	510	msrA	1.8.4.11		peptide-methionine (S)-S-oxide reductase MsrA
+OIOADCLO_00499	gene	216				
+OIOADCLO_00499	CDS	216				YozE family protein
+OIOADCLO_00500	gene	1170				
+OIOADCLO_00500	CDS	1170				LysM peptidoglycan-binding domain-containing protein
+OIOADCLO_00501	gene	1773				
+OIOADCLO_00501	CDS	1773		4.2.1.53		oleate hydratase
+OIOADCLO_00502	gene	1053				
+OIOADCLO_00502	CDS	1053				PhoH family protein
+OIOADCLO_00503	gene	576				
+OIOADCLO_00503	CDS	576				uracil-DNA glycosylase family protein
+OIOADCLO_00504	gene	498	ybeY			
+OIOADCLO_00504	CDS	498	ybeY			rRNA maturation RNase YbeY
+OIOADCLO_00505	gene	408				
+OIOADCLO_00505	CDS	408				diacylglycerol kinase
+OIOADCLO_00506	gene	897	era			
+OIOADCLO_00506	CDS	897	era			GTPase Era
+OIOADCLO_00507	gene	477				
+OIOADCLO_00507	CDS	477				NUDIX domain-containing protein
+OIOADCLO_00508	gene	255				
+OIOADCLO_00508	CDS	255				hypothetical protein
+OIOADCLO_00509	gene	246				
+OIOADCLO_00509	CDS	246				Blp family class II bacteriocin
+OIOADCLO_00510	gene	183				
+OIOADCLO_00510	CDS	183				class IIb bacteriocin, lactobin A/cerein 7B family
+OIOADCLO_00511	gene	150				
+OIOADCLO_00511	CDS	150				hypothetical protein
+OIOADCLO_00512	gene	423				
+OIOADCLO_00512	CDS	423				IS256 family transposase ISSag11
+OIOADCLO_00513	gene	165				
+OIOADCLO_00513	CDS	165				Blp family class II bacteriocin
+OIOADCLO_00514	gene	201				
+OIOADCLO_00514	CDS	201				class IIb bacteriocin, lactobin A/cerein 7B family
+OIOADCLO_00515	gene	195				
+OIOADCLO_00515	CDS	195				hypothetical protein
+OIOADCLO_00516	gene	105				
+OIOADCLO_00516	CDS	105				hypothetical protein
+OIOADCLO_00517	gene	996				
+OIOADCLO_00517	CDS	996				hypothetical protein
+OIOADCLO_00518	gene	447				
+OIOADCLO_00518	CDS	447				hypothetical protein
+OIOADCLO_00519	gene	270	stcA			
+OIOADCLO_00519	CDS	270	stcA			quorum-sensing system protein StcA
+OIOADCLO_00520	gene	867	rgg2			
+OIOADCLO_00520	CDS	867	rgg2			quorum-sensing system transcriptional regulator Rgg2
+OIOADCLO_00521	gene	828	mutM			
+OIOADCLO_00521	CDS	828	mutM	3.2.2.23		DNA-formamidopyrimidine glycosylase
+OIOADCLO_00522	gene	594	coaE			
+OIOADCLO_00522	CDS	594	coaE	2.7.1.24		dephospho-CoA kinase
+OIOADCLO_00523	gene	1503				
+OIOADCLO_00523	CDS	1503				hypothetical protein
+OIOADCLO_00524	gene	1194				
+OIOADCLO_00524	CDS	1194				multidrug efflux MFS transporter
+OIOADCLO_00525	gene	237	secG			
+OIOADCLO_00525	CDS	237	secG			preprotein translocase subunit SecG
+OIOADCLO_00526	gene	2334	rnr			
+OIOADCLO_00526	CDS	2334	rnr			ribonuclease R
+OIOADCLO_00527	gene	468	smpB			
+OIOADCLO_00527	CDS	468	smpB			SsrA-binding protein SmpB
+OIOADCLO_00528	gene	720				
+OIOADCLO_00528	CDS	720				glutaminyl-peptide cyclotransferase
+OIOADCLO_00529	gene	648	pcp			
+OIOADCLO_00529	CDS	648	pcp	3.4.19.3		pyroglutamyl-peptidase I
+OIOADCLO_00530	gene	927				
+OIOADCLO_00530	CDS	927				hypothetical protein
+OIOADCLO_00531	gene	684				
+OIOADCLO_00531	CDS	684				hypothetical protein
+OIOADCLO_00532	gene	927				
+OIOADCLO_00532	CDS	927				glycosyltransferase family 2 protein
+OIOADCLO_00533	gene	378				
+OIOADCLO_00533	CDS	378				VOC family protein
+OIOADCLO_00534	gene	666				
+OIOADCLO_00534	CDS	666				NAD(P)H-dependent oxidoreductase
+OIOADCLO_00535	gene	1086				
+OIOADCLO_00535	CDS	1086				Xaa-Pro peptidase family protein
+OIOADCLO_00536	gene	1002	ccpA			
+OIOADCLO_00536	CDS	1002	ccpA			catabolite control protein A
+OIOADCLO_00537	gene	999				
+OIOADCLO_00537	CDS	999				glycosyltransferase family 4 protein
+OIOADCLO_00538	gene	1335				
+OIOADCLO_00538	CDS	1335				glycosyltransferase family 4 protein
+OIOADCLO_00539	gene	1944	thrS			
+OIOADCLO_00539	CDS	1944	thrS	6.1.1.3		threonine--tRNA ligase
+OIOADCLO_00540	gene	993				
+OIOADCLO_00540	CDS	993				ATP-binding cassette domain-containing protein
+OIOADCLO_00541	gene	819				
+OIOADCLO_00541	CDS	819				ABC-2 family transporter protein
+OIOADCLO_00542	gene	786				
+OIOADCLO_00542	CDS	786				ABC transporter permease
+OIOADCLO_00543	gene	1149				
+OIOADCLO_00543	CDS	1149		2.3.1.16		acetyl-CoA C-acyltransferase
+OIOADCLO_00544	gene	1248				
+OIOADCLO_00544	CDS	1248				AMP-binding protein
+OIOADCLO_00545	gene	996				
+OIOADCLO_00545	CDS	996				hypothetical protein
+OIOADCLO_00546	gene	711	yycF_2			
+OIOADCLO_00546	CDS	711	yycF_2			response regulator YycF
+OIOADCLO_00547	gene	1353	vicK			
+OIOADCLO_00547	CDS	1353	vicK	2.7.13.3		cell wall metabolism sensor histidine kinase VicK
+OIOADCLO_00548	gene	810				
+OIOADCLO_00548	CDS	810				MBL fold metallo-hydrolase
+OIOADCLO_00549	gene	693	rnc			
+OIOADCLO_00549	CDS	693	rnc	3.1.26.3		ribonuclease III
+OIOADCLO_00550	gene	3540	smc			
+OIOADCLO_00550	CDS	3540	smc			chromosome segregation protein SMC
+OIOADCLO_00551	gene	873	rgg3			
+OIOADCLO_00551	CDS	873	rgg3			quorum-sensing system transcriptional regulator Rgg3
+OIOADCLO_00552	gene	873				
+OIOADCLO_00552	CDS	873		1.1.1.25		shikimate dehydrogenase
+OIOADCLO_00553	gene	837				
+OIOADCLO_00553	CDS	837				sugar phosphate isomerase/epimerase
+OIOADCLO_00554	gene	735				
+OIOADCLO_00554	CDS	735		6.3.2.31		coenzyme F420-0:L-glutamate ligase
+OIOADCLO_00555	gene	987				
+OIOADCLO_00555	CDS	987				dehydrogenase
+OIOADCLO_00556	gene	1200				
+OIOADCLO_00556	CDS	1200		2.5.1.6		methionine adenosyltransferase
+OIOADCLO_00557	gene	969				
+OIOADCLO_00557	CDS	969				serine kinase
+OIOADCLO_00558	gene	990				
+OIOADCLO_00558	CDS	990		2.4.-.-		glycosyltransferase
+OIOADCLO_00559	gene	1158				
+OIOADCLO_00559	CDS	1158				UDP-glucose/GDP-mannose dehydrogenase family protein
+OIOADCLO_00560	gene	1209				
+OIOADCLO_00560	CDS	1209				MFS transporter
+OIOADCLO_00561	gene	210				
+OIOADCLO_00561	CDS	210				helix-turn-helix transcriptional regulator
+OIOADCLO_00562	gene	846				
+OIOADCLO_00562	CDS	846				hypothetical protein
+OIOADCLO_00563	gene	729				
+OIOADCLO_00563	CDS	729				hypothetical protein
+OIOADCLO_00564	gene	225				
+OIOADCLO_00564	CDS	225				hypothetical protein
+OIOADCLO_00565	gene	885				
+OIOADCLO_00565	CDS	885				hypothetical protein
+OIOADCLO_00566	gene	159				
+OIOADCLO_00566	CDS	159				terminase
+OIOADCLO_00567	gene	303				
+OIOADCLO_00567	CDS	303				type II toxin-antitoxin system RelB/DinJ family antitoxin
+OIOADCLO_00568	gene	306				
+OIOADCLO_00568	CDS	306				type II toxin-antitoxin system RelE/ParE family toxin
+OIOADCLO_00569	gene	273				
+OIOADCLO_00569	CDS	273				hypothetical protein
+OIOADCLO_00570	gene	453				
+OIOADCLO_00570	CDS	453				hypothetical protein
+OIOADCLO_00571	gene	315				
+OIOADCLO_00571	CDS	315				hypothetical protein
+OIOADCLO_00572	gene	339				
+OIOADCLO_00572	CDS	339				hypothetical protein
+OIOADCLO_00573	gene	825	asnS_1			
+OIOADCLO_00573	CDS	825	asnS_1	6.1.1.22		asparagine--tRNA ligase
+OIOADCLO_00574	gene	1248	ddl			
+OIOADCLO_00574	CDS	1248	ddl	6.3.2.4		D-alanine--D-alanine ligase
+OIOADCLO_00575	gene	717	mccF			
+OIOADCLO_00575	CDS	717	mccF			Microcin C7 self-immunity protein MccF
+OIOADCLO_00576	gene	201				
+OIOADCLO_00576	CDS	201				hypothetical protein
+OIOADCLO_00577	gene	900				
+OIOADCLO_00577	CDS	900				hypothetical protein
+OIOADCLO_00578	gene	714				
+OIOADCLO_00578	CDS	714				IS3 family transposase
+OIOADCLO_00579	gene	276				
+OIOADCLO_00579	CDS	276				IS3 family transposase ISSag5
+OIOADCLO_00580	gene	798				
+OIOADCLO_00580	CDS	798				Cof-type HAD-IIB family hydrolase
+OIOADCLO_00581	gene	825				
+OIOADCLO_00581	CDS	825				Cof-type HAD-IIB family hydrolase
+OIOADCLO_00582	gene	1551	ftsY			
+OIOADCLO_00582	CDS	1551	ftsY			signal recognition particle-docking protein FtsY
+OIOADCLO_00583	gene	1368				
+OIOADCLO_00583	CDS	1368				MFS transporter
+OIOADCLO_00584	gene	843				
+OIOADCLO_00584	CDS	843				PRD domain-containing protein
+OIOADCLO_00585	gene	1863				
+OIOADCLO_00585	CDS	1863				PTS beta-glucoside transporter subunit IIBCA
+OIOADCLO_00586	gene	1425				
+OIOADCLO_00586	CDS	1425				glycoside hydrolase family 1 protein
+OIOADCLO_00587	gene	816				
+OIOADCLO_00587	CDS	816				TIGR03943 family protein
+OIOADCLO_00588	gene	903				
+OIOADCLO_00588	CDS	903				permease
+OIOADCLO_00589	gene	156				
+OIOADCLO_00589	CDS	156				hypothetical protein
+OIOADCLO_00590	gene	2133				
+OIOADCLO_00590	CDS	2133				RNA-binding transcriptional accessory protein
+OIOADCLO_00591	gene	273				
+OIOADCLO_00591	CDS	273				PspC domain-containing protein
+OIOADCLO_00592	gene	933	hprK			
+OIOADCLO_00592	CDS	933	hprK			HPr(Ser) kinase/phosphatase
+OIOADCLO_00593	gene	780	lgt			
+OIOADCLO_00593	CDS	780	lgt	2.5.1.145		prolipoprotein diacylglyceryl transferase
+OIOADCLO_00594	gene	408				
+OIOADCLO_00594	CDS	408				hypothetical protein
+OIOADCLO_00595	gene	429				
+OIOADCLO_00595	CDS	429				YtxH domain-containing protein
+OIOADCLO_00596	gene	285				
+OIOADCLO_00596	CDS	285				hypothetical protein
+OIOADCLO_00597	gene	927				
+OIOADCLO_00597	CDS	927				U32 family peptidase
+OIOADCLO_00598	gene	1278				
+OIOADCLO_00598	CDS	1278				U32 family peptidase
+OIOADCLO_00599	gene	213				
+OIOADCLO_00599	CDS	213				YdbC family protein
+OIOADCLO_00600	gene	1494	lysS			
+OIOADCLO_00600	CDS	1494	lysS	6.1.1.6		lysine--tRNA ligase
+OIOADCLO_00601	gene	903				
+OIOADCLO_00601	CDS	903				HAD family hydrolase
+OIOADCLO_00602	gene	624				
+OIOADCLO_00602	CDS	624				histidine phosphatase family protein
+OIOADCLO_00603	gene	480				
+OIOADCLO_00603	CDS	480				aminoacyl-tRNA deacylase
+OIOADCLO_00604	gene	564	thiT			
+OIOADCLO_00604	CDS	564	thiT			energy-coupled thiamine transporter ThiT
+OIOADCLO_00605	gene	849				
+OIOADCLO_00605	CDS	849				glycoside hydrolase family 25 protein
+OIOADCLO_00606	gene	504				
+OIOADCLO_00606	CDS	504				ECF transporter S component
+OIOADCLO_00607	gene	387				
+OIOADCLO_00607	CDS	387				hypothetical protein
+OIOADCLO_00608	gene	480				
+OIOADCLO_00608	CDS	480				glutathione peroxidase
+OIOADCLO_00609	gene	1800	pepF_1			
+OIOADCLO_00609	CDS	1800	pepF_1			oligoendopeptidase F
+OIOADCLO_00610	gene	2799	ppc			
+OIOADCLO_00610	CDS	2799	ppc	4.1.1.31		phosphoenolpyruvate carboxylase
+OIOADCLO_00611	gene	1275				
+OIOADCLO_00611	CDS	1275				FtsW/RodA/SpoVE family cell cycle protein
+OIOADCLO_00612	gene	1197	tuf			
+OIOADCLO_00612	CDS	1197	tuf			elongation factor Tu
+OIOADCLO_00613	gene	759	tpiA			
+OIOADCLO_00613	CDS	759	tpiA	5.3.1.1		triose-phosphate isomerase
+OIOADCLO_00614	gene	1236				
+OIOADCLO_00614	CDS	1236				aminoacyltransferase
+OIOADCLO_00615	gene	1227				
+OIOADCLO_00615	CDS	1227				lipid II:glycine glycyltransferase FemX
+OIOADCLO_00616	gene	810	yidA			
+OIOADCLO_00616	CDS	810	yidA	3.1.3.23		sugar-phosphatase
+OIOADCLO_00617	gene	1302				
+OIOADCLO_00617	CDS	1302				HD domain-containing protein
+OIOADCLO_00618	gene	387				
+OIOADCLO_00618	CDS	387				hypothetical protein
+OIOADCLO_00619	gene	2682				
+OIOADCLO_00619	CDS	2682				cation-translocating P-type ATPase
+OIOADCLO_00620	gene	996				
+OIOADCLO_00620	CDS	996				LacI family DNA-binding transcriptional regulator
+OIOADCLO_00621	gene	1908				
+OIOADCLO_00621	CDS	1908				alginate lyase family protein
+OIOADCLO_00622	gene	822				
+OIOADCLO_00622	CDS	822				PTS system mannose/fructose/sorbose family transporter subunit IID
+OIOADCLO_00623	gene	783				
+OIOADCLO_00623	CDS	783				PTS mannose/fructose/sorbose/N-acetylgalactosamine transporter subunit IIC
+OIOADCLO_00624	gene	489				
+OIOADCLO_00624	CDS	489				PTS system mannose/fructose/N-acetylgalactosamine-transporter subunit IIB
+OIOADCLO_00625	gene	1200				
+OIOADCLO_00625	CDS	1200				glycoside hydrolase family 88 protein
+OIOADCLO_00626	gene	438				
+OIOADCLO_00626	CDS	438				PTS sugar transporter subunit IIA
+OIOADCLO_00627	gene	795				
+OIOADCLO_00627	CDS	795		1.1.1.69		gluconate 5-dehydrogenase
+OIOADCLO_00628	gene	642				
+OIOADCLO_00628	CDS	642				RpiB/LacA/LacB family sugar-phosphate isomerase
+OIOADCLO_00629	gene	1002				
+OIOADCLO_00629	CDS	1002				sugar kinase
+OIOADCLO_00630	gene	636				
+OIOADCLO_00630	CDS	636				bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+OIOADCLO_00631	gene	651				
+OIOADCLO_00631	CDS	651				HAD family phosphatase
+OIOADCLO_00632	gene	1125	queG			
+OIOADCLO_00632	CDS	1125	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+OIOADCLO_00633	gene	981	prfB			
+OIOADCLO_00633	CDS	981	prfB			peptide chain release factor 2
+OIOADCLO_00634	gene	693	ftsE			
+OIOADCLO_00634	CDS	693	ftsE			cell division ATP-binding protein FtsE
+OIOADCLO_00635	gene	930	ftsX			
+OIOADCLO_00635	CDS	930	ftsX			permease-like cell division protein FtsX
+OIOADCLO_00636	gene	636				
+OIOADCLO_00636	CDS	636				MBL fold metallo-hydrolase
+OIOADCLO_00637	gene	615				
+OIOADCLO_00637	CDS	615		1.1.1.304		(S)-acetoin forming diacetyl reductase
+OIOADCLO_00638	gene	147				
+OIOADCLO_00638	CDS	147		1.1.1.304		(S)-acetoin forming diacetyl reductase
+OIOADCLO_00639	gene	2502				
+OIOADCLO_00639	CDS	2502				bifunctional DnaQ family exonuclease/ATP-dependent helicase
+OIOADCLO_00640	gene	1194				
+OIOADCLO_00640	CDS	1194				pyridoxal phosphate-dependent aminotransferase
+OIOADCLO_00641	gene	1347	asnS_2			
+OIOADCLO_00641	CDS	1347	asnS_2	6.1.1.22		asparagine--tRNA ligase
+OIOADCLO_00642	gene	891	rapZ			
+OIOADCLO_00642	CDS	891	rapZ			RNase adapter RapZ
+OIOADCLO_00643	gene	978				
+OIOADCLO_00643	CDS	978				YvcK family protein
+OIOADCLO_00644	gene	912	whiA			
+OIOADCLO_00644	CDS	912	whiA			DNA-binding protein WhiA
+OIOADCLO_00645	gene	1398				
+OIOADCLO_00645	CDS	1398		3.4.13.-		C69 family dipeptidase
+OIOADCLO_00646	gene	1548				
+OIOADCLO_00646	CDS	1548				zinc ABC transporter substrate-binding protein AdcA
+OIOADCLO_00647	gene	723				
+OIOADCLO_00647	CDS	723				GntR family transcriptional regulator
+OIOADCLO_00648	gene	1200				
+OIOADCLO_00648	CDS	1200				SIS domain-containing protein
+OIOADCLO_00649	gene	261				
+OIOADCLO_00649	CDS	261				type B 50S ribosomal protein L31
+OIOADCLO_00650	gene	942				
+OIOADCLO_00650	CDS	942				bifunctional oligoribonuclease/PAP phosphatase NrnA
+OIOADCLO_00651	gene	450				
+OIOADCLO_00651	CDS	450				flavodoxin
+OIOADCLO_00652	gene	285				
+OIOADCLO_00652	CDS	285		5.4.99.5		chorismate mutase
+OIOADCLO_00653	gene	1263				
+OIOADCLO_00653	CDS	1263				voltage-gated chloride channel family protein
+OIOADCLO_00654	gene	348	rplS			
+OIOADCLO_00654	CDS	348	rplS			50S ribosomal protein L19
+OIOADCLO_00655	gene	72				
+OIOADCLO_00655	tRNA	72				tRNA-Arg(cct)
+OIOADCLO_00656	gene	570				
+OIOADCLO_00656	CDS	570				hydrolase
+OIOADCLO_00657	gene	1953	gyrB			
+OIOADCLO_00657	CDS	1953	gyrB	5.6.2.2		DNA topoisomerase (ATP-hydrolyzing) subunit B
+OIOADCLO_00658	gene	1725	ezrA			
+OIOADCLO_00658	CDS	1725	ezrA			septation ring formation regulator EzrA
+OIOADCLO_00659	gene	459				
+OIOADCLO_00659	CDS	459				YueI family protein
+OIOADCLO_00660	gene	1308	eno			
+OIOADCLO_00660	CDS	1308	eno	4.2.1.11		phosphopyruvate hydratase
+OIOADCLO_00661	gene	591				
+OIOADCLO_00661	CDS	591				IS110 family transposase ISSsu7
+OIOADCLO_00662	gene	453				
+OIOADCLO_00662	CDS	453				hypothetical protein
+OIOADCLO_00663	gene	888	nra_1			
+OIOADCLO_00663	CDS	888	nra_1			transcriptional regulator Nra
+OIOADCLO_00664	gene	6180				
+OIOADCLO_00664	CDS	6180				hypothetical protein
+OIOADCLO_00665	gene	162	sagA			
+OIOADCLO_00665	CDS	162	sagA			TOMM family cytolysin streptolysin S
+OIOADCLO_00666	gene	951	sagB			
+OIOADCLO_00666	CDS	951	sagB			streptolysin S biosynthesis dehydrogenase SagB
+OIOADCLO_00667	gene	1059				
+OIOADCLO_00667	CDS	1059				streptolysin associated protein SagC
+OIOADCLO_00668	gene	1359				
+OIOADCLO_00668	CDS	1359				YcaO-like family protein
+OIOADCLO_00669	gene	672				
+OIOADCLO_00669	CDS	672				CPBP family intramembrane metalloprotease
+OIOADCLO_00670	gene	684				
+OIOADCLO_00670	CDS	684				SagF family protein
+OIOADCLO_00671	gene	924				
+OIOADCLO_00671	CDS	924				ABC transporter ATP-binding protein
+OIOADCLO_00672	gene	1128				
+OIOADCLO_00672	CDS	1128				SagG family ABC transporter permease subunit
+OIOADCLO_00673	gene	1119				
+OIOADCLO_00673	CDS	1119				ABC transporter permease
+OIOADCLO_00674	gene	2733				
+OIOADCLO_00674	CDS	2733				SpnA family nuclease
+OIOADCLO_00675	gene	501				
+OIOADCLO_00675	CDS	501				QueT transporter family protein
+OIOADCLO_00676	gene	1959	ligA			
+OIOADCLO_00676	CDS	1959	ligA	6.5.1.2		NAD-dependent DNA ligase LigA
+OIOADCLO_00677	gene	1023				
+OIOADCLO_00677	CDS	1023				diacylglycerol kinase family lipid kinase
+OIOADCLO_00678	gene	198				
+OIOADCLO_00678	CDS	198		7.1.2.2		F0F1 ATP synthase subunit C
+OIOADCLO_00679	gene	717	atpB			
+OIOADCLO_00679	CDS	717	atpB	7.1.2.2		F0F1 ATP synthase subunit A
+OIOADCLO_00680	gene	495	atpF			
+OIOADCLO_00680	CDS	495	atpF	7.1.2.2		F0F1 ATP synthase subunit B
+OIOADCLO_00681	gene	537				
+OIOADCLO_00681	CDS	537		7.1.2.2		F0F1 ATP synthase subunit delta
+OIOADCLO_00682	gene	1509	atpA			
+OIOADCLO_00682	CDS	1509	atpA	7.1.2.2		F0F1 ATP synthase subunit alpha
+OIOADCLO_00683	gene	876				
+OIOADCLO_00683	CDS	876		7.1.2.2		F0F1 ATP synthase subunit gamma
+OIOADCLO_00684	gene	1407	atpD			
+OIOADCLO_00684	CDS	1407	atpD	7.1.2.2		F0F1 ATP synthase subunit beta
+OIOADCLO_00685	gene	417				
+OIOADCLO_00685	CDS	417		7.1.2.2		F0F1 ATP synthase subunit epsilon
+OIOADCLO_00686	gene	258				
+OIOADCLO_00686	CDS	258				hypothetical protein
+OIOADCLO_00687	gene	1272	murA			
+OIOADCLO_00687	CDS	1272	murA	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OIOADCLO_00688	gene	189				
+OIOADCLO_00688	CDS	189				DNA-directed RNA polymerase subunit beta
+OIOADCLO_00689	gene	540	endA			
+OIOADCLO_00689	CDS	540	endA	3.1.30.-		DNA-entry nuclease
+OIOADCLO_00690	gene	549	raiA			
+OIOADCLO_00690	CDS	549	raiA			ribosome-associated translation inhibitor RaiA
+OIOADCLO_00691	gene	666				
+OIOADCLO_00691	CDS	666				ComF family protein
+OIOADCLO_00692	gene	1326				
+OIOADCLO_00692	CDS	1326				DEAD/DEAH box helicase
+OIOADCLO_00693	gene	633				
+OIOADCLO_00693	CDS	633				YigZ family protein
+OIOADCLO_00694	gene	942	cysK			
+OIOADCLO_00694	CDS	942	cysK	2.5.1.47		cysteine synthase A
+OIOADCLO_00695	gene	378				
+OIOADCLO_00695	CDS	378				S1 RNA-binding domain-containing protein
+OIOADCLO_00696	gene	1401				
+OIOADCLO_00696	CDS	1401				Cof-type HAD-IIB family hydrolase
+OIOADCLO_00697	gene	642				
+OIOADCLO_00697	CDS	642				response regulator transcription factor
+OIOADCLO_00698	gene	1005				
+OIOADCLO_00698	CDS	1005				sensor histidine kinase
+OIOADCLO_00699	gene	693	liaF			
+OIOADCLO_00699	CDS	693	liaF			cell wall-active antibiotics response protein LiaF
+OIOADCLO_00700	gene	1899	pknB			
+OIOADCLO_00700	CDS	1899	pknB			Stk1 family PASTA domain-containing Ser/Thr kinase
+OIOADCLO_00701	gene	741				
+OIOADCLO_00701	CDS	741				Stp1/IreP family PP2C-type Ser/Thr phosphatase
+OIOADCLO_00702	gene	1323	rsmB			
+OIOADCLO_00702	CDS	1323	rsmB	2.1.1.176		16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB
+OIOADCLO_00703	gene	936	fmt			
+OIOADCLO_00703	CDS	936	fmt	2.1.2.9		methionyl-tRNA formyltransferase
+OIOADCLO_00704	gene	2385				
+OIOADCLO_00704	CDS	2385		3.6.1.-		primosomal protein N'
+OIOADCLO_00705	gene	318	rpoZ			
+OIOADCLO_00705	CDS	318	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+OIOADCLO_00706	gene	636	gmk			
+OIOADCLO_00706	CDS	636	gmk	2.7.4.8		guanylate kinase
+OIOADCLO_00707	gene	1608				
+OIOADCLO_00707	CDS	1608				ribonuclease Y
+OIOADCLO_00708	gene	897				
+OIOADCLO_00708	CDS	897				LysR family transcriptional regulator
+OIOADCLO_00709	gene	1188				
+OIOADCLO_00709	CDS	1188				acetyl-CoA C-acetyltransferase
+OIOADCLO_00710	gene	651				
+OIOADCLO_00710	CDS	651				CoA transferase subunit A
+OIOADCLO_00711	gene	660				
+OIOADCLO_00711	CDS	660				3-oxoacid CoA-transferase subunit B
+OIOADCLO_00712	gene	780				
+OIOADCLO_00712	CDS	780				3-hydroxybutyrate dehydrogenase
+OIOADCLO_00713	gene	1332				
+OIOADCLO_00713	CDS	1332				GntP family permease
+OIOADCLO_00714	gene	483				
+OIOADCLO_00714	CDS	483		4.4.1.21		S-ribosylhomocysteine lyase
+OIOADCLO_00715	gene	1470				
+OIOADCLO_00715	CDS	1470				cell division site-positioning protein MapZ family protein
+OIOADCLO_00716	gene	1155				
+OIOADCLO_00716	CDS	1155				class I SAM-dependent RNA methyltransferase
+OIOADCLO_00717	gene	123				
+OIOADCLO_00717	CDS	123				hypothetical protein
+OIOADCLO_00718	gene	327	gpsB			
+OIOADCLO_00718	CDS	327	gpsB			cell division regulator GpsB
+OIOADCLO_00719	gene	516				
+OIOADCLO_00719	CDS	516				hypothetical protein
+OIOADCLO_00720	gene	600	recU			
+OIOADCLO_00720	CDS	600	recU	3.1.22.4		Holliday junction resolvase RecU
+OIOADCLO_00721	gene	2166	pbp1a			
+OIOADCLO_00721	CDS	2166	pbp1a			penicillin-binding protein PBP1A
+OIOADCLO_00722	gene	1338	pepC			
+OIOADCLO_00722	CDS	1338	pepC			aminopeptidase C
+OIOADCLO_00723	gene	825	nadE			
+OIOADCLO_00723	CDS	825	nadE	6.3.1.5		ammonia-dependent NAD(+) synthetase
+OIOADCLO_00724	gene	1455				
+OIOADCLO_00724	CDS	1455		6.3.4.21		nicotinate phosphoribosyltransferase
+OIOADCLO_00725	gene	1380				
+OIOADCLO_00725	CDS	1380				amino acid permease
+OIOADCLO_00726	gene	918	trxB			
+OIOADCLO_00726	CDS	918	trxB	1.8.1.9		thioredoxin-disulfide reductase
+OIOADCLO_00727	gene	225				
+OIOADCLO_00727	CDS	225				hypothetical protein
+OIOADCLO_00728	gene	744				
+OIOADCLO_00728	CDS	744				amino acid ABC transporter ATP-binding protein
+OIOADCLO_00729	gene	804				
+OIOADCLO_00729	CDS	804				amino acid ABC transporter permease
+OIOADCLO_00730	gene	1344				
+OIOADCLO_00730	CDS	1344				DEAD/DEAH box helicase
+OIOADCLO_00731	gene	1011	mraY			
+OIOADCLO_00731	CDS	1011	mraY	2.7.8.13		phospho-N-acetylmuramoyl-pentapeptide- transferase
+OIOADCLO_00732	gene	2256	pbp2X			
+OIOADCLO_00732	CDS	2256	pbp2X			penicillin-binding protein PBP2X
+OIOADCLO_00733	gene	324	ftsL			
+OIOADCLO_00733	CDS	324	ftsL			cell division protein FtsL
+OIOADCLO_00734	gene	1014	rsmH			
+OIOADCLO_00734	CDS	1014	rsmH	2.1.1.199		16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+OIOADCLO_00735	gene	240				
+OIOADCLO_00735	CDS	240				hypothetical protein
+OIOADCLO_00736	gene	1251				
+OIOADCLO_00736	CDS	1251		1.2.1.41		glutamate-5-semialdehyde dehydrogenase
+OIOADCLO_00737	gene	822	proB			
+OIOADCLO_00737	CDS	822	proB	2.7.2.11		glutamate 5-kinase
+OIOADCLO_00738	gene	1629				
+OIOADCLO_00738	CDS	1629				ABC transporter permease
+OIOADCLO_00739	gene	735				
+OIOADCLO_00739	CDS	735				ABC transporter ATP-binding protein
+OIOADCLO_00740	gene	267				
+OIOADCLO_00740	CDS	267				bacteriocin immunity protein
+OIOADCLO_00741	gene	1986	tkt			
+OIOADCLO_00741	CDS	1986	tkt	2.2.1.1		transketolase
+OIOADCLO_00742	gene	645	fsa			
+OIOADCLO_00742	CDS	645	fsa			fructose-6-phosphate aldolase
+OIOADCLO_00743	gene	1500				
+OIOADCLO_00743	CDS	1500				helix-turn-helix domain-containing protein
+OIOADCLO_00744	gene	1347				
+OIOADCLO_00744	CDS	1347				NAD(P)/FAD-dependent oxidoreductase
+OIOADCLO_00745	gene	702				
+OIOADCLO_00745	CDS	702				aquaporin family protein
+OIOADCLO_00746	gene	1839	glpO			
+OIOADCLO_00746	CDS	1839	glpO			type 1 glycerol-3-phosphate oxidase
+OIOADCLO_00747	gene	1527	glpK			
+OIOADCLO_00747	CDS	1527	glpK	2.7.1.30		glycerol kinase GlpK
+OIOADCLO_00748	gene	345				
+OIOADCLO_00748	CDS	345				PepSY domain-containing protein
+OIOADCLO_00749	gene	258				
+OIOADCLO_00749	CDS	258				hypothetical protein
+OIOADCLO_00750	gene	2040	glyS			
+OIOADCLO_00750	CDS	2040	glyS	6.1.1.14		glycine--tRNA ligase subunit beta
+OIOADCLO_00751	gene	918	glyQ			
+OIOADCLO_00751	CDS	918	glyQ	6.1.1.14		glycine--tRNA ligase subunit alpha
+OIOADCLO_00752	gene	534				
+OIOADCLO_00752	CDS	534				isoprenylcysteine carboxyl methyltransferase family protein
+OIOADCLO_00753	gene	840				
+OIOADCLO_00753	CDS	840				aldo/keto reductase
+OIOADCLO_00754	gene	1149	nagA			
+OIOADCLO_00754	CDS	1149	nagA	3.5.1.25		N-acetylglucosamine-6-phosphate deacetylase
+OIOADCLO_00755	gene	1632				
+OIOADCLO_00755	CDS	1632				Na/Pi cotransporter family protein
+OIOADCLO_00756	gene	723				
+OIOADCLO_00756	CDS	723				hypothetical protein
+OIOADCLO_00757	gene	843				
+OIOADCLO_00757	CDS	843				DegV family protein
+OIOADCLO_00758	gene	558				
+OIOADCLO_00758	CDS	558				TetR/AcrR family transcriptional regulator
+OIOADCLO_00759	gene	825				
+OIOADCLO_00759	CDS	825				Cof-type HAD-IIB family hydrolase
+OIOADCLO_00760	gene	618				
+OIOADCLO_00760	CDS	618				trimeric intracellular cation channel family protein
+OIOADCLO_00761	gene	90				
+OIOADCLO_00761	CDS	90				hypothetical protein
+OIOADCLO_00762	gene	978	lacD_1			
+OIOADCLO_00762	CDS	978	lacD_1	4.1.2.40		tagatose-bisphosphate aldolase
+OIOADCLO_00763	gene	264				
+OIOADCLO_00763	CDS	264		2.7.1.144		tagatose-6-phosphate kinase
+OIOADCLO_00764	gene	516	lacB_1			
+OIOADCLO_00764	CDS	516	lacB_1			galactose-6-phosphate isomerase subunit LacB
+OIOADCLO_00765	gene	426	lacA_1			
+OIOADCLO_00765	CDS	426	lacA_1			galactose-6-phosphate isomerase subunit LacA
+OIOADCLO_00766	gene	1452				
+OIOADCLO_00766	CDS	1452				PTS galactitol transporter subunit IIC
+OIOADCLO_00767	gene	306				
+OIOADCLO_00767	CDS	306				PTS sugar transporter subunit IIB
+OIOADCLO_00768	gene	474				
+OIOADCLO_00768	CDS	474				PTS sugar transporter subunit IIA
+OIOADCLO_00769	gene	771				
+OIOADCLO_00769	CDS	771				DeoR/GlpR family DNA-binding transcription regulator
+OIOADCLO_00770	gene	204				
+OIOADCLO_00770	CDS	204				heavy-metal-associated domain-containing protein
+OIOADCLO_00771	gene	2232				
+OIOADCLO_00771	CDS	2232				heavy metal translocating P-type ATPase
+OIOADCLO_00772	gene	435				
+OIOADCLO_00772	CDS	435				CopY/TcrY family copper transport repressor
+OIOADCLO_00773	gene	987				
+OIOADCLO_00773	CDS	987				alpha/beta hydrolase
+OIOADCLO_00774	gene	351	rbfA			
+OIOADCLO_00774	CDS	351	rbfA			30S ribosome-binding factor RbfA
+OIOADCLO_00775	gene	2862	infB			
+OIOADCLO_00775	CDS	2862	infB			translation initiation factor IF-2
+OIOADCLO_00776	gene	303				
+OIOADCLO_00776	CDS	303				YlxQ-related RNA-binding protein
+OIOADCLO_00777	gene	297				
+OIOADCLO_00777	CDS	297				YlxR family protein
+OIOADCLO_00778	gene	1146	nusA			
+OIOADCLO_00778	CDS	1146	nusA			transcription termination factor NusA
+OIOADCLO_00779	gene	537	rimP			
+OIOADCLO_00779	CDS	537	rimP			ribosome maturation factor RimP
+OIOADCLO_00780	gene	180				
+OIOADCLO_00780	CDS	180				hypothetical protein
+OIOADCLO_00781	gene	1173	sda1			
+OIOADCLO_00781	CDS	1173	sda1			streptodornase Sda1
+OIOADCLO_00782	gene	1197				
+OIOADCLO_00782	CDS	1197				glucosaminidase domain-containing protein
+OIOADCLO_00783	gene	111				
+OIOADCLO_00783	CDS	111				hypothetical protein
+OIOADCLO_00784	gene	186				
+OIOADCLO_00784	CDS	186				holin
+OIOADCLO_00785	gene	300				
+OIOADCLO_00785	CDS	300				hypothetical protein
+OIOADCLO_00786	gene	621				
+OIOADCLO_00786	CDS	621				hypothetical protein
+OIOADCLO_00787	gene	162				
+OIOADCLO_00787	CDS	162				hypothetical protein
+OIOADCLO_00788	gene	1908				
+OIOADCLO_00788	CDS	1908				gp58-like family protein
+OIOADCLO_00789	gene	636				
+OIOADCLO_00789	CDS	636				hypothetical protein
+OIOADCLO_00790	gene	1056				
+OIOADCLO_00790	CDS	1056				hypothetical protein
+OIOADCLO_00791	gene	1983				
+OIOADCLO_00791	CDS	1983				phage tail protein
+OIOADCLO_00792	gene	843				
+OIOADCLO_00792	CDS	843				hypothetical protein
+OIOADCLO_00793	gene	4383				
+OIOADCLO_00793	CDS	4383				tape measure protein
+OIOADCLO_00794	gene	234				
+OIOADCLO_00794	CDS	234				hypothetical protein
+OIOADCLO_00795	gene	456				
+OIOADCLO_00795	CDS	456				hypothetical protein
+OIOADCLO_00796	gene	600				
+OIOADCLO_00796	CDS	600				phage major tail protein, TP901-1 family
+OIOADCLO_00797	gene	360				
+OIOADCLO_00797	CDS	360				hypothetical protein
+OIOADCLO_00798	gene	345				
+OIOADCLO_00798	CDS	345				HK97 gp10 family phage protein
+OIOADCLO_00799	gene	279				
+OIOADCLO_00799	CDS	279				hypothetical protein
+OIOADCLO_00800	gene	357				
+OIOADCLO_00800	CDS	357				phage head-tail connector protein
+OIOADCLO_00801	gene	888				
+OIOADCLO_00801	CDS	888				hypothetical protein
+OIOADCLO_00802	gene	570				
+OIOADCLO_00802	CDS	570				hypothetical protein
+OIOADCLO_00803	gene	267				
+OIOADCLO_00803	CDS	267				hypothetical protein
+OIOADCLO_00804	gene	117				
+OIOADCLO_00804	CDS	117				hypothetical protein
+OIOADCLO_00805	gene	1446				
+OIOADCLO_00805	CDS	1446				minor capsid protein
+OIOADCLO_00806	gene	1533				
+OIOADCLO_00806	CDS	1533				phage portal protein
+OIOADCLO_00807	gene	1278				
+OIOADCLO_00807	CDS	1278				PBSX family phage terminase large subunit
+OIOADCLO_00808	gene	453				
+OIOADCLO_00808	CDS	453				terminase small subunit
+OIOADCLO_00809	gene	417				
+OIOADCLO_00809	CDS	417				hypothetical protein
+OIOADCLO_00810	gene	192				
+OIOADCLO_00810	CDS	192				hypothetical protein
+OIOADCLO_00811	gene	711				
+OIOADCLO_00811	CDS	711				site-specific DNA-methyltransferase
+OIOADCLO_00812	gene	267				
+OIOADCLO_00812	CDS	267				hypothetical protein
+OIOADCLO_00813	gene	168				
+OIOADCLO_00813	CDS	168				hypothetical protein
+OIOADCLO_00814	gene	1323				
+OIOADCLO_00814	CDS	1323				SNF2-related protein
+OIOADCLO_00815	gene	276				
+OIOADCLO_00815	CDS	276				VRR-NUC domain-containing protein
+OIOADCLO_00816	gene	2385				
+OIOADCLO_00816	CDS	2385				phage/plasmid primase, P4 family
+OIOADCLO_00817	gene	1923				
+OIOADCLO_00817	CDS	1923				DNA polymerase
+OIOADCLO_00818	gene	558				
+OIOADCLO_00818	CDS	558				hypothetical protein
+OIOADCLO_00819	gene	399				
+OIOADCLO_00819	CDS	399				hypothetical protein
+OIOADCLO_00820	gene	1155				
+OIOADCLO_00820	CDS	1155				hypothetical protein
+OIOADCLO_00821	gene	300				
+OIOADCLO_00821	CDS	300				hypothetical protein
+OIOADCLO_00822	gene	204				
+OIOADCLO_00822	CDS	204				hypothetical protein
+OIOADCLO_00823	gene	153				
+OIOADCLO_00823	CDS	153				hypothetical protein
+OIOADCLO_00824	gene	387				
+OIOADCLO_00824	CDS	387				hypothetical protein
+OIOADCLO_00825	gene	204				
+OIOADCLO_00825	CDS	204				hypothetical protein
+OIOADCLO_00826	gene	171				
+OIOADCLO_00826	CDS	171				hypothetical protein
+OIOADCLO_00827	gene	276				
+OIOADCLO_00827	CDS	276				hypothetical protein
+OIOADCLO_00828	gene	216				
+OIOADCLO_00828	CDS	216				hypothetical protein
+OIOADCLO_00829	gene	414				
+OIOADCLO_00829	CDS	414				hypothetical protein
+OIOADCLO_00830	gene	156				
+OIOADCLO_00830	CDS	156				hypothetical protein
+OIOADCLO_00831	gene	351				
+OIOADCLO_00831	CDS	351				helix-turn-helix domain-containing protein
+OIOADCLO_00832	gene	384				
+OIOADCLO_00832	CDS	384				hypothetical protein
+OIOADCLO_00833	gene	552				
+OIOADCLO_00833	CDS	552				hypothetical protein
+OIOADCLO_00834	gene	1080				
+OIOADCLO_00834	CDS	1080				site-specific integrase
+OIOADCLO_00835	gene	87				
+OIOADCLO_00835	tRNA	87				tRNA-Ser(gga)
+OIOADCLO_00836	gene	636	trmB			
+OIOADCLO_00836	CDS	636	trmB	2.1.1.33		tRNA (guanosine(46)-N7)-methyltransferase TrmB
+OIOADCLO_00837	gene	792				
+OIOADCLO_00837	CDS	792				phosphotransferase family protein
+OIOADCLO_00838	gene	1035				
+OIOADCLO_00838	CDS	1035				ABC transporter permease
+OIOADCLO_00839	gene	726				
+OIOADCLO_00839	CDS	726				ABC transporter ATP-binding protein
+OIOADCLO_00840	gene	420				
+OIOADCLO_00840	CDS	420				HIT family protein
+OIOADCLO_00841	gene	357				
+OIOADCLO_00841	CDS	357				hypothetical protein
+OIOADCLO_00842	gene	1275				
+OIOADCLO_00842	CDS	1275				LCP family protein
+OIOADCLO_00843	gene	525				
+OIOADCLO_00843	CDS	525				GNAT family N-acetyltransferase
+OIOADCLO_00844	gene	462	tsaE			
+OIOADCLO_00844	CDS	462	tsaE			tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+OIOADCLO_00845	gene	1461				
+OIOADCLO_00845	CDS	1461				NCS2 family permease
+OIOADCLO_00846	gene	813				
+OIOADCLO_00846	CDS	813				Cof-type HAD-IIB family hydrolase
+OIOADCLO_00847	gene	993				
+OIOADCLO_00847	CDS	993				PTS sugar transporter subunit IIB
+OIOADCLO_00848	gene	810				
+OIOADCLO_00848	CDS	810				PTS mannose/fructose/sorbose transporter subunit IIC
+OIOADCLO_00849	gene	912				
+OIOADCLO_00849	CDS	912				PTS system mannose/fructose/sorbose family transporter subunit IID
+OIOADCLO_00850	gene	360				
+OIOADCLO_00850	CDS	360				hypothetical protein
+OIOADCLO_00851	gene	1278	serS			
+OIOADCLO_00851	CDS	1278	serS	6.1.1.11		serine--tRNA ligase
+OIOADCLO_00852	gene	771				
+OIOADCLO_00852	CDS	771				acetyl-CoA carboxylase carboxyl transferase subunit alpha
+OIOADCLO_00853	gene	867	accD			
+OIOADCLO_00853	CDS	867	accD	6.4.1.2		acetyl-CoA carboxylase, carboxyltransferase subunit beta
+OIOADCLO_00854	gene	1365				
+OIOADCLO_00854	CDS	1365				acetyl-CoA carboxylase biotin carboxylase subunit
+OIOADCLO_00855	gene	423	fabZ			
+OIOADCLO_00855	CDS	423	fabZ	4.2.1.59		3-hydroxyacyl-ACP dehydratase FabZ
+OIOADCLO_00856	gene	501	accB			
+OIOADCLO_00856	CDS	501	accB	6.4.1.2		acetyl-CoA carboxylase biotin carboxyl carrier protein
+OIOADCLO_00857	gene	1233	fabF			
+OIOADCLO_00857	CDS	1233	fabF	2.3.1.179		beta-ketoacyl-ACP synthase II
+OIOADCLO_00858	gene	735	fabG			
+OIOADCLO_00858	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+OIOADCLO_00859	gene	939	fabD			
+OIOADCLO_00859	CDS	939	fabD	2.3.1.39		ACP S-malonyltransferase
+OIOADCLO_00860	gene	972	fabK			
+OIOADCLO_00860	CDS	972	fabK			enoyl-[acyl-carrier-protein] reductase FabK
+OIOADCLO_00861	gene	225				
+OIOADCLO_00861	CDS	225				acyl carrier protein
+OIOADCLO_00862	gene	975				
+OIOADCLO_00862	CDS	975				ketoacyl-ACP synthase III
+OIOADCLO_00863	gene	435				
+OIOADCLO_00863	CDS	435				MarR family transcriptional regulator
+OIOADCLO_00864	gene	792				
+OIOADCLO_00864	CDS	792		4.2.1.17		enoyl-CoA hydratase
+OIOADCLO_00865	gene	1137	dnaJ			
+OIOADCLO_00865	CDS	1137	dnaJ			molecular chaperone DnaJ
+OIOADCLO_00866	gene	1827	dnaK			
+OIOADCLO_00866	CDS	1827	dnaK			molecular chaperone DnaK
+OIOADCLO_00867	gene	534	grpE			
+OIOADCLO_00867	CDS	534	grpE			nucleotide exchange factor GrpE
+OIOADCLO_00868	gene	1035	hrcA			
+OIOADCLO_00868	CDS	1035	hrcA			heat-inducible transcriptional repressor HrcA
+OIOADCLO_00869	gene	570				
+OIOADCLO_00869	CDS	570				glycoside hydrolase family 73 protein
+OIOADCLO_00870	gene	744				
+OIOADCLO_00870	CDS	744				D-alanyl-D-alanine carboxypeptidase family protein
+OIOADCLO_00871	gene	708				
+OIOADCLO_00871	CDS	708				phosphoglycerate mutase family protein
+OIOADCLO_00872	gene	240				
+OIOADCLO_00872	CDS	240				GlsB/YeaQ/YmgE family stress response membrane protein
+OIOADCLO_00873	gene	144				
+OIOADCLO_00873	CDS	144				hypothetical protein
+OIOADCLO_00874	gene	1440	gatB			
+OIOADCLO_00874	CDS	1440	gatB	6.3.5.-		Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+OIOADCLO_00875	gene	1467	gatA			
+OIOADCLO_00875	CDS	1467	gatA			Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+OIOADCLO_00876	gene	303	gatC			
+OIOADCLO_00876	CDS	303	gatC			Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+OIOADCLO_00877	gene	555				
+OIOADCLO_00877	CDS	555				cysteine hydrolase
+OIOADCLO_00878	gene	783	codY			
+OIOADCLO_00878	CDS	783	codY			GTP-sensing pleiotropic transcriptional regulator CodY
+OIOADCLO_00879	gene	1239				
+OIOADCLO_00879	CDS	1239				pyridoxal phosphate-dependent aminotransferase
+OIOADCLO_00880	gene	453				
+OIOADCLO_00880	CDS	453				universal stress protein
+OIOADCLO_00881	gene	1389				
+OIOADCLO_00881	CDS	1389				Cof-type HAD-IIB family hydrolase
+OIOADCLO_00882	gene	966				
+OIOADCLO_00882	CDS	966				asparaginase
+OIOADCLO_00883	gene	705				
+OIOADCLO_00883	CDS	705				ABC transporter permease
+OIOADCLO_00884	gene	903				
+OIOADCLO_00884	CDS	903				ABC transporter ATP-binding protein
+OIOADCLO_00885	gene	2016	recG			
+OIOADCLO_00885	CDS	2016	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+OIOADCLO_00886	gene	1395				
+OIOADCLO_00886	CDS	1395				ABC transporter ATP-binding protein
+OIOADCLO_00887	gene	681				
+OIOADCLO_00887	CDS	681				energy-coupling factor transporter transmembrane protein EcfT
+OIOADCLO_00888	gene	594				
+OIOADCLO_00888	CDS	594				MptD family putative ECF transporter S component
+OIOADCLO_00889	gene	1671				
+OIOADCLO_00889	CDS	1671				ABC transporter ATP-binding protein/permease
+OIOADCLO_00890	gene	1764				
+OIOADCLO_00890	CDS	1764				ABC transporter ATP-binding protein/permease
+OIOADCLO_00891	gene	837				
+OIOADCLO_00891	CDS	837				ABC transporter ATP-binding protein
+OIOADCLO_00892	gene	1023				
+OIOADCLO_00892	CDS	1023				iron ABC transporter permease
+OIOADCLO_00893	gene	885	isdE			
+OIOADCLO_00893	CDS	885	isdE			heme ABC transporter substrate-binding protein IsdE
+OIOADCLO_00894	gene	876				
+OIOADCLO_00894	CDS	876				heme-binding protein
+OIOADCLO_00895	gene	3828	shr			
+OIOADCLO_00895	CDS	3828	shr			heme-binding protein Shr
+OIOADCLO_00896	gene	1512				
+OIOADCLO_00896	CDS	1512				CHAP domain-containing protein
+OIOADCLO_00897	gene	1101	alr			
+OIOADCLO_00897	CDS	1101	alr	5.1.1.1		alanine racemase
+OIOADCLO_00898	gene	357	acpS			
+OIOADCLO_00898	CDS	357	acpS	2.7.8.7		holo-ACP synthase
+OIOADCLO_00899	gene	2520	secA			
+OIOADCLO_00899	CDS	2520	secA			preprotein translocase subunit SecA
+OIOADCLO_00900	gene	612	rpsD			
+OIOADCLO_00900	CDS	612	rpsD			30S ribosomal protein S4
+OIOADCLO_00901	gene	534				
+OIOADCLO_00901	CDS	534				TetR/AcrR family transcriptional regulator
+OIOADCLO_00902	gene	2274				
+OIOADCLO_00902	CDS	2274				YhgE/Pip domain-containing protein
+OIOADCLO_00903	gene	1080				
+OIOADCLO_00903	CDS	1080				hypothetical protein
+OIOADCLO_00904	gene	588				
+OIOADCLO_00904	CDS	588				hypothetical protein
+OIOADCLO_00905	gene	327				
+OIOADCLO_00905	CDS	327				PadR family transcriptional regulator
+OIOADCLO_00906	gene	642				
+OIOADCLO_00906	CDS	642				CoA pyrophosphatase
+OIOADCLO_00907	gene	843				
+OIOADCLO_00907	CDS	843				hypothetical protein
+OIOADCLO_00908	gene	282				
+OIOADCLO_00908	CDS	282				transcriptional regulator
+OIOADCLO_00909	gene	603				
+OIOADCLO_00909	CDS	603				hypothetical protein
+OIOADCLO_00910	gene	753				
+OIOADCLO_00910	CDS	753				hypothetical protein
+OIOADCLO_00911	gene	924				
+OIOADCLO_00911	CDS	924				hypothetical protein
+OIOADCLO_00912	gene	339	cadX			
+OIOADCLO_00912	CDS	339	cadX			Cd(II)/Zn(II)-sensing metalloregulatory transcriptional regulator CadX
+OIOADCLO_00913	gene	615				
+OIOADCLO_00913	CDS	615				CadD family cadmium resistance transporter
+OIOADCLO_00914	gene	150	rpmG_1			
+OIOADCLO_00914	CDS	150	rpmG_1			50S ribosomal protein L33
+OIOADCLO_00915	gene	183	rpmF			
+OIOADCLO_00915	CDS	183	rpmF			50S ribosomal protein L32
+OIOADCLO_00916	gene	1281	hisS			
+OIOADCLO_00916	CDS	1281	hisS	6.1.1.21		histidine--tRNA ligase
+OIOADCLO_00917	gene	1749	aspS			
+OIOADCLO_00917	CDS	1749	aspS	6.1.1.12		aspartate--tRNA ligase
+OIOADCLO_00918	gene	942				
+OIOADCLO_00918	CDS	942				YitT family protein
+OIOADCLO_00919	gene	879				
+OIOADCLO_00919	CDS	879				YitT family protein
+OIOADCLO_00920	gene	873				
+OIOADCLO_00920	CDS	873				YitT family protein
+OIOADCLO_00921	gene	309				
+OIOADCLO_00921	CDS	309				bacteriocin immunity protein
+OIOADCLO_00922	gene	1692	argS			
+OIOADCLO_00922	CDS	1692	argS	6.1.1.19		arginine--tRNA ligase
+OIOADCLO_00923	gene	438	argR			
+OIOADCLO_00923	CDS	438	argR			arginine repressor
+OIOADCLO_00924	gene	207				
+OIOADCLO_00924	CDS	207				hypothetical protein
+OIOADCLO_00925	gene	2556	mutS			
+OIOADCLO_00925	CDS	2556	mutS			DNA mismatch repair protein MutS
+OIOADCLO_00926	gene	1983	mutL			
+OIOADCLO_00926	CDS	1983	mutL			DNA mismatch repair endonuclease MutL
+OIOADCLO_00927	gene	1221				
+OIOADCLO_00927	CDS	1221				MFS transporter
+OIOADCLO_00928	gene	597	ruvA			
+OIOADCLO_00928	CDS	597	ruvA	3.6.4.12		Holliday junction branch migration protein RuvA
+OIOADCLO_00929	gene	561				
+OIOADCLO_00929	CDS	561				DNA-3-methyladenine glycosylase I
+OIOADCLO_00930	gene	1272				
+OIOADCLO_00930	CDS	1272				competence/damage-inducible protein A
+OIOADCLO_00931	gene	1137	recA			
+OIOADCLO_00931	CDS	1137	recA			recombinase RecA
+OIOADCLO_00932	gene	399	spx			
+OIOADCLO_00932	CDS	399	spx			transcriptional regulator Spx
+OIOADCLO_00933	gene	270				
+OIOADCLO_00933	CDS	270				IreB family regulatory phosphoprotein
+OIOADCLO_00934	gene	420	ruvX			
+OIOADCLO_00934	CDS	420	ruvX	3.1.22.4		Holliday junction resolvase RuvX
+OIOADCLO_00935	gene	306				
+OIOADCLO_00935	CDS	306				hypothetical protein
+OIOADCLO_00936	gene	111				
+OIOADCLO_00936	CDS	111				hypothetical protein
+OIOADCLO_00937	gene	1560				
+OIOADCLO_00937	CDS	1560				membrane protein
+OIOADCLO_00938	gene	2199	nrdD			
+OIOADCLO_00938	CDS	2199	nrdD	1.17.4.2		anaerobic ribonucleoside-triphosphate reductase
+OIOADCLO_00939	gene	147				
+OIOADCLO_00939	CDS	147				hypothetical protein
+OIOADCLO_00940	gene	936				
+OIOADCLO_00940	CDS	936				Gfo/Idh/MocA family oxidoreductase
+OIOADCLO_00941	gene	510				
+OIOADCLO_00941	CDS	510				GNAT family N-acetyltransferase
+OIOADCLO_00942	gene	615	nrdG			
+OIOADCLO_00942	CDS	615	nrdG			anaerobic ribonucleoside-triphosphate reductase activating protein
+OIOADCLO_00943	gene	732	yaaA_1			
+OIOADCLO_00943	CDS	732	yaaA_1			peroxide stress protein YaaA
+OIOADCLO_00944	gene	858				
+OIOADCLO_00944	CDS	858				VOC family protein
+OIOADCLO_00945	gene	240				
+OIOADCLO_00945	CDS	240				winged helix-turn-helix transcriptional regulator
+OIOADCLO_00946	gene	714	treR			
+OIOADCLO_00946	CDS	714	treR			trehalose operon repressor
+OIOADCLO_00947	gene	2025	treP			
+OIOADCLO_00947	CDS	2025	treP	2.7.1.201		PTS system trehalose-specific EIIBC component
+OIOADCLO_00948	gene	1629	treC			
+OIOADCLO_00948	CDS	1629	treC	3.2.1.93		alpha,alpha-phosphotrehalase
+OIOADCLO_00949	gene	1896	pepO			
+OIOADCLO_00949	CDS	1896	pepO			endopeptidase PepO
+OIOADCLO_00950	gene	1041	tsf			
+OIOADCLO_00950	CDS	1041	tsf			translation elongation factor Ts
+OIOADCLO_00951	gene	768	rpsB			
+OIOADCLO_00951	CDS	768	rpsB			30S ribosomal protein S2
+OIOADCLO_00952	gene	3075				
+OIOADCLO_00952	CDS	3075				AAA family ATPase
+OIOADCLO_00953	gene	987				
+OIOADCLO_00953	CDS	987				arginase family protein
+OIOADCLO_00954	gene	1542	hutH			
+OIOADCLO_00954	CDS	1542	hutH	4.3.1.3		histidine ammonia-lyase
+OIOADCLO_00955	gene	1344				
+OIOADCLO_00955	CDS	1344				APC family permease
+OIOADCLO_00956	gene	597				
+OIOADCLO_00956	CDS	597				HutD family protein
+OIOADCLO_00957	gene	1674				
+OIOADCLO_00957	CDS	1674		6.3.4.3		formate--tetrahydrofolate ligase
+OIOADCLO_00958	gene	627				
+OIOADCLO_00958	CDS	627				cyclodeaminase/cyclohydrolase family protein
+OIOADCLO_00959	gene	900	ftcD			
+OIOADCLO_00959	CDS	900	ftcD	2.1.2.5		glutamate formimidoyltransferase
+OIOADCLO_00960	gene	2031				
+OIOADCLO_00960	CDS	2031		4.2.1.49		urocanate hydratase
+OIOADCLO_00961	gene	1266	hutI			
+OIOADCLO_00961	CDS	1266	hutI	3.5.2.7		imidazolonepropionase
+OIOADCLO_00962	gene	1533	ahpF			
+OIOADCLO_00962	CDS	1533	ahpF			alkyl hydroperoxide reductase subunit F
+OIOADCLO_00963	gene	561	ahpC			
+OIOADCLO_00963	CDS	561	ahpC	1.11.1.26		alkyl hydroperoxide reductase subunit C
+OIOADCLO_00964	gene	71				
+OIOADCLO_00964	tRNA	71				tRNA-Cys(gca)
+OIOADCLO_00965	gene	210				
+OIOADCLO_00965	CDS	210				cold-shock protein
+OIOADCLO_00966	gene	462				
+OIOADCLO_00966	CDS	462				CtsR family transcriptional regulator
+OIOADCLO_00967	gene	2445				
+OIOADCLO_00967	CDS	2445				ATP-dependent Clp protease ATP-binding subunit
+OIOADCLO_00968	gene	291	groES			
+OIOADCLO_00968	CDS	291	groES			co-chaperone GroES
+OIOADCLO_00969	gene	1632	groL			
+OIOADCLO_00969	CDS	1632	groL			chaperonin GroEL
+OIOADCLO_00970	gene	159				
+OIOADCLO_00970	CDS	159				hypothetical protein
+OIOADCLO_00971	gene	1497				
+OIOADCLO_00971	CDS	1497		3.4.13.-		C69 family dipeptidase
+OIOADCLO_00972	gene	1641				
+OIOADCLO_00972	CDS	1641				hypothetical protein
+OIOADCLO_00973	gene	912				
+OIOADCLO_00973	CDS	912				RluA family pseudouridine synthase
+OIOADCLO_00974	gene	192				
+OIOADCLO_00974	CDS	192				hypothetical protein
+OIOADCLO_00975	gene	381				
+OIOADCLO_00975	CDS	381				RidA family protein
+OIOADCLO_00976	gene	2337	pbp2a			
+OIOADCLO_00976	CDS	2337	pbp2a			penicillin-binding protein PBP2A
+OIOADCLO_00977	gene	153	rpmG_2			
+OIOADCLO_00977	CDS	153	rpmG_2			50S ribosomal protein L33
+OIOADCLO_00978	gene	177	secE			
+OIOADCLO_00978	CDS	177	secE			preprotein translocase subunit SecE
+OIOADCLO_00979	gene	774				
+OIOADCLO_00979	CDS	774				glycyl-radical enzyme activating protein
+OIOADCLO_00980	gene	747				
+OIOADCLO_00980	CDS	747				DeoR/GlpR family DNA-binding transcription regulator
+OIOADCLO_00981	gene	981				
+OIOADCLO_00981	CDS	981				sugar-binding transcriptional regulator
+OIOADCLO_00982	gene	321				
+OIOADCLO_00982	CDS	321				PTS lactose/cellobiose transporter subunit IIA
+OIOADCLO_00983	gene	309				
+OIOADCLO_00983	CDS	309				PTS sugar transporter subunit IIB
+OIOADCLO_00984	gene	1305				
+OIOADCLO_00984	CDS	1305				PTS sugar transporter subunit IIC
+OIOADCLO_00985	gene	2418				
+OIOADCLO_00985	CDS	2418				glycyl radical protein
+OIOADCLO_00986	gene	669				
+OIOADCLO_00986	CDS	669		4.1.2.-		fructose-6-phosphate aldolase
+OIOADCLO_00987	gene	1089				
+OIOADCLO_00987	CDS	1089				glycerol dehydrogenase
+OIOADCLO_00988	gene	510				
+OIOADCLO_00988	CDS	510				phosphatidylglycerophosphatase A
+OIOADCLO_00989	gene	816	sdaB			
+OIOADCLO_00989	CDS	816	sdaB			streptodornase B
+OIOADCLO_00990	gene	843	ropB			
+OIOADCLO_00990	CDS	843	ropB			quorum-sensing system transcriptional regulator RopB/Rgg1
+OIOADCLO_00991	gene	144				
+OIOADCLO_00991	CDS	144				hypothetical protein
+OIOADCLO_00992	gene	1197	speB			
+OIOADCLO_00992	CDS	1197	speB	3.4.22.10		cysteine proteinase exotoxin SpeB
+OIOADCLO_00993	gene	306				
+OIOADCLO_00993	CDS	306				Spi family protease inhibitor
+OIOADCLO_00994	gene	921	prsA_1			
+OIOADCLO_00994	CDS	921	prsA_1	5.2.1.8		peptidylprolyl isomerase PrsA
+OIOADCLO_00995	gene	237				
+OIOADCLO_00995	CDS	237				hypothetical protein
+OIOADCLO_00996	gene	297				
+OIOADCLO_00996	CDS	297				hypothetical protein
+OIOADCLO_00997	gene	285				
+OIOADCLO_00997	CDS	285				hypothetical protein
+OIOADCLO_00998	gene	1269				
+OIOADCLO_00998	CDS	1269				efflux RND transporter periplasmic adaptor subunit
+OIOADCLO_00999	gene	675				
+OIOADCLO_00999	CDS	675				ABC transporter ATP-binding protein
+OIOADCLO_01000	gene	1218				
+OIOADCLO_01000	CDS	1218				ABC transporter permease
+OIOADCLO_01001	gene	654				
+OIOADCLO_01001	CDS	654				response regulator transcription factor
+OIOADCLO_01002	gene	1389				
+OIOADCLO_01002	CDS	1389				HAMP domain-containing histidine kinase
+OIOADCLO_01003	gene	1602				
+OIOADCLO_01003	CDS	1602				CHAP domain-containing protein
+OIOADCLO_01004	gene	252				
+OIOADCLO_01004	CDS	252				hypothetical protein
+OIOADCLO_01005	gene	1590				
+OIOADCLO_01005	CDS	1590				helix-turn-helix domain-containing protein
+OIOADCLO_01006	gene	1455	emm6			
+OIOADCLO_01006	CDS	1455	emm6			M protein, serotype 6
+OIOADCLO_01007	gene	933				
+OIOADCLO_01007	CDS	933				hypothetical protein
+OIOADCLO_01008	gene	1206				
+OIOADCLO_01008	CDS	1206				IS1182 family transposase IS1562
+OIOADCLO_01009	gene	3495	scpA/B			
+OIOADCLO_01009	CDS	3495	scpA/B	3.4.21.110		C5a peptidase ScpA/B
+OIOADCLO_01010	gene	1068	fbpA			
+OIOADCLO_01010	CDS	1068	fbpA			LPXTG-anchored fibronectin-binding protein FbpA
+OIOADCLO_01011	gene	110				
+OIOADCLO_01011	rRNA	110				5S ribosomal RNA
+OIOADCLO_01012	gene	75				
+OIOADCLO_01012	tRNA	75				tRNA-Val(tac)
+OIOADCLO_01013	gene	73				
+OIOADCLO_01013	tRNA	73				tRNA-Asp(gtc)
+OIOADCLO_01014	gene	73				
+OIOADCLO_01014	tRNA	73				tRNA-Lys(ttt)
+OIOADCLO_01015	gene	82				
+OIOADCLO_01015	tRNA	82				tRNA-Leu(tag)
+OIOADCLO_01016	gene	73				
+OIOADCLO_01016	tRNA	73				tRNA-Thr(tgt)
+OIOADCLO_01017	gene	76				
+OIOADCLO_01017	tRNA	76				tRNA-Ile(gat)
+OIOADCLO_01018	gene	74				
+OIOADCLO_01018	tRNA	74				tRNA-Glu(ttc)
+OIOADCLO_01019	gene	534				
+OIOADCLO_01019	CDS	534				hypothetical protein
+OIOADCLO_01020	gene	777	recX			
+OIOADCLO_01020	CDS	777	recX			recombination regulator RecX
+OIOADCLO_01021	gene	1356	rlmD_1			
+OIOADCLO_01021	CDS	1356	rlmD_1	2.1.1.190		23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+OIOADCLO_01022	gene	1356	rocA			
+OIOADCLO_01022	CDS	1356	rocA			transcriptional regulator RocA
+OIOADCLO_01023	gene	2706				
+OIOADCLO_01023	CDS	2706				alpha-mannosidase
+OIOADCLO_01024	gene	1287				
+OIOADCLO_01024	CDS	1287				glycoside hydrolase family 125 protein
+OIOADCLO_01025	gene	1041				
+OIOADCLO_01025	CDS	1041				GntR family transcriptional regulator
+OIOADCLO_01026	gene	1695				
+OIOADCLO_01026	CDS	1695				beta-N-acetylglucosaminidase
+OIOADCLO_01027	gene	1443				
+OIOADCLO_01027	CDS	1443				glycoside hydrolase family 1 protein
+OIOADCLO_01028	gene	879				
+OIOADCLO_01028	CDS	879				ROK family protein
+OIOADCLO_01029	gene	951				
+OIOADCLO_01029	CDS	951				sugar ABC transporter permease
+OIOADCLO_01030	gene	927				
+OIOADCLO_01030	CDS	927				carbohydrate ABC transporter permease
+OIOADCLO_01031	gene	1446				
+OIOADCLO_01031	CDS	1446				ABC transporter substrate-binding protein
+OIOADCLO_01032	gene	606				
+OIOADCLO_01032	CDS	606				YesL family protein
+OIOADCLO_01033	gene	1725				
+OIOADCLO_01033	CDS	1725				sensor histidine kinase
+OIOADCLO_01034	gene	1485				
+OIOADCLO_01034	CDS	1485				response regulator transcription factor
+OIOADCLO_01035	gene	3417				
+OIOADCLO_01035	CDS	3417				glycoside hydrolase family 2 protein
+OIOADCLO_01036	gene	879				
+OIOADCLO_01036	CDS	879		1.1.1.25		shikimate dehydrogenase
+OIOADCLO_01037	gene	756				
+OIOADCLO_01037	CDS	756				class I SAM-dependent methyltransferase
+OIOADCLO_01038	gene	339				
+OIOADCLO_01038	CDS	339				cupin domain-containing protein
+OIOADCLO_01039	gene	306				
+OIOADCLO_01039	CDS	306				cupin domain-containing protein
+OIOADCLO_01040	gene	1074	aroB			
+OIOADCLO_01040	CDS	1074	aroB	4.2.3.4		3-dehydroquinate synthase
+OIOADCLO_01041	gene	753				
+OIOADCLO_01041	CDS	753				bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase
+OIOADCLO_01042	gene	71				
+OIOADCLO_01042	tRNA	71				tRNA-Thr(ggt)
+OIOADCLO_01043	gene	255				
+OIOADCLO_01043	CDS	255				hypothetical protein
+OIOADCLO_01044	gene	396				
+OIOADCLO_01044	CDS	396				helix-hairpin-helix domain-containing protein
+OIOADCLO_01045	gene	564				
+OIOADCLO_01045	CDS	564				AAA family ATPase
+OIOADCLO_01046	gene	2649				
+OIOADCLO_01046	CDS	2649		6.1.1.9		valine--tRNA ligase
+OIOADCLO_01047	gene	2403				
+OIOADCLO_01047	CDS	2403				hypothetical protein
+OIOADCLO_01048	gene	729				
+OIOADCLO_01048	CDS	729				hypothetical protein
+OIOADCLO_01049	gene	1896				
+OIOADCLO_01049	CDS	1896				hypothetical protein
+OIOADCLO_01050	gene	849				
+OIOADCLO_01050	CDS	849				hypothetical protein
+OIOADCLO_01051	gene	675				
+OIOADCLO_01051	CDS	675				hypothetical protein
+OIOADCLO_01052	gene	1026	cas1_2			
+OIOADCLO_01052	CDS	1026	cas1_2	3.1.-.-	COG1518	CRISPR-associated endonuclease Cas1
+OIOADCLO_01053	gene	294	cas2_2			
+OIOADCLO_01053	CDS	294	cas2_2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	295				
+OIOADCLO_01054	gene	711	ccdA2			
+OIOADCLO_01054	CDS	711	ccdA2			thiol-disulfide oxidoreductase-associated membrane protein CcdA2
+OIOADCLO_01055	gene	624				
+OIOADCLO_01055	CDS	624				TlpA family protein disulfide reductase
+OIOADCLO_01056	gene	1107	msrB_2			
+OIOADCLO_01056	CDS	1107	msrB_2	1.8.4.12		peptide-methionine (R)-S-oxide reductase MsrB
+OIOADCLO_01057	gene	741				
+OIOADCLO_01057	CDS	741				response regulator
+OIOADCLO_01058	gene	1734				
+OIOADCLO_01058	CDS	1734				sensor histidine kinase
+OIOADCLO_01059	gene	1080				
+OIOADCLO_01059	CDS	1080				MmcQ/YjbR family DNA-binding protein
+OIOADCLO_01060	gene	717				
+OIOADCLO_01060	CDS	717				B3/4 domain-containing protein
+OIOADCLO_01061	gene	474				
+OIOADCLO_01061	CDS	474				arginine repressor
+OIOADCLO_01062	gene	681				
+OIOADCLO_01062	CDS	681				Crp/Fnr family transcriptional regulator
+OIOADCLO_01063	gene	1236	arcA			
+OIOADCLO_01063	CDS	1236	arcA	3.5.3.6		arginine deiminase
+OIOADCLO_01064	gene	429				
+OIOADCLO_01064	CDS	429				hypothetical protein
+OIOADCLO_01065	gene	1014	argF			
+OIOADCLO_01065	CDS	1014	argF	2.1.3.3		ornithine carbamoyltransferase
+OIOADCLO_01066	gene	1494				
+OIOADCLO_01066	CDS	1494				YfcC family protein
+OIOADCLO_01067	gene	1332				
+OIOADCLO_01067	CDS	1332				dipeptidase
+OIOADCLO_01068	gene	951	arcC			
+OIOADCLO_01068	CDS	951	arcC	2.7.2.2		carbamate kinase
+OIOADCLO_01069	gene	993	asnA			
+OIOADCLO_01069	CDS	993	asnA	6.3.1.1		aspartate--ammonia ligase
+OIOADCLO_01070	gene	540	rsmD			
+OIOADCLO_01070	CDS	540	rsmD	2.1.1.171		16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+OIOADCLO_01071	gene	492	coaD			
+OIOADCLO_01071	CDS	492	coaD	2.7.7.3		pantetheine-phosphate adenylyltransferase
+OIOADCLO_01072	gene	1038				
+OIOADCLO_01072	CDS	1038				PDZ domain-containing protein
+OIOADCLO_01073	gene	183				
+OIOADCLO_01073	CDS	183				LacI family transcriptional regulator
+OIOADCLO_01074	gene	702				
+OIOADCLO_01074	CDS	702				LacI family transcriptional regulator
+OIOADCLO_01075	gene	621				
+OIOADCLO_01075	CDS	621				hypothetical protein
+OIOADCLO_01076	gene	1080	rlmN			
+OIOADCLO_01076	CDS	1080	rlmN	2.1.1.192		23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+OIOADCLO_01077	gene	627				
+OIOADCLO_01077	CDS	627				A24 family peptidase
+OIOADCLO_01078	gene	528				
+OIOADCLO_01078	CDS	528				DNA starvation/stationary phase protection protein
+OIOADCLO_01079	gene	222				
+OIOADCLO_01079	CDS	222				YqgQ family protein
+OIOADCLO_01080	gene	972				
+OIOADCLO_01080	CDS	972		2.7.1.2		ROK family glucokinase
+OIOADCLO_01081	gene	390				
+OIOADCLO_01081	CDS	390				rhodanese-like domain-containing protein
+OIOADCLO_01082	gene	1842	typA			
+OIOADCLO_01082	CDS	1842	typA			translational GTPase TypA
+OIOADCLO_01083	gene	252				
+OIOADCLO_01083	CDS	252				hypothetical protein
+OIOADCLO_01084	gene	1359	murD			
+OIOADCLO_01084	CDS	1359	murD	6.3.2.9		UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+OIOADCLO_01085	gene	1083				
+OIOADCLO_01085	CDS	1083				UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OIOADCLO_01086	gene	1149				
+OIOADCLO_01086	CDS	1149				cell division protein FtsQ/DivIB
+OIOADCLO_01087	gene	1365	ftsA			
+OIOADCLO_01087	CDS	1365	ftsA			cell division protein FtsA
+OIOADCLO_01088	gene	1320	ftsZ			
+OIOADCLO_01088	CDS	1320	ftsZ			cell division protein FtsZ
+OIOADCLO_01089	gene	672				
+OIOADCLO_01089	CDS	672				YggS family pyridoxal phosphate-dependent enzyme
+OIOADCLO_01090	gene	657				
+OIOADCLO_01090	CDS	657				cell division protein SepF
+OIOADCLO_01091	gene	255				
+OIOADCLO_01091	CDS	255				YggT family protein
+OIOADCLO_01092	gene	792				
+OIOADCLO_01092	CDS	792				RNA-binding protein
+OIOADCLO_01093	gene	759				
+OIOADCLO_01093	CDS	759				DivIVA domain-containing protein
+OIOADCLO_01094	gene	2802	ileS			
+OIOADCLO_01094	CDS	2802	ileS	6.1.1.5		isoleucine--tRNA ligase
+OIOADCLO_01095	gene	303				
+OIOADCLO_01095	CDS	303				hypothetical protein
+OIOADCLO_01096	gene	456				
+OIOADCLO_01096	CDS	456				NUDIX hydrolase
+OIOADCLO_01097	gene	2283				
+OIOADCLO_01097	CDS	2283				ATP-dependent Clp protease ATP-binding subunit
+OIOADCLO_01098	gene	231				
+OIOADCLO_01098	CDS	231				YkuJ family protein
+OIOADCLO_01099	gene	687				
+OIOADCLO_01099	CDS	687				amino acid ABC transporter permease
+OIOADCLO_01100	gene	735				
+OIOADCLO_01100	CDS	735				amino acid ABC transporter ATP-binding protein
+OIOADCLO_01101	gene	1410				
+OIOADCLO_01101	CDS	1410				DNA photolyase family protein
+OIOADCLO_01102	gene	1695				
+OIOADCLO_01102	CDS	1695				phospho-sugar mutase
+OIOADCLO_01103	gene	855				
+OIOADCLO_01103	CDS	855				bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+OIOADCLO_01104	gene	1341	xseA			
+OIOADCLO_01104	CDS	1341	xseA	3.1.11.6		exodeoxyribonuclease VII large subunit
+OIOADCLO_01105	gene	216				
+OIOADCLO_01105	CDS	216		3.1.11.6		exodeoxyribonuclease VII small subunit
+OIOADCLO_01106	gene	873				
+OIOADCLO_01106	CDS	873				polyprenyl synthetase family protein
+OIOADCLO_01107	gene	828				
+OIOADCLO_01107	CDS	828				TlyA family RNA methyltransferase
+OIOADCLO_01108	gene	471				
+OIOADCLO_01108	CDS	471				arginine repressor
+OIOADCLO_01109	gene	1662	recN			
+OIOADCLO_01109	CDS	1662	recN			DNA repair protein RecN
+OIOADCLO_01110	gene	942				
+OIOADCLO_01110	CDS	942				LPXTG cell wall anchor domain-containing protein
+OIOADCLO_01111	gene	840				
+OIOADCLO_01111	CDS	840				DegV family protein
+OIOADCLO_01112	gene	861				
+OIOADCLO_01112	CDS	861				SGNH/GDSL hydrolase family protein
+OIOADCLO_01113	gene	588				
+OIOADCLO_01113	CDS	588				YpmS family protein
+OIOADCLO_01114	gene	276				
+OIOADCLO_01114	CDS	276				HU family DNA-binding protein
+OIOADCLO_01115	gene	1143				
+OIOADCLO_01115	CDS	1143				site-specific integrase
+OIOADCLO_01116	gene	267				
+OIOADCLO_01116	CDS	267				hypothetical protein
+OIOADCLO_01117	gene	381				
+OIOADCLO_01117	CDS	381				hypothetical protein
+OIOADCLO_01118	gene	273				
+OIOADCLO_01118	CDS	273				helix-turn-helix domain-containing protein
+OIOADCLO_01119	gene	150				
+OIOADCLO_01119	CDS	150				hypothetical protein
+OIOADCLO_01120	gene	192				
+OIOADCLO_01120	CDS	192				hypothetical protein
+OIOADCLO_01121	gene	717				
+OIOADCLO_01121	CDS	717				hypothetical protein
+OIOADCLO_01122	gene	267				
+OIOADCLO_01122	CDS	267				hypothetical protein
+OIOADCLO_01123	gene	807				
+OIOADCLO_01123	CDS	807				hypothetical protein
+OIOADCLO_01124	gene	240				
+OIOADCLO_01124	CDS	240				hypothetical protein
+OIOADCLO_01125	gene	186				
+OIOADCLO_01125	CDS	186				helix-turn-helix transcriptional regulator
+OIOADCLO_01126	gene	312				
+OIOADCLO_01126	CDS	312				hypothetical protein
+OIOADCLO_01127	gene	186				
+OIOADCLO_01127	CDS	186				hypothetical protein
+OIOADCLO_01128	gene	390				
+OIOADCLO_01128	CDS	390				hypothetical protein
+OIOADCLO_01129	gene	234				
+OIOADCLO_01129	CDS	234				hypothetical protein
+OIOADCLO_01130	gene	141				
+OIOADCLO_01130	CDS	141				hypothetical protein
+OIOADCLO_01131	gene	207				
+OIOADCLO_01131	CDS	207				hypothetical protein
+OIOADCLO_01132	gene	330				
+OIOADCLO_01132	CDS	330				hypothetical protein
+OIOADCLO_01133	gene	930				
+OIOADCLO_01133	CDS	930				hypothetical protein
+OIOADCLO_01134	gene	798				
+OIOADCLO_01134	CDS	798				hypothetical protein
+OIOADCLO_01135	gene	168				
+OIOADCLO_01135	CDS	168				hypothetical protein
+OIOADCLO_01136	gene	342				
+OIOADCLO_01136	CDS	342				hypothetical protein
+OIOADCLO_01137	gene	513				
+OIOADCLO_01137	CDS	513				hypothetical protein
+OIOADCLO_01138	gene	270				
+OIOADCLO_01138	CDS	270				hypothetical protein
+OIOADCLO_01139	gene	75				
+OIOADCLO_01139	tRNA	75				tRNA-Phe(gaa)
+OIOADCLO_01140	gene	81				
+OIOADCLO_01140	tRNA	81				tRNA-Tyr(gta)
+OIOADCLO_01141	gene	71				
+OIOADCLO_01141	tRNA	71				tRNA-Trp(cca)
+OIOADCLO_01142	gene	75				
+OIOADCLO_01142	tRNA	75				tRNA-His(gtg)
+OIOADCLO_01143	gene	74				
+OIOADCLO_01143	tRNA	74				tRNA-Gln(ttg)
+OIOADCLO_01144	gene	84				
+OIOADCLO_01144	tRNA	84				tRNA-Leu(caa)
+OIOADCLO_01145	gene	228	ispE			
+OIOADCLO_01145	CDS	228	ispE	2.7.1.148		Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+OIOADCLO_01146	gene	444				
+OIOADCLO_01146	CDS	444				zinc-dependent MarR family transcriptional regulator
+OIOADCLO_01147	gene	720				
+OIOADCLO_01147	CDS	720				metal ABC transporter ATP-binding protein
+OIOADCLO_01148	gene	816				
+OIOADCLO_01148	CDS	816				metal ABC transporter permease
+OIOADCLO_01149	gene	384				
+OIOADCLO_01149	CDS	384				HIT family protein
+OIOADCLO_01150	gene	1257	tyrS			
+OIOADCLO_01150	CDS	1257	tyrS	6.1.1.1		tyrosine--tRNA ligase
+OIOADCLO_01151	gene	2301	pbp1b			
+OIOADCLO_01151	CDS	2301	pbp1b			penicillin-binding protein PBP1B
+OIOADCLO_01152	gene	3567	rpoB			
+OIOADCLO_01152	CDS	3567	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+OIOADCLO_01153	gene	3642	rpoC			
+OIOADCLO_01153	CDS	3642	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+OIOADCLO_01154	gene	366				
+OIOADCLO_01154	CDS	366				hypothetical protein
+OIOADCLO_01155	gene	939	tadA_1			
+OIOADCLO_01155	CDS	939	tadA_1			Flp pilus assembly complex ATPase component TadA
+OIOADCLO_01156	gene	1023				
+OIOADCLO_01156	CDS	1023				type II secretion system F family protein
+OIOADCLO_01157	gene	327				
+OIOADCLO_01157	CDS	327				hypothetical protein
+OIOADCLO_01158	gene	429				
+OIOADCLO_01158	CDS	429				hypothetical protein
+OIOADCLO_01159	gene	285				
+OIOADCLO_01159	CDS	285				competence protein ComG
+OIOADCLO_01160	gene	435				
+OIOADCLO_01160	CDS	435				competence protein ComG
+OIOADCLO_01161	gene	327				
+OIOADCLO_01161	CDS	327				hypothetical protein
+OIOADCLO_01162	gene	954				
+OIOADCLO_01162	CDS	954				class I SAM-dependent methyltransferase
+OIOADCLO_01163	gene	1197				
+OIOADCLO_01163	CDS	1197				acetate kinase
+OIOADCLO_01164	gene	771	proC			
+OIOADCLO_01164	CDS	771	proC	1.5.1.2		pyrroline-5-carboxylate reductase
+OIOADCLO_01165	gene	1068	pepA			
+OIOADCLO_01165	CDS	1068	pepA	3.4.11.7		glutamyl aminopeptidase
+OIOADCLO_01166	gene	294				
+OIOADCLO_01166	CDS	294				hypothetical protein
+OIOADCLO_01167	gene	318				
+OIOADCLO_01167	CDS	318				thioredoxin family protein
+OIOADCLO_01168	gene	627				
+OIOADCLO_01168	CDS	627				hypothetical protein
+OIOADCLO_01169	gene	396				
+OIOADCLO_01169	CDS	396				single-stranded DNA-binding protein
+OIOADCLO_01170	gene	642				
+OIOADCLO_01170	CDS	642				deoxynucleoside kinase
+OIOADCLO_01171	gene	978	dusB			
+OIOADCLO_01171	CDS	978	dusB	1.3.1.-		tRNA dihydrouridine synthase DusB
+OIOADCLO_01172	gene	873	hslO			
+OIOADCLO_01172	CDS	873	hslO			Hsp33 family molecular chaperone HslO
+OIOADCLO_01173	gene	1494	nra_2			
+OIOADCLO_01173	CDS	1494	nra_2			transcriptional regulator Nra
+OIOADCLO_01174	gene	2274				
+OIOADCLO_01174	CDS	2274				hypothetical protein
+OIOADCLO_01175	gene	558	lepB_2			
+OIOADCLO_01175	CDS	558	lepB_2	3.4.21.89		signal peptidase I
+OIOADCLO_01176	gene	1023				
+OIOADCLO_01176	CDS	1023				QVPTGV class sortase B protein-sorting domain-containing protein
+OIOADCLO_01177	gene	714	srtB			
+OIOADCLO_01177	CDS	714	srtB	3.4.22.71		class B sortase
+OIOADCLO_01178	gene	648				
+OIOADCLO_01178	CDS	648				fimbrial minor structural protein FctB
+OIOADCLO_01179	gene	1323				
+OIOADCLO_01179	CDS	1323				IS66 family transposase ISDeal1
+OIOADCLO_01180	gene	228				
+OIOADCLO_01180	CDS	228				hypothetical protein
+OIOADCLO_01181	gene	351				
+OIOADCLO_01181	CDS	351				hypothetical protein
+OIOADCLO_01182	gene	684				
+OIOADCLO_01182	CDS	684				hypothetical protein
+OIOADCLO_01183	gene	666				
+OIOADCLO_01183	CDS	666				hypothetical protein
+OIOADCLO_01184	gene	1407				
+OIOADCLO_01184	CDS	1407				short-chain fatty acid transporter
+OIOADCLO_01185	gene	396				
+OIOADCLO_01185	CDS	396				LysR family transcriptional regulator
+OIOADCLO_01186	gene	420				
+OIOADCLO_01186	CDS	420				LysR family transcriptional regulator
+OIOADCLO_01187	gene	1185				
+OIOADCLO_01187	CDS	1185				acetyl-CoA C-acetyltransferase
+OIOADCLO_01188	gene	660				
+OIOADCLO_01188	CDS	660				CoA transferase subunit A
+OIOADCLO_01189	gene	648				
+OIOADCLO_01189	CDS	648				3-oxoacid CoA-transferase subunit B
+OIOADCLO_01190	gene	681				
+OIOADCLO_01190	CDS	681				transcriptional regulator
+OIOADCLO_01191	gene	366				
+OIOADCLO_01191	CDS	366				RidA family protein
+OIOADCLO_01192	gene	1020				
+OIOADCLO_01192	CDS	1020				PTS fructose transporter subunit IIC
+OIOADCLO_01193	gene	321				
+OIOADCLO_01193	CDS	321				hypothetical protein
+OIOADCLO_01194	gene	2022				
+OIOADCLO_01194	CDS	2022		7.1.2.2		V-type ATP synthase subunit I
+OIOADCLO_01195	gene	480				
+OIOADCLO_01195	CDS	480		7.1.2.2		V-type ATP synthase subunit K
+OIOADCLO_01196	gene	585				
+OIOADCLO_01196	CDS	585				V-type ATP synthase subunit E
+OIOADCLO_01197	gene	999				
+OIOADCLO_01197	CDS	999				V-type ATPase subunit
+OIOADCLO_01198	gene	321				
+OIOADCLO_01198	CDS	321		7.1.2.2		V-type ATP synthase subunit F
+OIOADCLO_01199	gene	1776				
+OIOADCLO_01199	CDS	1776				V-type ATP synthase subunit A
+OIOADCLO_01200	gene	1416				
+OIOADCLO_01200	CDS	1416				V-type ATP synthase subunit B
+OIOADCLO_01201	gene	627				
+OIOADCLO_01201	CDS	627		7.1.2.2		V-type ATP synthase subunit D
+OIOADCLO_01202	gene	1263				
+OIOADCLO_01202	CDS	1263				toxic anion resistance protein
+OIOADCLO_01203	gene	879				
+OIOADCLO_01203	CDS	879				hypothetical protein
+OIOADCLO_01204	gene	1293				
+OIOADCLO_01204	CDS	1293		6.3.4.4		adenylosuccinate synthase
+OIOADCLO_01205	gene	1044				
+OIOADCLO_01205	CDS	1044				BMP family protein
+OIOADCLO_01206	gene	540	nusG			
+OIOADCLO_01206	CDS	540	nusG			transcription termination/antitermination protein NusG
+OIOADCLO_01207	gene	1356	nga			
+OIOADCLO_01207	CDS	1356	nga			nicotine adenine dinucleotide glycohydrolase
+OIOADCLO_01208	gene	486				
+OIOADCLO_01208	CDS	486				hypothetical protein
+OIOADCLO_01209	gene	1716	slo			
+OIOADCLO_01209	CDS	1716	slo			cholesterol-dependent cytolysin streptolysin O
+OIOADCLO_01210	gene	432				
+OIOADCLO_01210	CDS	432				hypothetical protein
+OIOADCLO_01211	gene	237				
+OIOADCLO_01211	CDS	237				hypothetical protein
+OIOADCLO_01212	gene	168				
+OIOADCLO_01212	CDS	168				hypothetical protein
+OIOADCLO_01213	gene	1140				
+OIOADCLO_01213	CDS	1140				PLP-dependent aspartate aminotransferase family protein
+OIOADCLO_01214	gene	2502	leuS			
+OIOADCLO_01214	CDS	2502	leuS	6.1.1.4		leucine--tRNA ligase
+OIOADCLO_01215	gene	1434				
+OIOADCLO_01215	CDS	1434				PTS sugar transporter subunit IIC
+OIOADCLO_01216	gene	279				
+OIOADCLO_01216	CDS	279				PTS sugar transporter subunit IIB
+OIOADCLO_01217	gene	486				
+OIOADCLO_01217	CDS	486				PTS sugar transporter subunit IIA
+OIOADCLO_01218	gene	663				
+OIOADCLO_01218	CDS	663				3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+OIOADCLO_01219	gene	864				
+OIOADCLO_01219	CDS	864				L-ribulose-5-phosphate 3-epimerase
+OIOADCLO_01220	gene	705				
+OIOADCLO_01220	CDS	705		5.1.3.4		L-ribulose-5-phosphate 4-epimerase
+OIOADCLO_01221	gene	1647				
+OIOADCLO_01221	CDS	1647				transcription antiterminator
+OIOADCLO_01222	gene	1092	ulaG			
+OIOADCLO_01222	CDS	1092	ulaG	3.1.1.-		L-ascorbate 6-phosphate lactonase
+OIOADCLO_01223	gene	1197				
+OIOADCLO_01223	CDS	1197				glycine betaine/L-proline ABC transporter ATP-binding protein
+OIOADCLO_01224	gene	1728				
+OIOADCLO_01224	CDS	1728				ABC transporter permease/substrate binding protein
+OIOADCLO_01225	gene	2643	polA			
+OIOADCLO_01225	CDS	2643	polA	2.7.7.7		DNA polymerase I
+OIOADCLO_01226	gene	456				
+OIOADCLO_01226	CDS	456				CoA-binding protein
+OIOADCLO_01227	gene	468	perR			
+OIOADCLO_01227	CDS	468	perR			peroxide-responsive transcriptional repressor PerR
+OIOADCLO_01228	gene	141				
+OIOADCLO_01228	CDS	141				hypothetical protein
+OIOADCLO_01229	gene	1335				
+OIOADCLO_01229	CDS	1335				hypothetical protein
+OIOADCLO_01230	gene	531	ybdM			
+OIOADCLO_01230	CDS	531	ybdM		COG1475	putative protein YbdM
+OIOADCLO_01231	gene	210				
+OIOADCLO_01231	CDS	210				hypothetical protein
+OIOADCLO_01232	gene	216				
+OIOADCLO_01232	CDS	216				IS3 family transposase ISSpy1
+OIOADCLO_01233	gene	921	lmb			
+OIOADCLO_01233	CDS	921	lmb			metal ABC transporter substrate-binding lipoprotein/laminin-binding adhesin Lmb
+OIOADCLO_01234	gene	2478				
+OIOADCLO_01234	CDS	2478				pneumococcal-type histidine triad protein
+OIOADCLO_01235	gene	201				
+OIOADCLO_01235	CDS	201				CsbD family protein
+OIOADCLO_01236	gene	627				
+OIOADCLO_01236	CDS	627				ABC transporter ATP-binding protein
+OIOADCLO_01237	gene	804				
+OIOADCLO_01237	CDS	804				ABC transporter ATP-binding protein
+OIOADCLO_01238	gene	822				
+OIOADCLO_01238	CDS	822				ABC transporter permease
+OIOADCLO_01239	gene	978				
+OIOADCLO_01239	CDS	978				ABC transporter permease
+OIOADCLO_01240	gene	1629				
+OIOADCLO_01240	CDS	1629				ABC transporter substrate-binding protein
+OIOADCLO_01241	gene	267				
+OIOADCLO_01241	CDS	267				hypothetical protein
+OIOADCLO_01242	gene	702	smeZ			
+OIOADCLO_01242	CDS	702	smeZ			streptococcal mitogenic exotoxin SmeZ
+OIOADCLO_01243	gene	507				
+OIOADCLO_01243	CDS	507				hypothetical protein
+OIOADCLO_01244	gene	441				
+OIOADCLO_01244	CDS	441				hypothetical protein
+OIOADCLO_01245	gene	75				
+OIOADCLO_01245	tRNA	75				tRNA-Lys(ctt)
+OIOADCLO_01246	gene	1269				
+OIOADCLO_01246	CDS	1269				replication-associated recombination protein A
+OIOADCLO_01247	gene	567				
+OIOADCLO_01247	CDS	567				aminodeoxychorismate/anthranilate synthase component II
+OIOADCLO_01248	gene	1758	pabB			
+OIOADCLO_01248	CDS	1758	pabB	2.6.1.85		aminodeoxychorismate synthase component I
+OIOADCLO_01249	gene	471				
+OIOADCLO_01249	CDS	471				hypothetical protein
+OIOADCLO_01250	gene	954	prmA			
+OIOADCLO_01250	CDS	954	prmA			50S ribosomal protein L11 methyltransferase
+OIOADCLO_01251	gene	750				
+OIOADCLO_01251	CDS	750		2.1.1.193		16S rRNA (uracil(1498)-N(3))-methyltransferase
+OIOADCLO_01252	gene	2187				
+OIOADCLO_01252	CDS	2187		2.7.1.-		PTS transporter subunit IIBC
+OIOADCLO_01253	gene	819				
+OIOADCLO_01253	CDS	819				endonuclease/exonuclease/phosphatase family protein
+OIOADCLO_01254	gene	483	nrdI_2			
+OIOADCLO_01254	CDS	483	nrdI_2			class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+OIOADCLO_01255	gene	1047	scl1_2			
+OIOADCLO_01255	CDS	1047	scl1_2			LPXTG-anchored collagen-like adhesin Scl1/SclA
+OIOADCLO_01256	gene	2220				
+OIOADCLO_01256	CDS	2220				bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+OIOADCLO_01257	gene	444	dtd			
+OIOADCLO_01257	CDS	444	dtd	3.1.1.96		D-aminoacyl-tRNA deacylase
+OIOADCLO_01258	gene	1323	ska			
+OIOADCLO_01258	CDS	1323	ska			streptokinase
+OIOADCLO_01259	gene	849				
+OIOADCLO_01259	CDS	849				PucR family transcriptional regulator
+OIOADCLO_01260	gene	1134	ugpC			
+OIOADCLO_01260	CDS	1134	ugpC			sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+OIOADCLO_01261	gene	1614				
+OIOADCLO_01261	CDS	1614				alpha-glucosidase
+OIOADCLO_01262	gene	3498				
+OIOADCLO_01262	CDS	3498		3.2.1.41		pullulanase
+OIOADCLO_01263	gene	348				
+OIOADCLO_01263	CDS	348				thioredoxin domain-containing protein
+OIOADCLO_01264	gene	366	yajC			
+OIOADCLO_01264	CDS	366	yajC			preprotein translocase subunit YajC
+OIOADCLO_01265	gene	750				
+OIOADCLO_01265	CDS	750				isoprenyl transferase
+OIOADCLO_01266	gene	795				
+OIOADCLO_01266	CDS	795				phosphatidate cytidylyltransferase
+OIOADCLO_01267	gene	1260	rseP			
+OIOADCLO_01267	CDS	1260	rseP			RIP metalloprotease RseP
+OIOADCLO_01268	gene	1857				
+OIOADCLO_01268	CDS	1857		6.1.1.15		proline--tRNA ligase
+OIOADCLO_01269	gene	4398				
+OIOADCLO_01269	CDS	4398		2.7.7.7		PolC-type DNA polymerase III
+OIOADCLO_01270	gene	429				
+OIOADCLO_01270	CDS	429				MarR family transcriptional regulator
+OIOADCLO_01271	gene	543				
+OIOADCLO_01271	CDS	543				NAD(P)H-dependent oxidoreductase
+OIOADCLO_01272	gene	615	def			
+OIOADCLO_01272	CDS	615	def	3.5.1.88		peptide deformylase
+OIOADCLO_01273	gene	156				
+OIOADCLO_01273	CDS	156				hypothetical protein
+OIOADCLO_01274	gene	270	rpsO			
+OIOADCLO_01274	CDS	270	rpsO			30S ribosomal protein S15
+OIOADCLO_01275	gene	2061				
+OIOADCLO_01275	CDS	2061				BglG family transcription antiterminator
+OIOADCLO_01276	gene	285				
+OIOADCLO_01276	CDS	285				PTS sugar transporter subunit IIB
+OIOADCLO_01277	gene	1236				
+OIOADCLO_01277	CDS	1236				PTS ascorbate transporter subunit IIC
+OIOADCLO_01278	gene	729				
+OIOADCLO_01278	CDS	729		2.2.1.2		transaldolase
+OIOADCLO_01279	gene	2133	pnp			
+OIOADCLO_01279	CDS	2133	pnp	2.7.7.8		polyribonucleotide nucleotidyltransferase
+OIOADCLO_01280	gene	753				
+OIOADCLO_01280	CDS	753				SseB family protein
+OIOADCLO_01281	gene	582	cysE			
+OIOADCLO_01281	CDS	582	cysE	2.3.1.30		serine O-acetyltransferase
+OIOADCLO_01282	gene	231				
+OIOADCLO_01282	CDS	231				hypothetical protein
+OIOADCLO_01283	gene	1344	cysS			
+OIOADCLO_01283	CDS	1344	cysS	6.1.1.16		cysteine--tRNA ligase
+OIOADCLO_01284	gene	414				
+OIOADCLO_01284	CDS	414				Mini-ribonuclease 3
+OIOADCLO_01285	gene	798				
+OIOADCLO_01285	CDS	798				hypothetical protein
+OIOADCLO_01286	gene	747	rlmB			
+OIOADCLO_01286	CDS	747	rlmB			23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+OIOADCLO_01287	gene	519				
+OIOADCLO_01287	CDS	519				NYN domain-containing protein
+OIOADCLO_01288	gene	861				
+OIOADCLO_01288	CDS	861				DegV family protein
+OIOADCLO_01289	gene	507				
+OIOADCLO_01289	CDS	507				hypothetical protein
+OIOADCLO_01290	gene	207				
+OIOADCLO_01290	CDS	207				helix-turn-helix transcriptional regulator
+OIOADCLO_01291	gene	447	rplM			
+OIOADCLO_01291	CDS	447	rplM			50S ribosomal protein L13
+OIOADCLO_01292	gene	393	rpsI			
+OIOADCLO_01292	CDS	393	rpsI			30S ribosomal protein S9
+OIOADCLO_01293	gene	336				
+OIOADCLO_01293	CDS	336				type II toxin-antitoxin system RelE/ParE family toxin
+OIOADCLO_01294	gene	288				
+OIOADCLO_01294	CDS	288				DNA-damage-inducible protein J
+OIOADCLO_01295	gene	774				
+OIOADCLO_01295	CDS	774				DeoR/GlpR family DNA-binding transcription regulator
+OIOADCLO_01296	gene	429	lacA_2			
+OIOADCLO_01296	CDS	429	lacA_2	5.3.1.26		galactose-6-phosphate isomerase subunit LacA
+OIOADCLO_01297	gene	516	lacB_2			
+OIOADCLO_01297	CDS	516	lacB_2	5.3.1.26		galactose-6-phosphate isomerase subunit LacB
+OIOADCLO_01298	gene	930				
+OIOADCLO_01298	CDS	930		2.7.1.144		tagatose-6-phosphate kinase
+OIOADCLO_01299	gene	984	lacD_2			
+OIOADCLO_01299	CDS	984	lacD_2	4.1.2.40		tagatose-bisphosphate aldolase
+OIOADCLO_01300	gene	318				
+OIOADCLO_01300	CDS	318				PTS lactose/cellobiose transporter subunit IIA
+OIOADCLO_01301	gene	1698				
+OIOADCLO_01301	CDS	1698		2.7.1.207		lactose-specific PTS transporter subunit EIIC
+OIOADCLO_01302	gene	1407	lacG			
+OIOADCLO_01302	CDS	1407	lacG	3.2.1.85		6-phospho-beta-galactosidase
+OIOADCLO_01303	gene	147				
+OIOADCLO_01303	CDS	147				type A2 lanthipeptide
+OIOADCLO_01304	gene	1626				
+OIOADCLO_01304	CDS	1626				hypothetical protein
+OIOADCLO_01305	gene	363				
+OIOADCLO_01305	CDS	363				ATP-binding cassette domain-containing protein
+OIOADCLO_01306	gene	738				
+OIOADCLO_01306	CDS	738				ABC transporter ATP-binding protein
+OIOADCLO_01307	gene	1908	yxdM			
+OIOADCLO_01307	CDS	1908	yxdM			ABC transporter permease protein YxdM
+OIOADCLO_01308	gene	1563				
+OIOADCLO_01308	CDS	1563				ATP-binding protein
+OIOADCLO_01309	gene	606				
+OIOADCLO_01309	CDS	606				response regulator transcription factor
+OIOADCLO_01310	gene	192				
+OIOADCLO_01310	CDS	192				hypothetical protein
+OIOADCLO_01311	gene	1581				
+OIOADCLO_01311	CDS	1581		2.1.1.72		type I restriction-modification system subunit M
+OIOADCLO_01312	gene	1200				
+OIOADCLO_01312	CDS	1200				hypothetical protein
+OIOADCLO_01313	gene	2979				
+OIOADCLO_01313	CDS	2979				type I restriction endonuclease subunit R
+OIOADCLO_01314	gene	1143				
+OIOADCLO_01314	CDS	1143				glycerate kinase
+OIOADCLO_01315	gene	924				
+OIOADCLO_01315	CDS	924				ABC transporter ATP-binding protein
+OIOADCLO_01316	gene	1071				
+OIOADCLO_01316	CDS	1071				ABC transporter ATP-binding protein
+OIOADCLO_01317	gene	927				
+OIOADCLO_01317	CDS	927				ABC transporter permease
+OIOADCLO_01318	gene	1503				
+OIOADCLO_01318	CDS	1503				ABC transporter permease
+OIOADCLO_01319	gene	1971				
+OIOADCLO_01319	CDS	1971				peptide ABC transporter substrate-binding protein
+OIOADCLO_01320	gene	1233	pbp3_2			
+OIOADCLO_01320	CDS	1233	pbp3_2	3.4.16.4		D-alanyl-D-alanine carboxypeptidase PBP3
+OIOADCLO_01321	gene	1182				
+OIOADCLO_01321	CDS	1182				serine hydrolase
+OIOADCLO_01322	gene	1419	sufB			
+OIOADCLO_01322	CDS	1419	sufB			Fe-S cluster assembly protein SufB
+OIOADCLO_01323	gene	480				
+OIOADCLO_01323	CDS	480				SUF system NifU family Fe-S cluster assembly protein
+OIOADCLO_01324	gene	1227				
+OIOADCLO_01324	CDS	1227				cysteine desulfurase
+OIOADCLO_01325	gene	1263	sufD			
+OIOADCLO_01325	CDS	1263	sufD			Fe-S cluster assembly protein SufD
+OIOADCLO_01326	gene	771	sufC			
+OIOADCLO_01326	CDS	771	sufC			Fe-S cluster assembly ATPase SufC
+OIOADCLO_01327	gene	1170				
+OIOADCLO_01327	CDS	1170				undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+OIOADCLO_01328	gene	762	mecA			
+OIOADCLO_01328	CDS	762	mecA			adaptor protein MecA
+OIOADCLO_01329	gene	840				
+OIOADCLO_01329	CDS	840		3.6.1.27		undecaprenyl-diphosphate phosphatase
+OIOADCLO_01330	gene	1899				
+OIOADCLO_01330	CDS	1899				hypothetical protein
+OIOADCLO_01331	gene	1569				
+OIOADCLO_01331	CDS	1569				ABC transporter substrate-binding protein/permease
+OIOADCLO_01332	gene	741				
+OIOADCLO_01332	CDS	741				amino acid ABC transporter ATP-binding protein
+OIOADCLO_01333	gene	117				
+OIOADCLO_01333	CDS	117				putative metal homeostasis protein
+OIOADCLO_01334	gene	1011	gap			
+OIOADCLO_01334	CDS	1011	gap			type I glyceraldehyde-3-phosphate dehydrogenase
+OIOADCLO_01335	gene	2079	fusA			
+OIOADCLO_01335	CDS	2079	fusA			elongation factor G
+OIOADCLO_01336	gene	471	rpsG			
+OIOADCLO_01336	CDS	471	rpsG			30S ribosomal protein S7
+OIOADCLO_01337	gene	414	rpsL			
+OIOADCLO_01337	CDS	414	rpsL			30S ribosomal protein S12
+OIOADCLO_01338	gene	2622				
+OIOADCLO_01338	CDS	2622				SEC10/PgrA surface exclusion domain-containing protein
+OIOADCLO_01339	gene	840	purR_1			
+OIOADCLO_01339	CDS	840	purR_1			pur operon repressor
+OIOADCLO_01340	gene	939				
+OIOADCLO_01340	CDS	939				3'-5' exoribonuclease YhaM family protein
+OIOADCLO_01341	gene	1272				
+OIOADCLO_01341	CDS	1272				DNA recombination protein RmuC
+OIOADCLO_01342	gene	633				
+OIOADCLO_01342	CDS	633		2.7.6.2		thiamine diphosphokinase
+OIOADCLO_01343	gene	663	rpe			
+OIOADCLO_01343	CDS	663	rpe	5.1.3.1		ribulose-phosphate 3-epimerase
+OIOADCLO_01344	gene	873	rsgA			
+OIOADCLO_01344	CDS	873	rsgA			ribosome small subunit-dependent GTPase A
+OIOADCLO_01345	gene	873	rsmA			
+OIOADCLO_01345	CDS	873	rsmA	2.1.1.182		16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA
+OIOADCLO_01346	gene	570	rnmV			
+OIOADCLO_01346	CDS	570	rnmV	3.1.26.8		ribonuclease M5
+OIOADCLO_01347	gene	792				
+OIOADCLO_01347	CDS	792				TatD family hydrolase
+OIOADCLO_01348	gene	831				
+OIOADCLO_01348	CDS	831				MurR/RpiR family transcriptional regulator
+OIOADCLO_01349	gene	939				
+OIOADCLO_01349	CDS	939				ROK family protein
+OIOADCLO_01350	gene	915				
+OIOADCLO_01350	CDS	915				dihydrodipicolinate synthase family protein
+OIOADCLO_01351	gene	663				
+OIOADCLO_01351	CDS	663				hypothetical protein
+OIOADCLO_01352	gene	831				
+OIOADCLO_01352	CDS	831				carbohydrate ABC transporter permease
+OIOADCLO_01353	gene	963				
+OIOADCLO_01353	CDS	963				sugar ABC transporter permease
+OIOADCLO_01354	gene	1320				
+OIOADCLO_01354	CDS	1320				ABC transporter substrate-binding protein
+OIOADCLO_01355	gene	705				
+OIOADCLO_01355	CDS	705				N-acetylmannosamine-6-phosphate 2-epimerase
+OIOADCLO_01356	gene	135	rpmH			
+OIOADCLO_01356	CDS	135	rpmH			50S ribosomal protein L34
+OIOADCLO_01357	gene	915				
+OIOADCLO_01357	CDS	915				protein jag
+OIOADCLO_01358	gene	810				
+OIOADCLO_01358	CDS	810				YidC/Oxa1 family membrane protein insertase
+OIOADCLO_01359	gene	360	rnpA			
+OIOADCLO_01359	CDS	360	rnpA	3.1.26.5		ribonuclease P protein component
+OIOADCLO_01360	gene	738				
+OIOADCLO_01360	CDS	738				LytTR family DNA-binding domain-containing protein
+OIOADCLO_01361	gene	1284				
+OIOADCLO_01361	CDS	1284				sensor histidine kinase
+OIOADCLO_01362	gene	1347				
+OIOADCLO_01362	CDS	1347				sensor histidine kinase
+OIOADCLO_01363	gene	1446	gltX			
+OIOADCLO_01363	CDS	1446	gltX	6.1.1.17		glutamate--tRNA ligase
+OIOADCLO_01364	gene	711				
+OIOADCLO_01364	CDS	711				TIGR00266 family protein
+OIOADCLO_01365	gene	498				
+OIOADCLO_01365	CDS	498				carbonic anhydrase
+OIOADCLO_01366	gene	1362	radA			
+OIOADCLO_01366	CDS	1362	radA			DNA repair protein RadA
+OIOADCLO_01367	gene	447				
+OIOADCLO_01367	CDS	447		3.6.1.23		dUTP diphosphatase
+OIOADCLO_01368	gene	768				
+OIOADCLO_01368	CDS	768				epoxyqueuosine reductase QueH
+OIOADCLO_01369	gene	1785				
+OIOADCLO_01369	CDS	1785				ABC transporter ATP-binding protein/permease
+OIOADCLO_01370	gene	1707				
+OIOADCLO_01370	CDS	1707				ABC transporter ATP-binding protein/permease
+OIOADCLO_01371	gene	450				
+OIOADCLO_01371	CDS	450				MarR family transcriptional regulator
+OIOADCLO_01372	gene	1017				
+OIOADCLO_01372	CDS	1017		1.1.1.94		NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+OIOADCLO_01373	gene	900	galU			
+OIOADCLO_01373	CDS	900	galU	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase GalU
+OIOADCLO_01374	gene	672				
+OIOADCLO_01374	CDS	672				rhomboid family intramembrane serine protease
+OIOADCLO_01375	gene	105				
+OIOADCLO_01375	CDS	105				exfoliative toxin
+OIOADCLO_01376	gene	138				
+OIOADCLO_01376	CDS	138				hypothetical protein
+OIOADCLO_01377	gene	366				
+OIOADCLO_01377	CDS	366				Asp23/Gls24 family envelope stress response protein
+OIOADCLO_01378	gene	1665				
+OIOADCLO_01378	CDS	1665				DAK2 domain-containing protein
+OIOADCLO_01379	gene	891				
+OIOADCLO_01379	CDS	891				SPFH domain-containing protein
+OIOADCLO_01380	gene	855				
+OIOADCLO_01380	CDS	855				5'-nucleotidase, lipoprotein e(P4) family
+OIOADCLO_01381	gene	1197				
+OIOADCLO_01381	CDS	1197				phosphoglycerate kinase
+OIOADCLO_01382	gene	552				
+OIOADCLO_01382	CDS	552				aromatic acid exporter family protein
+OIOADCLO_01383	gene	372				
+OIOADCLO_01383	CDS	372				MerR family transcriptional regulator
+OIOADCLO_01384	gene	1347	glnA			
+OIOADCLO_01384	CDS	1347	glnA	6.3.1.2		type I glutamate--ammonia ligase
+OIOADCLO_01385	gene	1683	rnjA			
+OIOADCLO_01385	CDS	1683	rnjA			ribonuclease J1
+OIOADCLO_01386	gene	231				
+OIOADCLO_01386	CDS	231				DNA-directed RNA polymerase subunit epsilon
+OIOADCLO_01387	gene	699	tsaB			
+OIOADCLO_01387	CDS	699	tsaB	2.3.1.234		tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+OIOADCLO_01388	gene	456	rimI			
+OIOADCLO_01388	CDS	456	rimI	2.3.1.266		ribosomal protein S18-alanine N-acetyltransferase
+OIOADCLO_01389	gene	1029	tsaD			
+OIOADCLO_01389	CDS	1029	tsaD	2.3.1.234		tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+OIOADCLO_01390	gene	270	rpsN			
+OIOADCLO_01390	CDS	270	rpsN			30S ribosomal protein S14
+OIOADCLO_01391	gene	744				
+OIOADCLO_01391	CDS	744				GntR family transcriptional regulator
+OIOADCLO_01392	gene	780	udp			
+OIOADCLO_01392	CDS	780	udp	2.4.2.3		uridine phosphorylase
+OIOADCLO_01393	gene	1203				
+OIOADCLO_01393	CDS	1203				NupC/NupG family nucleoside CNT transporter
+OIOADCLO_01394	gene	672	deoC			
+OIOADCLO_01394	CDS	672	deoC	4.1.2.4		deoxyribose-phosphate aldolase
+OIOADCLO_01395	gene	1170				
+OIOADCLO_01395	CDS	1170				NAD(P)/FAD-dependent oxidoreductase
+OIOADCLO_01396	gene	531				
+OIOADCLO_01396	CDS	531				hypothetical protein
+OIOADCLO_01397	gene	588				
+OIOADCLO_01397	CDS	588				3'-5' exonuclease
+OIOADCLO_01398	gene	738				
+OIOADCLO_01398	CDS	738				MerR family transcriptional regulator
+OIOADCLO_01399	gene	300				
+OIOADCLO_01399	CDS	300				YbaB/EbfC family nucleoid-associated protein
+OIOADCLO_01400	gene	375				
+OIOADCLO_01400	CDS	375				helix-turn-helix domain-containing protein
+OIOADCLO_01401	gene	222				
+OIOADCLO_01401	CDS	222				helix-turn-helix transcriptional regulator
+OIOADCLO_01402	gene	2283				
+OIOADCLO_01402	CDS	2283		3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+OIOADCLO_01403	gene	720				
+OIOADCLO_01403	CDS	720				Crp/Fnr family transcriptional regulator
+OIOADCLO_01404	gene	1197				
+OIOADCLO_01404	CDS	1197				MFS transporter
+OIOADCLO_01405	gene	849				
+OIOADCLO_01405	CDS	849				aquaporin family protein
+OIOADCLO_01406	gene	897				
+OIOADCLO_01406	CDS	897				sulfite exporter TauE/SafE family protein
+OIOADCLO_01407	gene	753				
+OIOADCLO_01407	CDS	753				CppA family protein
+OIOADCLO_01408	gene	939				
+OIOADCLO_01408	CDS	939				serine hydrolase
+OIOADCLO_01409	gene	2328	pflB			
+OIOADCLO_01409	CDS	2328	pflB	2.3.1.54		formate C-acetyltransferase
+OIOADCLO_01410	gene	1095	dinB			
+OIOADCLO_01410	CDS	1095	dinB	2.7.7.7		DNA polymerase IV
+OIOADCLO_01411	gene	483				
+OIOADCLO_01411	CDS	483				hypothetical protein
+OIOADCLO_01412	gene	2454				
+OIOADCLO_01412	CDS	2454				ATP-dependent RecD-like DNA helicase
+OIOADCLO_01413	gene	594	lepB_3			
+OIOADCLO_01413	CDS	594	lepB_3	3.4.21.89		signal peptidase I
+OIOADCLO_01414	gene	903	rnhC			
+OIOADCLO_01414	CDS	903	rnhC			ribonuclease HIII
+OIOADCLO_01415	gene	309				
+OIOADCLO_01415	CDS	309				hypothetical protein
+OIOADCLO_01416	gene	546				
+OIOADCLO_01416	CDS	546				CvpA family protein
+OIOADCLO_01417	gene	2340				
+OIOADCLO_01417	CDS	2340				endonuclease MutS2
+OIOADCLO_01418	gene	501				
+OIOADCLO_01418	CDS	501				phosphatase PAP2 family protein
+OIOADCLO_01419	gene	315	trxA			
+OIOADCLO_01419	CDS	315	trxA			thioredoxin
+OIOADCLO_01420	gene	588				
+OIOADCLO_01420	CDS	588				helix-turn-helix domain-containing protein
+OIOADCLO_01421	gene	1155	mutY			
+OIOADCLO_01421	CDS	1155	mutY			A/G-specific adenine glycosylase
+OIOADCLO_01422	gene	294				
+OIOADCLO_01422	CDS	294				hypothetical protein
+OIOADCLO_01423	gene	291	rpsF			
+OIOADCLO_01423	CDS	291	rpsF			30S ribosomal protein S6
+OIOADCLO_01424	gene	492				
+OIOADCLO_01424	CDS	492				single-stranded DNA-binding protein
+OIOADCLO_01425	gene	240	rpsR			
+OIOADCLO_01425	CDS	240	rpsR			30S ribosomal protein S18
+OIOADCLO_01426	gene	657				
+OIOADCLO_01426	CDS	657				hypothetical protein
+OIOADCLO_01427	gene	945				
+OIOADCLO_01427	CDS	945				magnesium transporter CorA family protein
+OIOADCLO_01428	gene	2829	uvrA			
+OIOADCLO_01428	CDS	2829	uvrA	3.1.25.-		excinuclease ABC subunit UvrA
+OIOADCLO_01429	gene	1074				
+OIOADCLO_01429	CDS	1074				Xaa-Pro peptidase family protein
+OIOADCLO_01430	gene	462				
+OIOADCLO_01430	CDS	462				deaminase
+OIOADCLO_01431	gene	558	efp			
+OIOADCLO_01431	CDS	558	efp			elongation factor P
+OIOADCLO_01432	gene	390				
+OIOADCLO_01432	CDS	390				Asp23/Gls24 family envelope stress response protein
+OIOADCLO_01433	gene	453	nusB			
+OIOADCLO_01433	CDS	453	nusB			transcription antitermination factor NusB
+OIOADCLO_01434	gene	966				
+OIOADCLO_01434	CDS	966				LacI family DNA-binding transcriptional regulator
+OIOADCLO_01435	gene	1440				
+OIOADCLO_01435	CDS	1440				glycoside hydrolase family 32 protein
+OIOADCLO_01436	gene	1884				
+OIOADCLO_01436	CDS	1884		2.7.1.211		sucrose-specific PTS transporter subunit IIBC
+OIOADCLO_01437	gene	2988				
+OIOADCLO_01437	CDS	2988				endo-beta-N-acetylglucosaminidase family protein
+OIOADCLO_01438	gene	885				
+OIOADCLO_01438	CDS	885				ROK family protein
+OIOADCLO_01439	gene	954	manA			
+OIOADCLO_01439	CDS	954	manA	5.3.1.8		mannose-6-phosphate isomerase, class I
+OIOADCLO_01440	gene	198				
+OIOADCLO_01440	CDS	198				hypothetical protein
+OIOADCLO_01441	gene	420				
+OIOADCLO_01441	CDS	420				hypothetical protein
+OIOADCLO_01442	gene	357				
+OIOADCLO_01442	CDS	357				hypothetical protein
+OIOADCLO_01443	gene	1269				
+OIOADCLO_01443	CDS	1269				hypothetical protein
+OIOADCLO_01444	gene	1494				
+OIOADCLO_01444	CDS	1494				hypothetical protein
+OIOADCLO_01445	gene	225				
+OIOADCLO_01445	CDS	225				hypothetical protein
+OIOADCLO_01446	gene	180				
+OIOADCLO_01446	CDS	180				hypothetical protein
+OIOADCLO_01447	gene	267				
+OIOADCLO_01447	CDS	267				hypothetical protein
+OIOADCLO_01448	gene	1416				
+OIOADCLO_01448	CDS	1416				hypothetical protein
+OIOADCLO_01449	gene	462				
+OIOADCLO_01449	CDS	462				hypothetical protein
+OIOADCLO_01450	gene	912				
+OIOADCLO_01450	CDS	912				hypothetical protein
+OIOADCLO_01451	gene	201				
+OIOADCLO_01451	CDS	201				hypothetical protein
+OIOADCLO_01452	gene	423				
+OIOADCLO_01452	CDS	423				hypothetical protein
+OIOADCLO_01453	gene	339				
+OIOADCLO_01453	CDS	339				hypothetical protein
+OIOADCLO_01454	gene	237				
+OIOADCLO_01454	CDS	237				hypothetical protein
+OIOADCLO_01455	gene	336				
+OIOADCLO_01455	CDS	336				hypothetical protein
+OIOADCLO_01456	gene	594				
+OIOADCLO_01456	CDS	594				hypothetical protein
+OIOADCLO_01457	gene	264				
+OIOADCLO_01457	CDS	264				hypothetical protein
+OIOADCLO_01458	gene	372				
+OIOADCLO_01458	CDS	372				hypothetical protein
+OIOADCLO_01459	gene	2358				
+OIOADCLO_01459	CDS	2358				hypothetical protein
+OIOADCLO_01460	gene	696				
+OIOADCLO_01460	CDS	696				hypothetical protein
+OIOADCLO_01461	gene	1869				
+OIOADCLO_01461	CDS	1869				gp58-like family protein
+OIOADCLO_01462	gene	438				
+OIOADCLO_01462	CDS	438				hypothetical protein
+OIOADCLO_01463	gene	618				
+OIOADCLO_01463	CDS	618				hypothetical protein
+OIOADCLO_01464	gene	276				
+OIOADCLO_01464	CDS	276				hypothetical protein
+OIOADCLO_01465	gene	228				
+OIOADCLO_01465	CDS	228				hypothetical protein
+OIOADCLO_01466	gene	1206				
+OIOADCLO_01466	CDS	1206				glucosaminidase domain-containing protein
+OIOADCLO_01467	gene	435				
+OIOADCLO_01467	CDS	435				hypothetical protein
+OIOADCLO_01468	gene	801				
+OIOADCLO_01468	CDS	801				hypothetical protein
+OIOADCLO_01469	gene	183				
+OIOADCLO_01469	CDS	183				hypothetical protein
+OIOADCLO_01470	gene	1863	cadA			
+OIOADCLO_01470	CDS	1863	cadA	7.2.2.21		cadmium-translocating P-type ATPase
+OIOADCLO_01471	gene	936				
+OIOADCLO_01471	CDS	936		1.3.98.1		dihydroorotate oxidase
+OIOADCLO_01472	gene	696				
+OIOADCLO_01472	CDS	696		5.4.2.12		phosphoglycerate mutase
+OIOADCLO_01473	gene	522				
+OIOADCLO_01473	CDS	522				transcription repressor NadR
+OIOADCLO_01474	gene	543	niaX			
+OIOADCLO_01474	CDS	543	niaX			Niacin transporter NiaX
+OIOADCLO_01475	gene	780				
+OIOADCLO_01475	CDS	780				formate/nitrite transporter family protein
+OIOADCLO_01476	gene	597	recR			
+OIOADCLO_01476	CDS	597	recR			recombination mediator RecR
+OIOADCLO_01477	gene	1047				
+OIOADCLO_01477	CDS	1047		6.3.2.4		D-alanine--D-alanine ligase
+OIOADCLO_01478	gene	1392				
+OIOADCLO_01478	CDS	1392				UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+OIOADCLO_01479	gene	696				
+OIOADCLO_01479	CDS	696				TIGR02206 family membrane protein
+OIOADCLO_01480	gene	1545				
+OIOADCLO_01480	CDS	1545				peptide chain release factor 3
+OIOADCLO_01481	gene	1620				
+OIOADCLO_01481	CDS	1620				DEAD/DEAH box helicase
+OIOADCLO_01482	gene	2001				
+OIOADCLO_01482	CDS	2001				potassium transporter Kup
+OIOADCLO_01483	gene	279				
+OIOADCLO_01483	CDS	279				GIY-YIG nuclease family protein
+OIOADCLO_01484	gene	777				
+OIOADCLO_01484	CDS	777				tRNA1(Val) (adenine(37)-N6)-methyltransferase
+OIOADCLO_01485	gene	741				
+OIOADCLO_01485	CDS	741				1-acyl-sn-glycerol-3-phosphate acyltransferase
+OIOADCLO_01486	gene	663				
+OIOADCLO_01486	CDS	663				ComEA family DNA-binding protein
+OIOADCLO_01487	gene	2244				
+OIOADCLO_01487	CDS	2244				DNA internalization-related competence protein ComEC/Rec2
+OIOADCLO_01488	gene	1041	holA			
+OIOADCLO_01488	CDS	1041	holA	2.7.7.7		DNA polymerase III subunit delta
+OIOADCLO_01489	gene	606	sodA			
+OIOADCLO_01489	CDS	606	sodA	1.15.1.1		superoxide dismutase SodA
+OIOADCLO_01490	gene	228				
+OIOADCLO_01490	CDS	228				hypothetical protein
+OIOADCLO_01491	gene	249				
+OIOADCLO_01491	CDS	249				hypothetical protein
+OIOADCLO_01492	gene	591				
+OIOADCLO_01492	CDS	591				peptidase S11
+OIOADCLO_01493	gene	1188				
+OIOADCLO_01493	CDS	1188				hypothetical protein
+OIOADCLO_01494	gene	1029	queA			
+OIOADCLO_01494	CDS	1029	queA	2.4.99.17		tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+OIOADCLO_01495	gene	705	nagB			
+OIOADCLO_01495	CDS	705	nagB	3.5.99.6		glucosamine-6-phosphate deaminase
+OIOADCLO_01496	gene	717				
+OIOADCLO_01496	CDS	717				rRNA pseudouridine synthase
+OIOADCLO_01497	gene	963				
+OIOADCLO_01497	CDS	963				competence protein CoiA
+OIOADCLO_01498	gene	1806	pepF_2			
+OIOADCLO_01498	CDS	1806	pepF_2			oligoendopeptidase F
+OIOADCLO_01499	gene	1197				
+OIOADCLO_01499	CDS	1197				OFA family MFS transporter
+OIOADCLO_01500	gene	672				
+OIOADCLO_01500	CDS	672				O-methyltransferase
+OIOADCLO_01501	gene	1056	prsA_2			
+OIOADCLO_01501	CDS	1056	prsA_2	5.2.1.8		peptidylprolyl isomerase PrsA
+OIOADCLO_01502	gene	2619	alaS			
+OIOADCLO_01502	CDS	2619	alaS	6.1.1.7		alanine--tRNA ligase
+OIOADCLO_01503	gene	222				
+OIOADCLO_01503	CDS	222				helix-turn-helix transcriptional regulator
+OIOADCLO_01504	gene	762				
+OIOADCLO_01504	CDS	762				hypothetical protein
+OIOADCLO_01505	gene	696				
+OIOADCLO_01505	CDS	696				CPBP family intramembrane metalloprotease
+OIOADCLO_01506	gene	222				
+OIOADCLO_01506	CDS	222				IS3 family transposase ISSpy1
+OIOADCLO_01507	gene	273				
+OIOADCLO_01507	CDS	273				Veg family protein
+OIOADCLO_01508	gene	1362	dnaB			
+OIOADCLO_01508	CDS	1362	dnaB	3.6.4.12		replicative DNA helicase
+OIOADCLO_01509	gene	453	rplI			
+OIOADCLO_01509	CDS	453	rplI			50S ribosomal protein L9
+OIOADCLO_01510	gene	1977				
+OIOADCLO_01510	CDS	1977				DHH family phosphoesterase
+OIOADCLO_01511	gene	1899	mnmG			
+OIOADCLO_01511	CDS	1899	mnmG			tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+OIOADCLO_01512	gene	318				
+OIOADCLO_01512	CDS	318				NUDIX domain-containing protein
+OIOADCLO_01513	gene	1122	mnmA			
+OIOADCLO_01513	CDS	1122	mnmA	2.8.1.13		tRNA 2-thiouridine(34) synthase MnmA
+OIOADCLO_01514	gene	672	sdaAB			
+OIOADCLO_01514	CDS	672	sdaAB	4.3.1.17		L-serine ammonia-lyase, iron-sulfur-dependent subunit beta
+OIOADCLO_01515	gene	873	sdaAA			
+OIOADCLO_01515	CDS	873	sdaAA	4.3.1.17		L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha
+OIOADCLO_01516	gene	615				
+OIOADCLO_01516	CDS	615				transglycosylase SLT domain-containing protein
+OIOADCLO_01517	gene	801				
+OIOADCLO_01517	CDS	801				energy-coupling factor transporter transmembrane protein EcfT
+OIOADCLO_01518	gene	843				
+OIOADCLO_01518	CDS	843				energy-coupling factor transporter ATPase
+OIOADCLO_01519	gene	840				
+OIOADCLO_01519	CDS	840				energy-coupling factor ABC transporter ATP-binding protein
+OIOADCLO_01520	gene	543	pgsA			
+OIOADCLO_01520	CDS	543	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+OIOADCLO_01521	gene	1026				
+OIOADCLO_01521	CDS	1026				helix-turn-helix domain-containing protein
+OIOADCLO_01522	gene	1290				
+OIOADCLO_01522	CDS	1290				insulinase family protein
+OIOADCLO_01523	gene	1245				
+OIOADCLO_01523	CDS	1245				insulinase family protein
+OIOADCLO_01524	gene	1260	hasA			
+OIOADCLO_01524	CDS	1260	hasA	2.4.1.212		hyaluronan synthase HasA
+OIOADCLO_01525	gene	1209	hasB			
+OIOADCLO_01525	CDS	1209	hasB	1.1.1.22		UDP-glucose 6-dehydrogenase HasB
+OIOADCLO_01526	gene	915	hasC			
+OIOADCLO_01526	CDS	915	hasC	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase HasC
+OIOADCLO_01527	gene	414	yaaA_2			
+OIOADCLO_01527	CDS	414	yaaA_2			S4 domain-containing protein YaaA
+OIOADCLO_01528	gene	1107	recF			
+OIOADCLO_01528	CDS	1107	recF			DNA replication/repair protein RecF
+OIOADCLO_01529	gene	864				
+OIOADCLO_01529	CDS	864				GRP family sugar transporter
+OIOADCLO_01530	gene	1482	guaB			
+OIOADCLO_01530	CDS	1482	guaB	1.1.1.205		IMP dehydrogenase
+OIOADCLO_01531	gene	1023	trpS			
+OIOADCLO_01531	CDS	1023	trpS	6.1.1.2		tryptophan--tRNA ligase
+OIOADCLO_01532	gene	873				
+OIOADCLO_01532	CDS	873				YitT family protein
+OIOADCLO_01533	gene	1620				
+OIOADCLO_01533	CDS	1620				ATP-binding cassette domain-containing protein
+OIOADCLO_01534	gene	2577				
+OIOADCLO_01534	CDS	2577				YfhO family protein
+OIOADCLO_01535	gene	76				
+OIOADCLO_01535	tRNA	76				tRNA-Asn(gtt)
+OIOADCLO_01536	gene	75				
+OIOADCLO_01536	tRNA	75				tRNA-Glu(ttc)
+OIOADCLO_01537	gene	282				
+OIOADCLO_01537	CDS	282				IS30 family transposase
+OIOADCLO_01538	gene	74				
+OIOADCLO_01538	tRNA	74				tRNA-Arg(tct)
+OIOADCLO_01539	gene	480	rlmH			
+OIOADCLO_01539	CDS	480	rlmH	2.1.1.177		23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+OIOADCLO_01540	gene	1224				
+OIOADCLO_01540	CDS	1224				trypsin-like peptidase domain-containing protein
+OIOADCLO_01541	gene	777				
+OIOADCLO_01541	CDS	777				ParB/RepB/Spo0J family partition protein
+OIOADCLO_01542	gene	1356	dnaA			
+OIOADCLO_01542	CDS	1356	dnaA			chromosomal replication initiator protein DnaA
+OIOADCLO_01543	gene	1137	dnaN			
+OIOADCLO_01543	CDS	1137	dnaN	2.7.7.7		DNA polymerase III subunit beta
+OIOADCLO_01544	gene	198				
+OIOADCLO_01544	CDS	198				hypothetical protein
+OIOADCLO_01545	gene	1116	ychF			
+OIOADCLO_01545	CDS	1116	ychF			redox-regulated ATPase YchF
+OIOADCLO_01546	gene	570	pth			
+OIOADCLO_01546	CDS	570	pth	3.1.1.29		aminoacyl-tRNA hydrolase
+OIOADCLO_01547	gene	3504	mfd			
+OIOADCLO_01547	CDS	3504	mfd			transcription-repair coupling factor
+OIOADCLO_01548	gene	273				
+OIOADCLO_01548	CDS	273				RNA-binding S4 domain-containing protein
+OIOADCLO_01549	gene	372				
+OIOADCLO_01549	CDS	372				septum formation initiator family protein
+OIOADCLO_01550	gene	126				
+OIOADCLO_01550	CDS	126				hypothetical protein
+OIOADCLO_01551	gene	1287				
+OIOADCLO_01551	CDS	1287				serine hydrolase
+OIOADCLO_01552	gene	1287	tilS			
+OIOADCLO_01552	CDS	1287	tilS	6.3.4.19		tRNA lysidine(34) synthetase TilS
+OIOADCLO_01553	gene	543	hpt			
+OIOADCLO_01553	CDS	543	hpt	2.4.2.8		hypoxanthine phosphoribosyltransferase
+OIOADCLO_01554	gene	1980	ftsH			
+OIOADCLO_01554	CDS	1980	ftsH			ATP-dependent zinc metalloprotease FtsH
+OIOADCLO_01555	gene	129				
+OIOADCLO_01555	CDS	129				hypothetical protein
+OIOADCLO_01556	gene	1314	obgE			
+OIOADCLO_01556	CDS	1314	obgE			GTPase ObgE
+OIOADCLO_01557	gene	159				
+OIOADCLO_01557	CDS	159				hypothetical protein
+OIOADCLO_01558	gene	696	pnuC			
+OIOADCLO_01558	CDS	696	pnuC			nicotinamide riboside transporter PnuC
+OIOADCLO_01559	gene	1401				
+OIOADCLO_01559	CDS	1401				glycoside hydrolase family 1 protein
+OIOADCLO_01560	gene	1095				
+OIOADCLO_01560	CDS	1095				hypothetical protein
+OIOADCLO_01561	gene	1995				
+OIOADCLO_01561	CDS	1995				BglG family transcription antiterminator
+OIOADCLO_01562	gene	312				
+OIOADCLO_01562	CDS	312				PTS sugar transporter subunit IIB
+OIOADCLO_01563	gene	336				
+OIOADCLO_01563	CDS	336				PTS lactose/cellobiose transporter subunit IIA
+OIOADCLO_01564	gene	450				
+OIOADCLO_01564	CDS	450				hypothetical protein
+OIOADCLO_01565	gene	1380				
+OIOADCLO_01565	CDS	1380				PTS transporter subunit EIIC
+OIOADCLO_01566	gene	153				
+OIOADCLO_01566	CDS	153				hypothetical protein
+OIOADCLO_01567	gene	741				
+OIOADCLO_01567	CDS	741				amino acid ABC transporter ATP-binding protein
+OIOADCLO_01568	gene	2175				
+OIOADCLO_01568	CDS	2175				ABC transporter substrate-binding protein/permease
+OIOADCLO_01569	gene	1992	uvrB			
+OIOADCLO_01569	CDS	1992	uvrB			excinuclease ABC subunit B
+OIOADCLO_01570	gene	144				
+OIOADCLO_01570	CDS	144				teichoic acid D-Ala incorporation-associated protein DltX
+OIOADCLO_01571	gene	1539	dltA			
+OIOADCLO_01571	CDS	1539	dltA	6.1.1.13		D-alanine--poly(phosphoribitol) ligase subunit DltA
+OIOADCLO_01572	gene	1257	dltB			
+OIOADCLO_01572	CDS	1257	dltB			D-alanyl-lipoteichoic acid biosynthesis protein DltB
+OIOADCLO_01573	gene	240	dltC			
+OIOADCLO_01573	CDS	240	dltC	6.1.1.13		D-alanine--poly(phosphoribitol) ligase subunit DltC
+OIOADCLO_01574	gene	1251	dltD			
+OIOADCLO_01574	CDS	1251	dltD			D-alanyl-lipoteichoic acid biosynthesis protein DltD
+OIOADCLO_01575	gene	984				
+OIOADCLO_01575	CDS	984				alpha/beta hydrolase
+OIOADCLO_01576	gene	1260				
+OIOADCLO_01576	CDS	1260				extracellular solute-binding protein
+OIOADCLO_01577	gene	1704				
+OIOADCLO_01577	CDS	1704		3.2.1.54	COG0366	Cyclomaltodextrinase
+OIOADCLO_01578	gene	2136	amyA			
+OIOADCLO_01578	CDS	2136	amyA	2.4.1.19		Cyclomaltodextrin glucanotransferase
+OIOADCLO_01579	gene	1308				
+OIOADCLO_01579	CDS	1308				sugar ABC transporter permease
+OIOADCLO_01580	gene	861				
+OIOADCLO_01580	CDS	861				sugar ABC transporter permease
+OIOADCLO_01581	gene	816				
+OIOADCLO_01581	CDS	816				hypothetical protein
+OIOADCLO_01582	gene	801	purR_2			
+OIOADCLO_01582	CDS	801	purR_2			HTH-type transcriptional repressor PurR
+OIOADCLO_01583	gene	837				
+OIOADCLO_01583	CDS	837				sugar ABC transporter permease
+OIOADCLO_01584	gene	1362				
+OIOADCLO_01584	CDS	1362				sugar ABC transporter permease
+OIOADCLO_01585	gene	1248				
+OIOADCLO_01585	CDS	1248				extracellular solute-binding protein
+OIOADCLO_01586	gene	1020				
+OIOADCLO_01586	CDS	1020				LacI family transcriptional regulator
+OIOADCLO_01587	gene	1494	malQ			
+OIOADCLO_01587	CDS	1494	malQ	2.4.1.25		4-alpha-glucanotransferase
+OIOADCLO_01588	gene	2265	glgP			
+OIOADCLO_01588	CDS	2265	glgP	2.4.1.1		glycogen/starch/alpha-glucan family phosphorylase
+OIOADCLO_01589	gene	621				
+OIOADCLO_01589	CDS	621				hypothetical protein
+OIOADCLO_01590	gene	1089				
+OIOADCLO_01590	CDS	1089				site-specific integrase
+OIOADCLO_01591	gene	894				
+OIOADCLO_01591	CDS	894				P63C domain-containing protein
+OIOADCLO_01592	gene	825				
+OIOADCLO_01592	CDS	825				XRE family transcriptional regulator
+OIOADCLO_01593	gene	102				
+OIOADCLO_01593	CDS	102				hypothetical protein
+OIOADCLO_01594	gene	159				
+OIOADCLO_01594	CDS	159				hypothetical protein
+OIOADCLO_01595	gene	600				
+OIOADCLO_01595	CDS	600				hypothetical protein
+OIOADCLO_01596	gene	210				
+OIOADCLO_01596	CDS	210				hypothetical protein
+OIOADCLO_01597	gene	387				
+OIOADCLO_01597	CDS	387				hypothetical protein
+OIOADCLO_01598	gene	201				
+OIOADCLO_01598	CDS	201				helix-turn-helix domain-containing protein
+OIOADCLO_01599	gene	210				
+OIOADCLO_01599	CDS	210				hypothetical protein
+OIOADCLO_01600	gene	462				
+OIOADCLO_01600	CDS	462				hypothetical protein
+OIOADCLO_01601	gene	831				
+OIOADCLO_01601	CDS	831				hypothetical protein
+OIOADCLO_01602	gene	783				
+OIOADCLO_01602	CDS	783				hypothetical protein
+OIOADCLO_01603	gene	138				
+OIOADCLO_01603	CDS	138				hypothetical protein
+OIOADCLO_01604	gene	354				
+OIOADCLO_01604	CDS	354				hypothetical protein
+OIOADCLO_01605	gene	255				
+OIOADCLO_01605	CDS	255				hypothetical protein
+OIOADCLO_01606	gene	483				
+OIOADCLO_01606	CDS	483				hypothetical protein
+OIOADCLO_01607	gene	675				
+OIOADCLO_01607	CDS	675				hypothetical protein
+OIOADCLO_01608	gene	426				
+OIOADCLO_01608	CDS	426				single-stranded DNA-binding protein
+OIOADCLO_01609	gene	441				
+OIOADCLO_01609	CDS	441				hypothetical protein
+OIOADCLO_01610	gene	357				
+OIOADCLO_01610	CDS	357				hypothetical protein
+OIOADCLO_01611	gene	246				
+OIOADCLO_01611	CDS	246				hypothetical protein
+OIOADCLO_01612	gene	237				
+OIOADCLO_01612	CDS	237				hypothetical protein
+OIOADCLO_01613	gene	171				
+OIOADCLO_01613	CDS	171				hypothetical protein
+OIOADCLO_01614	gene	285				
+OIOADCLO_01614	CDS	285				hypothetical protein
+OIOADCLO_01615	gene	1197				
+OIOADCLO_01615	CDS	1197				CHAP domain-containing protein
+OIOADCLO_01616	gene	963				
+OIOADCLO_01616	CDS	963		2.7.6.1		ribose-phosphate diphosphokinase
+OIOADCLO_01617	gene	756	recO			
+OIOADCLO_01617	CDS	756	recO			DNA repair protein RecO
+OIOADCLO_01618	gene	1008	plsX			
+OIOADCLO_01618	CDS	1008	plsX	2.3.1.274		phosphate acyltransferase PlsX
+OIOADCLO_01619	gene	243				
+OIOADCLO_01619	CDS	243				phosphopantetheine-binding protein
+OIOADCLO_01620	gene	735				
+OIOADCLO_01620	CDS	735		6.3.2.6		phosphoribosylaminoimidazolesuccinocarboxamide synthase
+OIOADCLO_01621	gene	3774				
+OIOADCLO_01621	CDS	3774		6.3.5.3		phosphoribosylformylglycinamidine synthase
+OIOADCLO_01622	gene	1455	purF			
+OIOADCLO_01622	CDS	1455	purF	2.4.2.14		amidophosphoribosyltransferase
+OIOADCLO_01623	gene	1023	purM			
+OIOADCLO_01623	CDS	1023	purM	6.3.3.1		phosphoribosylformylglycinamidine cyclo-ligase
+OIOADCLO_01624	gene	555	purN			
+OIOADCLO_01624	CDS	555	purN	2.1.2.2		phosphoribosylglycinamide formyltransferase
+OIOADCLO_01625	gene	1548	purH			
+OIOADCLO_01625	CDS	1548	purH	2.1.2.3		bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+OIOADCLO_01626	gene	1125				
+OIOADCLO_01626	CDS	1125				SH3 domain-containing protein
+OIOADCLO_01627	gene	1266	purD			
+OIOADCLO_01627	CDS	1266	purD	6.3.4.13		phosphoribosylamine--glycine ligase
+OIOADCLO_01628	gene	612	purE			
+OIOADCLO_01628	CDS	612	purE	4.1.1.21		5-(carboxyamino)imidazole ribonucleotide mutase
+OIOADCLO_01629	gene	1077	purK			
+OIOADCLO_01629	CDS	1077	purK	6.3.4.18		5-(carboxyamino)imidazole ribonucleotide synthase
+OIOADCLO_01630	gene	1644				
+OIOADCLO_01630	CDS	1644				hypothetical protein
+OIOADCLO_01631	gene	1293	purB			
+OIOADCLO_01631	CDS	1293	purB	4.3.2.2		adenylosuccinate lyase
+OIOADCLO_01632	gene	912	rgg4			
+OIOADCLO_01632	CDS	912	rgg4			transcriptional regulator Rgg4/ComR
+OIOADCLO_01633	gene	96				
+OIOADCLO_01633	CDS	96				hypothetical protein
+OIOADCLO_01634	gene	999	ruvB			
+OIOADCLO_01634	CDS	999	ruvB	3.6.4.12		Holliday junction branch migration DNA helicase RuvB
+OIOADCLO_01635	gene	438				
+OIOADCLO_01635	CDS	438				low molecular weight phosphotyrosine protein phosphatase
+OIOADCLO_01636	gene	402				
+OIOADCLO_01636	CDS	402				membrane protein
+OIOADCLO_01637	gene	1776				
+OIOADCLO_01637	CDS	1776				acetyltransferase
+OIOADCLO_01638	gene	2643	adhE			
+OIOADCLO_01638	CDS	2643	adhE	1.1.1.1		bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+OIOADCLO_01639	gene	108				
+OIOADCLO_01639	CDS	108				hypothetical protein
+OIOADCLO_01640	gene	1017	adhP			
+OIOADCLO_01640	CDS	1017	adhP	1.1.1.1		alcohol dehydrogenase AdhP
+OIOADCLO_01641	gene	1293				
+OIOADCLO_01641	CDS	1293				MATE family efflux transporter
+OIOADCLO_01642	gene	309	rpsJ			
+OIOADCLO_01642	CDS	309	rpsJ			30S ribosomal protein S10
+OIOADCLO_01643	gene	627	rplC			
+OIOADCLO_01643	CDS	627	rplC			50S ribosomal protein L3
+OIOADCLO_01644	gene	624	rplD			
+OIOADCLO_01644	CDS	624	rplD			50S ribosomal protein L4
+OIOADCLO_01645	gene	297				
+OIOADCLO_01645	CDS	297				50S ribosomal protein L23
+OIOADCLO_01646	gene	834	rplB			
+OIOADCLO_01646	CDS	834	rplB			50S ribosomal protein L2
+OIOADCLO_01647	gene	279	rpsS			
+OIOADCLO_01647	CDS	279	rpsS			30S ribosomal protein S19
+OIOADCLO_01648	gene	345	rplV			
+OIOADCLO_01648	CDS	345	rplV			50S ribosomal protein L22
+OIOADCLO_01649	gene	654	rpsC			
+OIOADCLO_01649	CDS	654	rpsC			30S ribosomal protein S3
+OIOADCLO_01650	gene	414	rplP			
+OIOADCLO_01650	CDS	414	rplP			50S ribosomal protein L16
+OIOADCLO_01651	gene	207	rpmC			
+OIOADCLO_01651	CDS	207	rpmC			50S ribosomal protein L29
+OIOADCLO_01652	gene	261	rpsQ			
+OIOADCLO_01652	CDS	261	rpsQ			30S ribosomal protein S17
+OIOADCLO_01653	gene	369	rplN			
+OIOADCLO_01653	CDS	369	rplN			50S ribosomal protein L14
+OIOADCLO_01654	gene	306	rplX			
+OIOADCLO_01654	CDS	306	rplX			50S ribosomal protein L24
+OIOADCLO_01655	gene	543	rplE			
+OIOADCLO_01655	CDS	543	rplE			50S ribosomal protein L5
+OIOADCLO_01656	gene	186				
+OIOADCLO_01656	CDS	186				type Z 30S ribosomal protein S14
+OIOADCLO_01657	gene	399	rpsH			
+OIOADCLO_01657	CDS	399	rpsH			30S ribosomal protein S8
+OIOADCLO_01658	gene	537	rplF			
+OIOADCLO_01658	CDS	537	rplF			50S ribosomal protein L6
+OIOADCLO_01659	gene	357	rplR			
+OIOADCLO_01659	CDS	357	rplR			50S ribosomal protein L18
+OIOADCLO_01660	gene	495	rpsE			
+OIOADCLO_01660	CDS	495	rpsE			30S ribosomal protein S5
+OIOADCLO_01661	gene	183	rpmD			
+OIOADCLO_01661	CDS	183	rpmD			50S ribosomal protein L30
+OIOADCLO_01662	gene	441	rplO			
+OIOADCLO_01662	CDS	441	rplO			50S ribosomal protein L15
+OIOADCLO_01663	gene	1305	secY			
+OIOADCLO_01663	CDS	1305	secY			preprotein translocase subunit SecY
+OIOADCLO_01664	gene	639				
+OIOADCLO_01664	CDS	639		2.7.4.3		adenylate kinase
+OIOADCLO_01665	gene	219	infA			
+OIOADCLO_01665	CDS	219	infA			translation initiation factor IF-1
+OIOADCLO_01666	gene	117	rpmJ			
+OIOADCLO_01666	CDS	117	rpmJ			50S ribosomal protein L36
+OIOADCLO_01667	gene	366	rpsM			
+OIOADCLO_01667	CDS	366	rpsM			30S ribosomal protein S13
+OIOADCLO_01668	gene	384	rpsK			
+OIOADCLO_01668	CDS	384	rpsK			30S ribosomal protein S11
+OIOADCLO_01669	gene	939				
+OIOADCLO_01669	CDS	939		2.7.7.6		DNA-directed RNA polymerase subunit alpha
+OIOADCLO_01670	gene	387	rplQ			
+OIOADCLO_01670	CDS	387	rplQ			50S ribosomal protein L17
+OIOADCLO_01671	gene	294				
+OIOADCLO_01671	CDS	294				IS3 family transposase ISSpy1
+OIOADCLO_01672	gene	1314				
+OIOADCLO_01672	CDS	1314				chloride channel protein
+OIOADCLO_01673	gene	960	nrdF_2			
+OIOADCLO_01673	CDS	960	nrdF_2	1.17.4.1		class 1b ribonucleoside-diphosphate reductase subunit beta
+OIOADCLO_01674	gene	2160	nrdE_2			
+OIOADCLO_01674	CDS	2160	nrdE_2	1.17.4.1		class 1b ribonucleoside-diphosphate reductase subunit alpha
+OIOADCLO_01675	gene	219	nrdH			
+OIOADCLO_01675	CDS	219	nrdH			glutaredoxin-like protein NrdH
+OIOADCLO_01676	gene	264				
+OIOADCLO_01676	CDS	264				phosphocarrier protein HPr
+OIOADCLO_01677	gene	1734	ptsP			
+OIOADCLO_01677	CDS	1734	ptsP	2.7.3.9		phosphoenolpyruvate--protein phosphotransferase
+OIOADCLO_01678	gene	1428				
+OIOADCLO_01678	CDS	1428				NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+OIOADCLO_01679	gene	1275				
+OIOADCLO_01679	CDS	1275				polysaccharide deacetylase family protein
+OIOADCLO_01680	gene	1086				
+OIOADCLO_01680	CDS	1086				DEAD/DEAH box helicase
+OIOADCLO_01681	gene	627	udk			
+OIOADCLO_01681	CDS	627	udk	2.7.1.48		uridine kinase
+OIOADCLO_01682	gene	264				
+OIOADCLO_01682	CDS	264				hypothetical protein
+OIOADCLO_01683	gene	810				
+OIOADCLO_01683	CDS	810				PrsW family intramembrane metalloprotease
+OIOADCLO_01684	gene	498				
+OIOADCLO_01684	CDS	498				GAF domain-containing protein
+OIOADCLO_01685	gene	1671	dnaX			
+OIOADCLO_01685	CDS	1671	dnaX	2.7.7.7		DNA polymerase III subunit gamma/tau
+OIOADCLO_01686	gene	942	birA			
+OIOADCLO_01686	CDS	942	birA	6.3.4.15		bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA
+OIOADCLO_01687	gene	2379				
+OIOADCLO_01687	CDS	2379				leucine-rich repeat domain-containing protein
+OIOADCLO_01688	gene	1197	metK			
+OIOADCLO_01688	CDS	1197	metK	2.5.1.6		methionine adenosyltransferase
+OIOADCLO_01689	gene	1260				
+OIOADCLO_01689	CDS	1260		2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OIOADCLO_01690	gene	654				
+OIOADCLO_01690	CDS	654				hypothetical protein
+OIOADCLO_01691	gene	543				
+OIOADCLO_01691	CDS	543				GNAT family N-acetyltransferase
+OIOADCLO_01692	gene	1284	spxR			
+OIOADCLO_01692	CDS	1284	spxR			CBS-HotDog domain-containing transcription factor SpxR
+OIOADCLO_01693	gene	861				
+OIOADCLO_01693	CDS	861				methionyl aminopeptidase
+OIOADCLO_01694	gene	966				
+OIOADCLO_01694	CDS	966				YihY/virulence factor BrkB family protein
+OIOADCLO_01695	gene	1284	aroA			
+OIOADCLO_01695	CDS	1284	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+OIOADCLO_01696	gene	492				
+OIOADCLO_01696	CDS	492				shikimate kinase
+OIOADCLO_01697	gene	1452				
+OIOADCLO_01697	CDS	1452				LCP family protein
+OIOADCLO_01698	gene	1356	rlmD_2			
+OIOADCLO_01698	CDS	1356	rlmD_2	2.1.1.190		23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+OIOADCLO_01699	gene	513	deoD_2			
+OIOADCLO_01699	CDS	513	deoD_2	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+OIOADCLO_01700	gene	402				
+OIOADCLO_01700	CDS	402				PaaI family thioesterase
+OIOADCLO_01701	gene	1485				
+OIOADCLO_01701	CDS	1485				hypothetical protein
+OIOADCLO_01702	gene	1221				
+OIOADCLO_01702	CDS	1221				MFS transporter
+OIOADCLO_01703	gene	366				
+OIOADCLO_01703	CDS	366				thioesterase family protein
+OIOADCLO_01704	gene	732				
+OIOADCLO_01704	CDS	732				rRNA pseudouridine synthase
+OIOADCLO_01705	gene	528				
+OIOADCLO_01705	CDS	528				YqeG family HAD IIIA-type phosphatase
+OIOADCLO_01706	gene	1119	yqeH			
+OIOADCLO_01706	CDS	1119	yqeH			ribosome biogenesis GTPase YqeH
+OIOADCLO_01707	gene	309	yhbY			
+OIOADCLO_01707	CDS	309	yhbY			ribosome assembly RNA-binding protein YhbY
+OIOADCLO_01708	gene	633				
+OIOADCLO_01708	CDS	633		2.7.7.18		nicotinate-nucleotide adenylyltransferase
+OIOADCLO_01709	gene	594	yqeK			
+OIOADCLO_01709	CDS	594	yqeK	3.6.1.41		bis(5'-nucleosyl)-tetraphosphatase (symmetrical) YqeK
+OIOADCLO_01710	gene	378	rsfS			
+OIOADCLO_01710	CDS	378	rsfS			ribosome silencing factor
+OIOADCLO_01711	gene	744				
+OIOADCLO_01711	CDS	744				class I SAM-dependent methyltransferase
+OIOADCLO_01712	gene	1107				
+OIOADCLO_01712	CDS	1107				nucleotidyltransferase
+OIOADCLO_01713	gene	717				
+OIOADCLO_01713	CDS	717				YebC/PmpR family DNA-binding transcriptional regulator
+OIOADCLO_01714	gene	843				
+OIOADCLO_01714	CDS	843				amino acid ABC transporter substrate-binding protein
+OIOADCLO_01715	gene	846				
+OIOADCLO_01715	CDS	846				MetQ/NlpA family ABC transporter substrate-binding protein
+OIOADCLO_01716	gene	1065				
+OIOADCLO_01716	CDS	1065				methionine ABC transporter ATP-binding protein
+OIOADCLO_01717	gene	693				
+OIOADCLO_01717	CDS	693				ABC transporter permease
+OIOADCLO_01718	gene	1371	brnQ			
+OIOADCLO_01718	CDS	1371	brnQ			branched-chain amino acid transport system II carrier protein
+OIOADCLO_01719	gene	1215	sstT			
+OIOADCLO_01719	CDS	1215	sstT			serine/threonine transporter SstT
+OIOADCLO_01720	gene	675	ktrA			
+OIOADCLO_01720	CDS	675	ktrA			potassium uptake transporter gating subunit KtrA
+OIOADCLO_01721	gene	1392	ktrB			
+OIOADCLO_01721	CDS	1392	ktrB			potassium uptake transporter channel subunit KtrB
+OIOADCLO_01722	gene	714	rsmG			
+OIOADCLO_01722	CDS	714	rsmG	2.1.1.170		16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+OIOADCLO_01723	gene	558				
+OIOADCLO_01723	CDS	558				LemA family protein
+OIOADCLO_01724	gene	897	htpX			
+OIOADCLO_01724	CDS	897	htpX	3.4.24.-		zinc metalloprotease HtpX
+OIOADCLO_01725	gene	534				
+OIOADCLO_01725	CDS	534				hypothetical protein
+OIOADCLO_01726	gene	687	covR			
+OIOADCLO_01726	CDS	687	covR			two-component system response regulator CovR
+OIOADCLO_01727	gene	1503	covS			
+OIOADCLO_01727	CDS	1503	covS			two-component system sensor histidine kinase CovS
+OIOADCLO_01728	gene	495	nrdR			
+OIOADCLO_01728	CDS	495	nrdR			transcriptional regulator NrdR
+OIOADCLO_01729	gene	1173				
+OIOADCLO_01729	CDS	1173				replication initiation and membrane attachment family protein
+OIOADCLO_01730	gene	903	dnaI			
+OIOADCLO_01730	CDS	903	dnaI			primosomal protein DnaI
+OIOADCLO_01731	gene	1311	der			
+OIOADCLO_01731	CDS	1311	der	3.6.5.-		ribosome biogenesis GTPase Der
+OIOADCLO_01732	gene	3096				
+OIOADCLO_01732	CDS	3096				DEAD/DEAH box helicase
+OIOADCLO_01733	gene	603				
+OIOADCLO_01733	CDS	603				hypothetical protein
+OIOADCLO_01734	gene	1329	murC			
+OIOADCLO_01734	CDS	1329	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+OIOADCLO_01735	gene	483				
+OIOADCLO_01735	CDS	483		2.3.1.-		GNAT family N-acetyltransferase
+OIOADCLO_01736	gene	1569	mltG			
+OIOADCLO_01736	CDS	1569	mltG			endolytic transglycosylase MltG
+OIOADCLO_01737	gene	483	greA			
+OIOADCLO_01737	CDS	483	greA			transcription elongation factor GreA
+OIOADCLO_01738	gene	924	yidC			
+OIOADCLO_01738	CDS	924	yidC			membrane protein insertase YidC
+OIOADCLO_01739	gene	279				
+OIOADCLO_01739	CDS	279				acylphosphatase
+OIOADCLO_01740	gene	864				
+OIOADCLO_01740	CDS	864				hypothetical protein
+OIOADCLO_01741	gene	1143	tgt			
+OIOADCLO_01741	CDS	1143	tgt	2.4.2.29		tRNA guanosine(34) transglycosylase Tgt
+OIOADCLO_01742	gene	312				
+OIOADCLO_01742	CDS	312				CHY zinc finger protein
+OIOADCLO_01743	gene	540				
+OIOADCLO_01743	CDS	540				biotin transporter BioY
+OIOADCLO_01744	gene	780				
+OIOADCLO_01744	CDS	780				MBL fold metallo-hydrolase
+OIOADCLO_01745	gene	516	tadA_2			
+OIOADCLO_01745	CDS	516	tadA_2	3.5.4.33		tRNA adenosine(34) deaminase TadA
+OIOADCLO_01746	gene	1221				
+OIOADCLO_01746	CDS	1221				putative protein involved in cytokinesis, contains TGc (transglutaminase/protease-like) domain
+OIOADCLO_01747	gene	705	speG			
+OIOADCLO_01747	CDS	705	speG			streptococcal pyrogenic exotoxin SpeG
+OIOADCLO_01748	gene	120				
+OIOADCLO_01748	CDS	120				hypothetical protein
+OIOADCLO_01749	gene	1350				
+OIOADCLO_01749	CDS	1350		5.3.1.9		glucose-6-phosphate isomerase
+OIOADCLO_01750	gene	1509				
+OIOADCLO_01750	CDS	1509				helix-turn-helix domain-containing protein
+OIOADCLO_01751	gene	132				
+OIOADCLO_01751	CDS	132				hypothetical protein
+OIOADCLO_01752	gene	189	rpmB			
+OIOADCLO_01752	CDS	189	rpmB			50S ribosomal protein L28
+OIOADCLO_01753	gene	882				
+OIOADCLO_01753	CDS	882				fructose-bisphosphate aldolase
+OIOADCLO_01754	gene	86				
+OIOADCLO_01754	tRNA	86				tRNA-Leu(aag)
+OIOADCLO_01755	gene	927				
+OIOADCLO_01755	CDS	927				alpha/beta hydrolase
+OIOADCLO_01756	gene	1605				
+OIOADCLO_01756	CDS	1605		6.3.4.2		CTP synthase
+OIOADCLO_01757	gene	576	rpoE			
+OIOADCLO_01757	CDS	576	rpoE	2.7.7.6		DNA-directed RNA polymerase subunit delta
+OIOADCLO_01758	gene	1284	tig			
+OIOADCLO_01758	CDS	1284	tig	5.2.1.8		trigger factor
+OIOADCLO_01759	gene	846				
+OIOADCLO_01759	CDS	846				mechanosensitive ion channel family protein
+OIOADCLO_01760	gene	561				
+OIOADCLO_01760	CDS	561				TIGR01440 family protein
+OIOADCLO_01761	gene	471				
+OIOADCLO_01761	CDS	471				ECF transporter S component
+OIOADCLO_01762	gene	765				
+OIOADCLO_01762	CDS	765		2.7.1.49		bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+OIOADCLO_01763	gene	750	truA			
+OIOADCLO_01763	CDS	750	truA	5.4.99.12		tRNA pseudouridine(38-40) synthase TruA
+OIOADCLO_01764	gene	486				
+OIOADCLO_01764	CDS	486				sigma-70 family RNA polymerase sigma factor
+OIOADCLO_01765	gene	74				
+OIOADCLO_01765	tRNA	74				tRNA-Arg(acg)
+OIOADCLO_01766	gene	74				
+OIOADCLO_01766	tRNA	74				tRNA-Asn(gtt)
+OIOADCLO_01767	gene	110				
+OIOADCLO_01767	rRNA	110				5S ribosomal RNA
+OIOADCLO_01768	gene	110				
+OIOADCLO_01768	rRNA	110				5S ribosomal RNA
+OIOADCLO_01769	gene	2898				
+OIOADCLO_01769	rRNA	2898				23S ribosomal RNA
+OIOADCLO_01770	gene	76				
+OIOADCLO_01770	tRNA	76				tRNA-Ala(tgc)
+OIOADCLO_01771	gene	1545				
+OIOADCLO_01771	rRNA	1545				16S ribosomal RNA
+OIOADCLO_01772	gene	216				
+OIOADCLO_01772	CDS	216				hypothetical protein
+OIOADCLO_01773	gene	1311				
+OIOADCLO_01773	CDS	1311				SLC13 family permease
+OIOADCLO_01774	gene	873	nadC			
+OIOADCLO_01774	CDS	873	nadC	2.4.2.19		carboxylating nicotinate-nucleotide diphosphorylase
+OIOADCLO_01775	gene	90				
+OIOADCLO_01775	tRNA	90				tRNA-Ser(gct)
+OIOADCLO_01776	gene	76				
+OIOADCLO_01776	tRNA	76				tRNA-Ile(gat)
+OIOADCLO_01777	gene	71				
+OIOADCLO_01777	tRNA	71				tRNA-Gly(tcc)
+OIOADCLO_01778	gene	75				
+OIOADCLO_01778	tRNA	75				tRNA-Phe(gaa)
+OIOADCLO_01779	gene	76				
+OIOADCLO_01779	tRNA	76				tRNA-Met(cat)
+OIOADCLO_01780	gene	90				
+OIOADCLO_01780	tRNA	90				tRNA-Ser(tga)
+OIOADCLO_01781	gene	74				
+OIOADCLO_01781	tRNA	74				tRNA-Met(cat)
+OIOADCLO_01782	gene	76				
+OIOADCLO_01782	tRNA	76				tRNA-Met(cat)
+OIOADCLO_01783	gene	76				
+OIOADCLO_01783	tRNA	76				tRNA-Pro(tgg)
+OIOADCLO_01784	gene	74				
+OIOADCLO_01784	tRNA	74				tRNA-Arg(acg)
+OIOADCLO_01785	gene	85				
+OIOADCLO_01785	tRNA	85				tRNA-Leu(taa)
+OIOADCLO_01786	gene	72				
+OIOADCLO_01786	tRNA	72				tRNA-Gly(gcc)
+OIOADCLO_01787	gene	73				
+OIOADCLO_01787	tRNA	73				tRNA-Thr(tgt)
+OIOADCLO_01788	gene	1557				
+OIOADCLO_01788	CDS	1557				amino acid permease
+OIOADCLO_01789	gene	516				
+OIOADCLO_01789	CDS	516				IS3 family transposase
+OIOADCLO_01790	gene	1134				
+OIOADCLO_01790	CDS	1134				ISAs1-like element IS1548 family transposase
+OIOADCLO_01791	gene	459				
+OIOADCLO_01791	CDS	459				IS3 family transposase
+OIOADCLO_01792	gene	74				
+OIOADCLO_01792	tRNA	74				tRNA-Glu(ttc)
+OIOADCLO_01793	gene	90				
+OIOADCLO_01793	tRNA	90				tRNA-Ser(tga)
+OIOADCLO_01794	gene	73				
+OIOADCLO_01794	tRNA	73				tRNA-Gly(tcc)
+OIOADCLO_01795	gene	75				
+OIOADCLO_01795	tRNA	75				tRNA-Val(tac)
+OIOADCLO_01796	gene	76				
+OIOADCLO_01796	tRNA	76				tRNA-Pro(tgg)
+OIOADCLO_01797	gene	76				
+OIOADCLO_01797	tRNA	76				tRNA-Ile(gat)

@@ -1,0 +1,37 @@
+Command line: /Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/spades.py	-o	/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_assembly	-1	/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_trimmed_paired_1.fastq.gz	-2	/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_trimmed_paired_2.fastq.gz	--cov-cutoff	auto	
+
+System information:
+  SPAdes version: 3.15.2
+  Python version: 3.7.7
+  OS: Darwin-21.4.0-x86_64-i386-64bit
+
+Output dir: /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_assembly
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_trimmed_paired_1.fastq.gz']
+      right reads: ['/Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_trimmed_paired_2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset will be auto-detected
+  Corrected reads will be compressed
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned ON and threshold will be auto-detected
+Other parameters:
+  Dir for temp files: /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_assembly/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+

@@ -1,0 +1,66 @@
+/Users/egon/opt/anaconda3/envs/cpgme_workshop/bin/quast GAS_assembly/contigs.fasta
+
+Version: 5.0.2
+
+System information:
+  OS: Darwin-21.4.0-x86_64-i386-64bit (macosx)
+  Python version: 3.7.7
+  CPUs number: 16
+
+Started: 2022-05-03 18:06:37
+
+Logging to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/quast.log
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+
+CWD: /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data
+Main parameters: 
+  MODE: default, threads: 4, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  GAS_assembly/contigs.fasta ==> contigs
+
+2022-05-03 18:06:42
+Running Basic statistics processor...
+  Contig files: 
+    contigs
+  Calculating N50 and L50...
+    contigs, N50 = 203854, L50 = 3, Total length = 1800866, GC % = 38.37, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/basic_stats/GC_content_plot.pdf
+  Drawing contigs GC content plot...
+    saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/basic_stats/contigs_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 4x)...
+    saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/basic_stats/coverage_histogram.pdf
+  Drawing contigs coverage histogram (bin size: 4x)...
+    saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/basic_stats/contigs_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2022-05-03 18:06:43
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2022-05-03 18:06:44
+RESULTS:
+  Text versions of total report are saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/report.html
+  PDF version (tables and plots) is saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/report.pdf
+  Icarus (contig browser) is saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/icarus.html
+  Log is saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/quast_results/results_2022_05_03_18_06_37/quast.log
+
+Finished: 2022-05-03 18:06:44
+Elapsed time: 0:00:06.951407
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

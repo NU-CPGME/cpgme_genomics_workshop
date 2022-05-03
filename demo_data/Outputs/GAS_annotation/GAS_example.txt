@@ -1,0 +1,9 @@
+organism: Streptococcus pyogenes strain 
+contigs: 30
+bases: 1802308
+CDS: 1744
+gene: 1797
+rRNA: 5
+repeat_region: 2
+tRNA: 47
+tmRNA: 1

@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:12.684    20M / 396M  WARN    General                 (pair_info_count.cpp       : 377)   Estimated mean insert size 311.522 is very small compared to read length 301
+======= Warnings saved to /Users/egon/Documents/Center_for_Pathogen_Genomics_and_Microbial_Evolution/2022_CPGME_symposium/github_workshop/cpgme_genomics_workshop/demo_data/GAS_assembly/warnings.log
