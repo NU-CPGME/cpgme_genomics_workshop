@@ -9,13 +9,30 @@
 
 # Section 1 - Last-minute fixes and download example files
 
-```
-conda install -y -c conda-forge -c bioconda prokka=1.14.6 snippy=4.6.0 snpEff=4 biopython=1.76 quast
-```
+## Section 1.1 Hot Fixes
 
+1. Open up your Terminal 
+2. Activate the conda environment: 
+    
+    ```
+    conda activate cpgme_workshop
+    ```
+3. Enter the following command to update your software and add a few missing items:    
 
+    ```
+    conda install -y -c conda-forge -c bioconda prokka=1.14.6 snippy=4.6.0 snpEff=4 biopython=1.76 quast
+    ```
 
+## Section 1.2 Download data
 
+1. Use this link to download the demo data folder to your computer:
+
+    ### [Download data](https://downgit.github.io/#/home?url=https://github.com/NU-CPGME/cpgme_genomics_workshop/tree/main/demo_data) 
+
+2. Unzip the folder called **demo_data** and move it somewhere you can find it easily, like your desktop.
+3. Navigate your Terminal into the folder either by typing `cd` in your terminal (followed by a space) and dragging the folder icon into the terminal or by typing `cd /path/to/folder` where /path/to/folder is the absolute or relative path to the folder
+
+Ready to go!
 
 ---
 
