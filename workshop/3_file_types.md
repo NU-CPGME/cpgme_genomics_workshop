@@ -11,7 +11,7 @@
 
 There are a certain file types you can expect to encounter consistently when working with sequencing and genomics data. This is not intended to be an exhaustive list, but more if a quick introduction and a reference. 
 
-### Section 3.1 [FASTA](https://en.wikipedia.org/wiki/FASTA_format)
+## Section 3.1 [FASTA](https://en.wikipedia.org/wiki/FASTA_format)
 
 FASTA format is the most widely used file format for storing sequence data. 
 
@@ -73,7 +73,7 @@ TVQQPTSKRSSDKKEEQEQSYSPNRSLSRQVRAHESGKYLPSTGEKAQPLFIATMTLMSLFGSLLVTKRQ
 KETKK
 ```
 
-### Section 3.2 [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
+## Section 3.2 [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format)
 
 FASTQ files usually contain sequence read data. 
 
@@ -99,7 +99,7 @@ NTAACGTCAATTTCCTGCTGATTTCCAAAACGGATAACCATCTGATTTTCTGGAAGATATGGGTCAATAATCGGATCTCC
 
 Each letter in line 4 represents the "Phred" quality score for its corresponding base in line 2. The letters can be translated to values indicating the probability that the corresponding base is incorrectly called. These values are assigned by the sequencing instrument during the sequencing and base-calling process. For more info on Phred scores, see [here](https://en.wikipedia.org/wiki/FASTQ_format).  
 
-### Section 3.3 [GenBank](https://www.ncbi.nlm.nih.gov/Sitemap/samplerecord.html)
+## Section 3.3 [GenBank](https://www.ncbi.nlm.nih.gov/Sitemap/samplerecord.html)
 
 GenBank-formatted files(.gbk), sometimes referred to as GenBank Flat Files (.gbff), are used for storing detailed annotation data and other metadata about a sequence as well as often the nucleotide sequence itself. These files can contain information about a single gene or an entire genome. 
 
@@ -207,7 +207,7 @@ ORIGIN
 Like FASTA files, GenBank files can also contain information about multiple separate sequences. Information belonging to separate sequences are separated by lines containing two forward slashes `//`
 There is nice example GenBank file and detailed explainer at NCBI [here](https://www.ncbi.nlm.nih.gov/Sitemap/samplerecord.html).
 
-### Section 3.4 [SAM / BAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
+## Section 3.4 [SAM / BAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
 
 SAM-formatted files are used to store read alignment information. 
 
@@ -240,7 +240,7 @@ M01915:185:000000000-JLJ5N:1:1115:16084:21280   83      NZ_CP010450     2747    
 
 BAM files contain the same data as SAM files, but are converted to a binary format to reduce storage requirements as well as for more rapid access by programs that read alignment data. Unlike a SAM file, you won't be able to open and read a BAM file in a text editing program.  
 
-### Section 3.5 Tree files
+## Section 3.5 Tree files
 
 There are a number of differnt formats for storing phylogenetic trees or other relational data. One of the most common and simplest formats is [Newick format](https://evolution.genetics.washington.edu/phylip/newicktree.html). A relative of the Newick tree files is the [Nexus](https://en.wikipedia.org/wiki/Nexus_file) format which contains a newick-formatted tree but can also encode other data associated with the tree. 
 
