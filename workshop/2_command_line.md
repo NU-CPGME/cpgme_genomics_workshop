@@ -11,12 +11,12 @@
 
 This section is to introduce you to basic operations in the command line. These commands may or may not be specific to Mac and Linux operating environments. To use a Linux environment in Windows, follow these instructions to install Windows Subsystem for Linux (WSL): <https://docs.microsoft.com/en-us/windows/wsl/install> 
 
-### Section 2.1 `ls`
+## Section 2.1 `ls`
 
 The `ls` command is used to list the contents of a directory. If you use the `ls -l` command, you'll get a lot more information about the contents such as whether an item is a file or directory and how big the file is, etc.
 
 
-### Section 2.2 `cd`
+## Section 2.2 `cd`
 
 The `cd` command is used to change directories. 
 
@@ -25,19 +25,19 @@ The `cd` command is used to change directories.
 * You can move down multiple directories by listing the path you'd like to take. For example:`cd directory1/directory2/directory3` 
 * Most terminal programs will allow you to drag a file or folder into the terminal. So if you'd like to cd into a folder in your Finder window, for example, you can type `cd ` (followed by a space) in your terminal, then use your mouse to drag the folder into the Terminal window and hit Enter. 
 
-### Section 2.3 `pwd`
+## Section 2.3 `pwd`
 
 The `pwd` command will tell you your present working directory. Helps keep you from getting lost sometimes.  
 
-### Section 2.4 `mkdir`
+## Section 2.4 `mkdir`
 
 The `mkdir` command will create a new directory. For example, if you want to create a directory called "output" in your current directory, just type `mkdir output`
 
-### Section 2.5 `cat`
+## Section 2.5 `cat`
 
 The `cat` command is short for "concatenate", but it's mostly used for displaying a text-based file to your terminal window. Careful, this command dumps the entire contents of the file to your Terminal so if it's a large file (like a genome sequence file, for example), it could take a while to print everything. Unless the file you are looking at is very short, you may be better off using `less` (described below).
 
-### Section 2.6 `less`
+## Section 2.6 `less`
 
 The `less` command allows you to look at the contents of a file in your Terminal without printing the whole thing at once.
 
@@ -45,14 +45,14 @@ The `less` command allows you to look at the contents of a file in your Terminal
 * Use the **arrow keys** to scroll up or down one line at a time or use the **space bar** to scroll down several lines at a time 
 * To exit the `less` screen, hit the `q` key (without shift)
 
-### Section 2.7 Redirection, or `>`
+## Section 2.7 Redirection, or `>`
 
 If you want to direct the output of a command that usually prints to the screen to a file instead, just use the redirect character `>` at the end of the command and type a file name to direct the file to.
 
 * Example: `cat genome.fasta > new_file.fasta`
 * **WARNING**: If you redirect to an existing file, it will be overwritten by the new file. The overwritten data will not be able to be recovered. 
 
-### Section 2.8 `gzip`
+## Section 2.8 `gzip`
 
 Gzip compression software is not necessarily a standard program, but is so widely distributed that it's more likely than not that it is part of your distribution. It comes standard on Mac and almost all flavors of Linux. Gzip is used to compress files to save space and decompress them when needed.
 
